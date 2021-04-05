@@ -1,0 +1,10448 @@
+[
+  {
+    "zip": 90011,
+    "city": "Los Angeles",
+    "county": "Los Angeles",
+    "pop": 111165
+  },
+  {
+    "zip": 91331,
+    "city": "Pacoima",
+    "county": "Los Angeles",
+    "pop": 105458
+  },
+  {
+    "zip": 90650,
+    "city": "Norwalk",
+    "county": "Los Angeles",
+    "pop": 105304
+  },
+  {
+    "zip": 90201,
+    "city": "Bell",
+    "county": "Los Angeles",
+    "pop": 101965
+  },
+  {
+    "zip": 90044,
+    "city": "Los Angeles",
+    "county": "Los Angeles",
+    "pop": 99443
+  },
+  {
+    "zip": 92335,
+    "city": "Fontana",
+    "county": "San Bernardino",
+    "pop": 99306
+  },
+  {
+    "zip": 92336,
+    "city": "Fontana",
+    "county": "San Bernardino",
+    "pop": 98346
+  },
+  {
+    "zip": 94565,
+    "city": "Pittsburg",
+    "county": "Contra Costa",
+    "pop": 97671
+  },
+  {
+    "zip": 90250,
+    "city": "Hawthorne",
+    "county": "Los Angeles",
+    "pop": 97072
+  },
+  {
+    "zip": 90805,
+    "city": "Long Beach",
+    "county": "Los Angeles",
+    "pop": 95995
+  },
+  {
+    "zip": 92503,
+    "city": "Riverside",
+    "county": "Riverside",
+    "pop": 95551
+  },
+  {
+    "zip": 90280,
+    "city": "South Gate",
+    "county": "Los Angeles",
+    "pop": 94642
+  },
+  {
+    "zip": 91342,
+    "city": "Sylmar",
+    "county": "Los Angeles",
+    "pop": 94595
+  },
+  {
+    "zip": 91710,
+    "city": "Chino",
+    "county": "San Bernardino",
+    "pop": 91773
+  },
+  {
+    "zip": 92683,
+    "city": "Westminster",
+    "county": "Orange",
+    "pop": 91105
+  },
+  {
+    "zip": 92804,
+    "city": "Anaheim",
+    "county": "Orange",
+    "pop": 89915
+  },
+  {
+    "zip": 92154,
+    "city": "San Diego",
+    "county": "San Diego",
+    "pop": 88979
+  },
+  {
+    "zip": 92704,
+    "city": "Santa Ana",
+    "county": "Orange",
+    "pop": 88321
+  },
+  {
+    "zip": 95076,
+    "city": "Watsonville",
+    "county": "Santa Cruz",
+    "pop": 86905
+  },
+  {
+    "zip": 93307,
+    "city": "Bakersfield",
+    "county": "Kern",
+    "pop": 86832
+  },
+  {
+    "zip": 92376,
+    "city": "Rialto",
+    "county": "San Bernardino",
+    "pop": 86085
+  },
+  {
+    "zip": 91744,
+    "city": "La Puente",
+    "county": "Los Angeles",
+    "pop": 85421
+  },
+  {
+    "zip": 92592,
+    "city": "Temecula",
+    "county": "Riverside",
+    "pop": 84930
+  },
+  {
+    "zip": 94112,
+    "city": "San Francisco",
+    "county": "San Francisco",
+    "pop": 84707
+  },
+  {
+    "zip": 93033,
+    "city": "Oxnard",
+    "county": "Ventura",
+    "pop": 84701
+  },
+  {
+    "zip": 93722,
+    "city": "Fresno",
+    "county": "Fresno",
+    "pop": 84621
+  },
+  {
+    "zip": 93727,
+    "city": "Fresno",
+    "county": "Fresno",
+    "pop": 84449
+  },
+  {
+    "zip": 91911,
+    "city": "Chula Vista",
+    "county": "San Diego",
+    "pop": 84026
+  },
+  {
+    "zip": 92126,
+    "city": "San Diego",
+    "county": "San Diego",
+    "pop": 82658
+  },
+  {
+    "zip": 92345,
+    "city": "Hesperia",
+    "county": "San Bernardino",
+    "pop": 82110
+  },
+  {
+    "zip": 91335,
+    "city": "Reseda",
+    "county": "Los Angeles",
+    "pop": 81824
+  },
+  {
+    "zip": 92509,
+    "city": "Riverside",
+    "county": "Riverside",
+    "pop": 81383
+  },
+  {
+    "zip": 91709,
+    "city": "Chino Hills",
+    "county": "San Bernardino",
+    "pop": 80701
+  },
+  {
+    "zip": 94544,
+    "city": "Hayward",
+    "county": "Alameda",
+    "pop": 79747
+  },
+  {
+    "zip": 95035,
+    "city": "Milpitas",
+    "county": "Santa Clara",
+    "pop": 79655
+  },
+  {
+    "zip": 95823,
+    "city": "Sacramento",
+    "county": "Sacramento",
+    "pop": 79440
+  },
+  {
+    "zip": 95630,
+    "city": "Folsom",
+    "county": "Sacramento",
+    "pop": 78159
+  },
+  {
+    "zip": 93550,
+    "city": "Palmdale",
+    "county": "Los Angeles",
+    "pop": 77506
+  },
+  {
+    "zip": 90706,
+    "city": "Bellflower",
+    "county": "Los Angeles",
+    "pop": 77195
+  },
+  {
+    "zip": 91706,
+    "city": "Baldwin Park",
+    "county": "Los Angeles",
+    "pop": 76930
+  },
+  {
+    "zip": 93257,
+    "city": "Porterville",
+    "county": "Tulare",
+    "pop": 76519
+  },
+  {
+    "zip": 92553,
+    "city": "Moreno Valley",
+    "county": "Riverside",
+    "pop": 76102
+  },
+  {
+    "zip": 94533,
+    "city": "Fairfield",
+    "county": "Solano",
+    "pop": 75909
+  },
+  {
+    "zip": 90255,
+    "city": "Huntington Park",
+    "county": "Los Angeles",
+    "pop": 75019
+  },
+  {
+    "zip": 91910,
+    "city": "Chula Vista",
+    "county": "San Diego",
+    "pop": 74855
+  },
+  {
+    "zip": 94536,
+    "city": "Fremont",
+    "county": "Alameda",
+    "pop": 74837
+  },
+  {
+    "zip": 94587,
+    "city": "Union City",
+    "county": "Alameda",
+    "pop": 74722
+  },
+  {
+    "zip": 92805,
+    "city": "Anaheim",
+    "county": "Orange",
+    "pop": 74478
+  },
+  {
+    "zip": 93535,
+    "city": "Lancaster",
+    "county": "Los Angeles",
+    "pop": 74264
+  },
+  {
+    "zip": 93274,
+    "city": "Tulare",
+    "county": "Tulare",
+    "pop": 74000
+  },
+  {
+    "zip": 90003,
+    "city": "Los Angeles",
+    "county": "Los Angeles",
+    "pop": 73730
+  },
+  {
+    "zip": 92105,
+    "city": "San Diego",
+    "county": "San Diego",
+    "pop": 73623
+  },
+  {
+    "zip": 92882,
+    "city": "Corona",
+    "county": "Riverside",
+    "pop": 73250
+  },
+  {
+    "zip": 91730,
+    "city": "Rancho Cucamonga",
+    "county": "San Bernardino",
+    "pop": 72407
+  },
+  {
+    "zip": 94110,
+    "city": "San Francisco",
+    "county": "San Francisco",
+    "pop": 72380
+  },
+  {
+    "zip": 91766,
+    "city": "Pomona",
+    "county": "Los Angeles",
+    "pop": 72348
+  },
+  {
+    "zip": 93306,
+    "city": "Bakersfield",
+    "county": "Kern",
+    "pop": 72280
+  },
+  {
+    "zip": 91402,
+    "city": "Panorama City",
+    "county": "Los Angeles",
+    "pop": 72059
+  },
+  {
+    "zip": 93065,
+    "city": "Simi Valley",
+    "county": "Ventura",
+    "pop": 71832
+  },
+  {
+    "zip": 90262,
+    "city": "Lynwood",
+    "county": "Los Angeles",
+    "pop": 70536
+  },
+  {
+    "zip": 93536,
+    "city": "Lancaster",
+    "county": "Los Angeles",
+    "pop": 70237
+  },
+  {
+    "zip": 92021,
+    "city": "El Cajon",
+    "county": "San Diego",
+    "pop": 70148
+  },
+  {
+    "zip": 92880,
+    "city": "Corona",
+    "county": "Riverside",
+    "pop": 69656
+  },
+  {
+    "zip": 92563,
+    "city": "Murrieta",
+    "county": "Riverside",
+    "pop": 69469
+  },
+  {
+    "zip": 92703,
+    "city": "Santa Ana",
+    "county": "Orange",
+    "pop": 69112
+  },
+  {
+    "zip": 90631,
+    "city": "La Habra",
+    "county": "Orange",
+    "pop": 69064
+  },
+  {
+    "zip": 95687,
+    "city": "Vacaville",
+    "county": "Solano",
+    "pop": 69060
+  },
+  {
+    "zip": 90026,
+    "city": "Los Angeles",
+    "county": "Los Angeles",
+    "pop": 68906
+  },
+  {
+    "zip": 92114,
+    "city": "San Diego",
+    "county": "San Diego",
+    "pop": 68851
+  },
+  {
+    "zip": 95123,
+    "city": "San Jose",
+    "county": "Santa Clara",
+    "pop": 68766
+  },
+  {
+    "zip": 92407,
+    "city": "San Bernardino",
+    "county": "San Bernardino",
+    "pop": 68545
+  },
+  {
+    "zip": 94558,
+    "city": "Napa",
+    "county": "Napa",
+    "pop": 68315
+  },
+  {
+    "zip": 94509,
+    "city": "Antioch",
+    "county": "Contra Costa",
+    "pop": 68166
+  },
+  {
+    "zip": 90037,
+    "city": "Los Angeles",
+    "county": "Los Angeles",
+    "pop": 67640
+  },
+  {
+    "zip": 93230,
+    "city": "Hanford",
+    "county": "Kings",
+    "pop": 67605
+  },
+  {
+    "zip": 94080,
+    "city": "South San Francisco",
+    "county": "San Mateo",
+    "pop": 67600
+  },
+  {
+    "zip": 94538,
+    "city": "Fremont",
+    "county": "Alameda",
+    "pop": 67474
+  },
+  {
+    "zip": 90022,
+    "city": "Los Angeles",
+    "county": "Los Angeles",
+    "pop": 67014
+  },
+  {
+    "zip": 95747,
+    "city": "Roseville",
+    "county": "Placer",
+    "pop": 66931
+  },
+  {
+    "zip": 91343,
+    "city": "North Hills",
+    "county": "Los Angeles",
+    "pop": 66743
+  },
+  {
+    "zip": 92801,
+    "city": "Anaheim",
+    "county": "Orange",
+    "pop": 66594
+  },
+  {
+    "zip": 92677,
+    "city": "Laguna Niguel",
+    "county": "Orange",
+    "pop": 66314
+  },
+  {
+    "zip": 95127,
+    "city": "San Jose",
+    "county": "Santa Clara",
+    "pop": 66256
+  },
+  {
+    "zip": 95624,
+    "city": "Elk Grove",
+    "county": "Sacramento",
+    "pop": 65948
+  },
+  {
+    "zip": 94541,
+    "city": "Hayward",
+    "county": "Alameda",
+    "pop": 65928
+  },
+  {
+    "zip": 95758,
+    "city": "Elk Grove",
+    "county": "Sacramento",
+    "pop": 65811
+  },
+  {
+    "zip": 92201,
+    "city": "Indio",
+    "county": "Riverside",
+    "pop": 65726
+  },
+  {
+    "zip": 94015,
+    "city": "Daly City",
+    "county": "San Mateo",
+    "pop": 65041
+  },
+  {
+    "zip": 95020,
+    "city": "Gilroy",
+    "county": "Santa Clara",
+    "pop": 64833
+  },
+  {
+    "zip": 91977,
+    "city": "Spring Valley",
+    "county": "San Diego",
+    "pop": 64750
+  },
+  {
+    "zip": 90019,
+    "city": "Los Angeles",
+    "county": "Los Angeles",
+    "pop": 64534
+  },
+  {
+    "zip": 93906,
+    "city": "Salinas",
+    "county": "Monterey",
+    "pop": 64348
+  },
+  {
+    "zip": 92115,
+    "city": "San Diego",
+    "county": "San Diego",
+    "pop": 64343
+  },
+  {
+    "zip": 94513,
+    "city": "Brentwood",
+    "county": "Contra Costa",
+    "pop": 64313
+  },
+  {
+    "zip": 94806,
+    "city": "San Pablo",
+    "county": "Contra Costa",
+    "pop": 64286
+  },
+  {
+    "zip": 92562,
+    "city": "Murrieta",
+    "county": "Riverside",
+    "pop": 64286
+  },
+  {
+    "zip": 95206,
+    "city": "Stockton",
+    "county": "San Joaquin",
+    "pop": 64250
+  },
+  {
+    "zip": 92346,
+    "city": "Highland",
+    "county": "San Bernardino",
+    "pop": 63857
+  },
+  {
+    "zip": 94501,
+    "city": "Alameda",
+    "county": "Alameda",
+    "pop": 63821
+  },
+  {
+    "zip": 90042,
+    "city": "Los Angeles",
+    "county": "Los Angeles",
+    "pop": 63193
+  },
+  {
+    "zip": 92627,
+    "city": "Costa Mesa",
+    "county": "Orange",
+    "pop": 63161
+  },
+  {
+    "zip": 90660,
+    "city": "Pico Rivera",
+    "county": "Los Angeles",
+    "pop": 63001
+  },
+  {
+    "zip": 92404,
+    "city": "San Bernardino",
+    "county": "San Bernardino",
+    "pop": 62915
+  },
+  {
+    "zip": 91732,
+    "city": "El Monte",
+    "county": "Los Angeles",
+    "pop": 62905
+  },
+  {
+    "zip": 91950,
+    "city": "National City",
+    "county": "San Diego",
+    "pop": 62859
+  },
+  {
+    "zip": 90640,
+    "city": "Montebello",
+    "county": "Los Angeles",
+    "pop": 62730
+  },
+  {
+    "zip": 91770,
+    "city": "Rosemead",
+    "county": "Los Angeles",
+    "pop": 62703
+  },
+  {
+    "zip": 95608,
+    "city": "Carmichael",
+    "county": "Sacramento",
+    "pop": 62539
+  },
+  {
+    "zip": 95112,
+    "city": "San Jose",
+    "county": "Santa Clara",
+    "pop": 62228
+  },
+  {
+    "zip": 92647,
+    "city": "Huntington Beach",
+    "county": "Orange",
+    "pop": 62199
+  },
+  {
+    "zip": 94122,
+    "city": "San Francisco",
+    "county": "San Francisco",
+    "pop": 62128
+  },
+  {
+    "zip": 91702,
+    "city": "Azusa",
+    "county": "Los Angeles",
+    "pop": 62066
+  },
+  {
+    "zip": 95014,
+    "city": "Cupertino",
+    "county": "Santa Clara",
+    "pop": 61866
+  },
+  {
+    "zip": 95111,
+    "city": "San Jose",
+    "county": "Santa Clara",
+    "pop": 61830
+  },
+  {
+    "zip": 91762,
+    "city": "Ontario",
+    "county": "San Bernardino",
+    "pop": 61718
+  },
+  {
+    "zip": 93312,
+    "city": "Bakersfield",
+    "county": "Kern",
+    "pop": 61628
+  },
+  {
+    "zip": 91761,
+    "city": "Ontario",
+    "county": "San Bernardino",
+    "pop": 61425
+  },
+  {
+    "zip": 92707,
+    "city": "Santa Ana",
+    "county": "Orange",
+    "pop": 60831
+  },
+  {
+    "zip": 92570,
+    "city": "Perris",
+    "county": "Riverside",
+    "pop": 60686
+  },
+  {
+    "zip": 90731,
+    "city": "San Pedro",
+    "county": "Los Angeles",
+    "pop": 60659
+  },
+  {
+    "zip": 90004,
+    "city": "Los Angeles",
+    "county": "Los Angeles",
+    "pop": 60541
+  },
+  {
+    "zip": 93905,
+    "city": "Salinas",
+    "county": "Monterey",
+    "pop": 60531
+  },
+  {
+    "zip": 92057,
+    "city": "Oceanside",
+    "county": "San Diego",
+    "pop": 60414
+  },
+  {
+    "zip": 92324,
+    "city": "Colton",
+    "county": "San Bernardino",
+    "pop": 59972
+  },
+  {
+    "zip": 92504,
+    "city": "Riverside",
+    "county": "Riverside",
+    "pop": 59896
+  },
+  {
+    "zip": 95051,
+    "city": "Santa Clara",
+    "county": "Santa Clara",
+    "pop": 59851
+  },
+  {
+    "zip": 90001,
+    "city": "Los Angeles",
+    "county": "Los Angeles",
+    "pop": 59832
+  },
+  {
+    "zip": 92020,
+    "city": "El Cajon",
+    "county": "San Diego",
+    "pop": 59743
+  },
+  {
+    "zip": 95355,
+    "city": "Modesto",
+    "county": "Stanislaus",
+    "pop": 59621
+  },
+  {
+    "zip": 90006,
+    "city": "Los Angeles",
+    "county": "Los Angeles",
+    "pop": 59576
+  },
+  {
+    "zip": 92780,
+    "city": "Tustin",
+    "county": "Orange",
+    "pop": 59499
+  },
+  {
+    "zip": 92630,
+    "city": "Lake Forest",
+    "county": "Orange",
+    "pop": 59403
+  },
+  {
+    "zip": 93291,
+    "city": "Visalia",
+    "county": "Tulare",
+    "pop": 59270
+  },
+  {
+    "zip": 90066,
+    "city": "Los Angeles",
+    "county": "Los Angeles",
+    "pop": 59167
+  },
+  {
+    "zip": 92507,
+    "city": "Riverside",
+    "county": "Riverside",
+    "pop": 59152
+  },
+  {
+    "zip": 95828,
+    "city": "Sacramento",
+    "county": "Sacramento",
+    "pop": 58717
+  },
+  {
+    "zip": 93117,
+    "city": "Goleta",
+    "county": "Santa Barbara",
+    "pop": 58546
+  },
+  {
+    "zip": 93309,
+    "city": "Bakersfield",
+    "county": "Kern",
+    "pop": 58538
+  },
+  {
+    "zip": 93030,
+    "city": "Oxnard",
+    "county": "Ventura",
+    "pop": 58422
+  },
+  {
+    "zip": 92113,
+    "city": "San Diego",
+    "county": "San Diego",
+    "pop": 58408
+  },
+  {
+    "zip": 92392,
+    "city": "Victorville",
+    "county": "San Bernardino",
+    "pop": 58393
+  },
+  {
+    "zip": 90813,
+    "city": "Long Beach",
+    "county": "Los Angeles",
+    "pop": 58380
+  },
+  {
+    "zip": 92530,
+    "city": "Lake Elsinore",
+    "county": "Riverside",
+    "pop": 58184
+  },
+  {
+    "zip": 92071,
+    "city": "Santee",
+    "county": "San Diego",
+    "pop": 57710
+  },
+  {
+    "zip": 92571,
+    "city": "Perris",
+    "county": "Riverside",
+    "pop": 57622
+  },
+  {
+    "zip": 94109,
+    "city": "San Francisco",
+    "county": "San Francisco",
+    "pop": 57302
+  },
+  {
+    "zip": 93458,
+    "city": "Santa Maria",
+    "county": "Santa Barbara",
+    "pop": 57256
+  },
+  {
+    "zip": 92117,
+    "city": "San Diego",
+    "county": "San Diego",
+    "pop": 56983
+  },
+  {
+    "zip": 92708,
+    "city": "Fountain Valley",
+    "county": "Orange",
+    "pop": 56953
+  },
+  {
+    "zip": 90745,
+    "city": "Carson",
+    "county": "Los Angeles",
+    "pop": 56930
+  },
+  {
+    "zip": 90744,
+    "city": "Wilmington",
+    "county": "Los Angeles",
+    "pop": 56880
+  },
+  {
+    "zip": 92027,
+    "city": "Escondido",
+    "county": "San Diego",
+    "pop": 56788
+  },
+  {
+    "zip": 91764,
+    "city": "Ontario",
+    "county": "San Bernardino",
+    "pop": 56677
+  },
+  {
+    "zip": 94087,
+    "city": "Sunnyvale",
+    "county": "Santa Clara",
+    "pop": 56668
+  },
+  {
+    "zip": 93063,
+    "city": "Simi Valley",
+    "county": "Ventura",
+    "pop": 56458
+  },
+  {
+    "zip": 93436,
+    "city": "Lompoc",
+    "county": "Santa Barbara",
+    "pop": 56323
+  },
+  {
+    "zip": 92130,
+    "city": "San Diego",
+    "county": "San Diego",
+    "pop": 56134
+  },
+  {
+    "zip": 95122,
+    "city": "San Jose",
+    "county": "Santa Clara",
+    "pop": 56121
+  },
+  {
+    "zip": 92646,
+    "city": "Huntington Beach",
+    "county": "Orange",
+    "pop": 55870
+  },
+  {
+    "zip": 95116,
+    "city": "San Jose",
+    "county": "Santa Clara",
+    "pop": 55825
+  },
+  {
+    "zip": 95376,
+    "city": "Tracy",
+    "county": "San Joaquin",
+    "pop": 55655
+  },
+  {
+    "zip": 94568,
+    "city": "Dublin",
+    "county": "Alameda",
+    "pop": 55608
+  },
+  {
+    "zip": 92223,
+    "city": "Beaumont",
+    "county": "Riverside",
+    "pop": 55580
+  },
+  {
+    "zip": 95670,
+    "city": "Rancho Cordova",
+    "county": "Sacramento",
+    "pop": 55558
+  },
+  {
+    "zip": 91405,
+    "city": "Van Nuys",
+    "county": "Los Angeles",
+    "pop": 55506
+  },
+  {
+    "zip": 93313,
+    "city": "Bakersfield",
+    "county": "Kern",
+    "pop": 55221
+  },
+  {
+    "zip": 91745,
+    "city": "Hacienda Heights",
+    "county": "Los Angeles",
+    "pop": 55202
+  },
+  {
+    "zip": 94591,
+    "city": "Vallejo",
+    "county": "Solano",
+    "pop": 55157
+  },
+  {
+    "zip": 92701,
+    "city": "Santa Ana",
+    "county": "Orange",
+    "pop": 55058
+  },
+  {
+    "zip": 94539,
+    "city": "Fremont",
+    "county": "Alameda",
+    "pop": 54982
+  },
+  {
+    "zip": 93215,
+    "city": "Delano",
+    "county": "Kern",
+    "pop": 54958
+  },
+  {
+    "zip": 91406,
+    "city": "Van Nuys",
+    "county": "Los Angeles",
+    "pop": 54890
+  },
+  {
+    "zip": 91801,
+    "city": "Alhambra",
+    "county": "Los Angeles",
+    "pop": 54768
+  },
+  {
+    "zip": 92129,
+    "city": "San Diego",
+    "county": "San Diego",
+    "pop": 54762
+  },
+  {
+    "zip": 92840,
+    "city": "Garden Grove",
+    "county": "Orange",
+    "pop": 54735
+  },
+  {
+    "zip": 90723,
+    "city": "Paramount",
+    "county": "Los Angeles",
+    "pop": 54513
+  },
+  {
+    "zip": 91304,
+    "city": "Canoga Park",
+    "county": "Los Angeles",
+    "pop": 54361
+  },
+  {
+    "zip": 92234,
+    "city": "Cathedral City",
+    "county": "Riverside",
+    "pop": 54357
+  },
+  {
+    "zip": 92399,
+    "city": "Yucaipa",
+    "county": "San Bernardino",
+    "pop": 54268
+  },
+  {
+    "zip": 92584,
+    "city": "Menifee",
+    "county": "Riverside",
+    "pop": 54235
+  },
+  {
+    "zip": 95350,
+    "city": "Modesto",
+    "county": "Stanislaus",
+    "pop": 54210
+  },
+  {
+    "zip": 91913,
+    "city": "Chula Vista",
+    "county": "San Diego",
+    "pop": 54114
+  },
+  {
+    "zip": 93308,
+    "city": "Bakersfield",
+    "county": "Kern",
+    "pop": 53981
+  },
+  {
+    "zip": 90063,
+    "city": "Los Angeles",
+    "county": "Los Angeles",
+    "pop": 53980
+  },
+  {
+    "zip": 90034,
+    "city": "Los Angeles",
+    "county": "Los Angeles",
+    "pop": 53861
+  },
+  {
+    "zip": 91786,
+    "city": "Upland",
+    "county": "San Bernardino",
+    "pop": 53697
+  },
+  {
+    "zip": 91344,
+    "city": "Granada Hills",
+    "county": "Los Angeles",
+    "pop": 53613
+  },
+  {
+    "zip": 92870,
+    "city": "Placentia",
+    "county": "Orange",
+    "pop": 53600
+  },
+  {
+    "zip": 90018,
+    "city": "Los Angeles",
+    "county": "Los Angeles",
+    "pop": 53490
+  },
+  {
+    "zip": 95023,
+    "city": "Hollister",
+    "county": "San Benito",
+    "pop": 53423
+  },
+  {
+    "zip": 92557,
+    "city": "Moreno Valley",
+    "county": "Riverside",
+    "pop": 53406
+  },
+  {
+    "zip": 90002,
+    "city": "Los Angeles",
+    "county": "Los Angeles",
+    "pop": 53302
+  },
+  {
+    "zip": 92505,
+    "city": "Riverside",
+    "county": "Riverside",
+    "pop": 53282
+  },
+  {
+    "zip": 95125,
+    "city": "San Jose",
+    "county": "Santa Clara",
+    "pop": 53155
+  },
+  {
+    "zip": 91605,
+    "city": "North Hollywood",
+    "county": "Los Angeles",
+    "pop": 53113
+  },
+  {
+    "zip": 94601,
+    "city": "Oakland",
+    "county": "Alameda",
+    "pop": 53039
+  },
+  {
+    "zip": 92025,
+    "city": "Escondido",
+    "county": "San Diego",
+    "pop": 52985
+  },
+  {
+    "zip": 95648,
+    "city": "Lincoln",
+    "county": "Placer",
+    "pop": 52949
+  },
+  {
+    "zip": 90220,
+    "city": "Compton",
+    "county": "Los Angeles",
+    "pop": 52817
+  },
+  {
+    "zip": 92620,
+    "city": "Irvine",
+    "county": "Orange",
+    "pop": 52569
+  },
+  {
+    "zip": 92833,
+    "city": "Fullerton",
+    "county": "Orange",
+    "pop": 52435
+  },
+  {
+    "zip": 92056,
+    "city": "Oceanside",
+    "county": "San Diego",
+    "pop": 52337
+  },
+  {
+    "zip": 93277,
+    "city": "Visalia",
+    "county": "Tulare",
+    "pop": 52271
+  },
+  {
+    "zip": 95207,
+    "city": "Stockton",
+    "county": "San Joaquin",
+    "pop": 52269
+  },
+  {
+    "zip": 92656,
+    "city": "Aliso Viejo",
+    "county": "Orange",
+    "pop": 52268
+  },
+  {
+    "zip": 95616,
+    "city": "Davis",
+    "county": "Yolo",
+    "pop": 52212
+  },
+  {
+    "zip": 95037,
+    "city": "Morgan Hill",
+    "county": "Santa Clara",
+    "pop": 51994
+  },
+  {
+    "zip": 90221,
+    "city": "Compton",
+    "county": "Los Angeles",
+    "pop": 51688
+  },
+  {
+    "zip": 93003,
+    "city": "Ventura",
+    "county": "Ventura",
+    "pop": 51629
+  },
+  {
+    "zip": 90024,
+    "city": "Los Angeles",
+    "county": "Los Angeles",
+    "pop": 51627
+  },
+  {
+    "zip": 92084,
+    "city": "Vista",
+    "county": "San Diego",
+    "pop": 51619
+  },
+  {
+    "zip": 95124,
+    "city": "San Jose",
+    "county": "Santa Clara",
+    "pop": 51455
+  },
+  {
+    "zip": 90047,
+    "city": "Los Angeles",
+    "county": "Los Angeles",
+    "pop": 51411
+  },
+  {
+    "zip": 92024,
+    "city": "Encinitas",
+    "county": "San Diego",
+    "pop": 51381
+  },
+  {
+    "zip": 92128,
+    "city": "San Diego",
+    "county": "San Diego",
+    "pop": 51357
+  },
+  {
+    "zip": 90046,
+    "city": "Los Angeles",
+    "county": "Los Angeles",
+    "pop": 50900
+  },
+  {
+    "zip": 92691,
+    "city": "Mission Viejo",
+    "county": "Orange",
+    "pop": 50839
+  },
+  {
+    "zip": 92886,
+    "city": "Yorba Linda",
+    "county": "Orange",
+    "pop": 50784
+  },
+  {
+    "zip": 92111,
+    "city": "San Diego",
+    "county": "San Diego",
+    "pop": 50693
+  },
+  {
+    "zip": 91767,
+    "city": "Pomona",
+    "county": "Los Angeles",
+    "pop": 50606
+  },
+  {
+    "zip": 92626,
+    "city": "Costa Mesa",
+    "county": "Orange",
+    "pop": 50605
+  },
+  {
+    "zip": 93551,
+    "city": "Palmdale",
+    "county": "Los Angeles",
+    "pop": 50601
+  },
+  {
+    "zip": 90703,
+    "city": "Cerritos",
+    "county": "Los Angeles",
+    "pop": 50589
+  },
+  {
+    "zip": 92078,
+    "city": "San Marcos",
+    "county": "San Diego",
+    "pop": 50510
+  },
+  {
+    "zip": 94086,
+    "city": "Sunnyvale",
+    "county": "Santa Clara",
+    "pop": 50477
+  },
+  {
+    "zip": 92243,
+    "city": "El Centro",
+    "county": "Imperial",
+    "pop": 50402
+  },
+  {
+    "zip": 92069,
+    "city": "San Marcos",
+    "county": "San Diego",
+    "pop": 50376
+  },
+  {
+    "zip": 94550,
+    "city": "Livermore",
+    "county": "Alameda",
+    "pop": 50374
+  },
+  {
+    "zip": 92026,
+    "city": "Escondido",
+    "county": "San Diego",
+    "pop": 50321
+  },
+  {
+    "zip": 90057,
+    "city": "Los Angeles",
+    "county": "Los Angeles",
+    "pop": 50152
+  },
+  {
+    "zip": 92127,
+    "city": "San Diego",
+    "county": "San Diego",
+    "pop": 49935
+  },
+  {
+    "zip": 93638,
+    "city": "Madera",
+    "county": "Madera",
+    "pop": 49932
+  },
+  {
+    "zip": 92544,
+    "city": "Hemet",
+    "county": "Riverside",
+    "pop": 49923
+  },
+  {
+    "zip": 92064,
+    "city": "Poway",
+    "county": "San Diego",
+    "pop": 49805
+  },
+  {
+    "zip": 94553,
+    "city": "Martinez",
+    "county": "Contra Costa",
+    "pop": 49784
+  },
+  {
+    "zip": 91306,
+    "city": "Winnetka",
+    "county": "Los Angeles",
+    "pop": 49678
+  },
+  {
+    "zip": 90638,
+    "city": "La Mirada",
+    "county": "Los Angeles",
+    "pop": 49227
+  },
+  {
+    "zip": 90630,
+    "city": "Cypress",
+    "county": "Orange",
+    "pop": 49205
+  },
+  {
+    "zip": 94014,
+    "city": "Daly City",
+    "county": "San Mateo",
+    "pop": 49170
+  },
+  {
+    "zip": 90033,
+    "city": "Los Angeles",
+    "county": "Los Angeles",
+    "pop": 49155
+  },
+  {
+    "zip": 93304,
+    "city": "Bakersfield",
+    "county": "Kern",
+    "pop": 49115
+  },
+  {
+    "zip": 93611,
+    "city": "Clovis",
+    "county": "Fresno",
+    "pop": 49053
+  },
+  {
+    "zip": 92618,
+    "city": "Irvine",
+    "county": "Orange",
+    "pop": 48997
+  },
+  {
+    "zip": 95240,
+    "city": "Lodi",
+    "county": "San Joaquin",
+    "pop": 48799
+  },
+  {
+    "zip": 95351,
+    "city": "Modesto",
+    "county": "Stanislaus",
+    "pop": 48542
+  },
+  {
+    "zip": 90247,
+    "city": "Gardena",
+    "county": "Los Angeles",
+    "pop": 48293
+  },
+  {
+    "zip": 95148,
+    "city": "San Jose",
+    "county": "Santa Clara",
+    "pop": 48273
+  },
+  {
+    "zip": 94303,
+    "city": "Palo Alto",
+    "county": "San Mateo",
+    "pop": 48244
+  },
+  {
+    "zip": 92028,
+    "city": "Fallbrook",
+    "county": "San Diego",
+    "pop": 48173
+  },
+  {
+    "zip": 92122,
+    "city": "San Diego",
+    "county": "San Diego",
+    "pop": 48071
+  },
+  {
+    "zip": 90032,
+    "city": "Los Angeles",
+    "county": "Los Angeles",
+    "pop": 48031
+  },
+  {
+    "zip": 92879,
+    "city": "Corona",
+    "county": "Riverside",
+    "pop": 47872
+  },
+  {
+    "zip": 95336,
+    "city": "Manteca",
+    "county": "San Joaquin",
+    "pop": 47855
+  },
+  {
+    "zip": 95843,
+    "city": "Antelope",
+    "county": "Sacramento",
+    "pop": 47823
+  },
+  {
+    "zip": 95060,
+    "city": "Santa Cruz",
+    "county": "Santa Cruz",
+    "pop": 47801
+  },
+  {
+    "zip": 94577,
+    "city": "San Leandro",
+    "county": "Alameda",
+    "pop": 47682
+  },
+  {
+    "zip": 95136,
+    "city": "San Jose",
+    "county": "Santa Clara",
+    "pop": 47476
+  },
+  {
+    "zip": 94116,
+    "city": "San Francisco",
+    "county": "San Francisco",
+    "pop": 47346
+  },
+  {
+    "zip": 92705,
+    "city": "Santa Ana",
+    "county": "Orange",
+    "pop": 47298
+  },
+  {
+    "zip": 94551,
+    "city": "Livermore",
+    "county": "Alameda",
+    "pop": 47227
+  },
+  {
+    "zip": 94560,
+    "city": "Newark",
+    "county": "Alameda",
+    "pop": 47171
+  },
+  {
+    "zip": 92109,
+    "city": "San Diego",
+    "county": "San Diego",
+    "pop": 47111
+  },
+  {
+    "zip": 93720,
+    "city": "Fresno",
+    "county": "Fresno",
+    "pop": 47081
+  },
+  {
+    "zip": 91748,
+    "city": "Rowland Heights",
+    "county": "Los Angeles",
+    "pop": 47079
+  },
+  {
+    "zip": 91352,
+    "city": "Sun Valley",
+    "county": "Los Angeles",
+    "pop": 47076
+  },
+  {
+    "zip": 90025,
+    "city": "Los Angeles",
+    "county": "Los Angeles",
+    "pop": 46883
+  },
+  {
+    "zip": 92843,
+    "city": "Garden Grove",
+    "county": "Orange",
+    "pop": 46873
+  },
+  {
+    "zip": 92692,
+    "city": "Mission Viejo",
+    "county": "Orange",
+    "pop": 46800
+  },
+  {
+    "zip": 90023,
+    "city": "Los Angeles",
+    "county": "Los Angeles",
+    "pop": 46680
+  },
+  {
+    "zip": 92009,
+    "city": "Carlsbad",
+    "county": "San Diego",
+    "pop": 46612
+  },
+  {
+    "zip": 91765,
+    "city": "Diamond Bar",
+    "county": "Los Angeles",
+    "pop": 46593
+  },
+  {
+    "zip": 90065,
+    "city": "Los Angeles",
+    "county": "Los Angeles",
+    "pop": 46461
+  },
+  {
+    "zip": 90620,
+    "city": "Buena Park",
+    "county": "Orange",
+    "pop": 46414
+  },
+  {
+    "zip": 95008,
+    "city": "Campbell",
+    "county": "Santa Clara",
+    "pop": 46352
+  },
+  {
+    "zip": 92040,
+    "city": "Lakeside",
+    "county": "San Diego",
+    "pop": 46306
+  },
+  {
+    "zip": 95610,
+    "city": "Citrus Heights",
+    "county": "Sacramento",
+    "pop": 46305
+  },
+  {
+    "zip": 95307,
+    "city": "Ceres",
+    "county": "Stanislaus",
+    "pop": 46283
+  },
+  {
+    "zip": 92506,
+    "city": "Riverside",
+    "county": "Riverside",
+    "pop": 46241
+  },
+  {
+    "zip": 92648,
+    "city": "Huntington Beach",
+    "county": "Orange",
+    "pop": 46228
+  },
+  {
+    "zip": 90059,
+    "city": "Los Angeles",
+    "county": "Los Angeles",
+    "pop": 46185
+  },
+  {
+    "zip": 93455,
+    "city": "Santa Maria",
+    "county": "Santa Barbara",
+    "pop": 46175
+  },
+  {
+    "zip": 93010,
+    "city": "Camarillo",
+    "county": "Ventura",
+    "pop": 46063
+  },
+  {
+    "zip": 92058,
+    "city": "Oceanside",
+    "county": "San Diego",
+    "pop": 46029
+  },
+  {
+    "zip": 91367,
+    "city": "Woodland Hills",
+    "county": "Los Angeles",
+    "pop": 45970
+  },
+  {
+    "zip": 90016,
+    "city": "Los Angeles",
+    "county": "Los Angeles",
+    "pop": 45899
+  },
+  {
+    "zip": 94566,
+    "city": "Pleasanton",
+    "county": "Alameda",
+    "pop": 45893
+  },
+  {
+    "zip": 90043,
+    "city": "Los Angeles",
+    "county": "Los Angeles",
+    "pop": 45873
+  },
+  {
+    "zip": 93311,
+    "city": "Bakersfield",
+    "county": "Kern",
+    "pop": 45481
+  },
+  {
+    "zip": 92236,
+    "city": "Coachella",
+    "county": "Riverside",
+    "pop": 45477
+  },
+  {
+    "zip": 91790,
+    "city": "West Covina",
+    "county": "Los Angeles",
+    "pop": 45444
+  },
+  {
+    "zip": 92104,
+    "city": "San Diego",
+    "county": "San Diego",
+    "pop": 45435
+  },
+  {
+    "zip": 91733,
+    "city": "South El Monte",
+    "county": "Los Angeles",
+    "pop": 45365
+  },
+  {
+    "zip": 95403,
+    "city": "Santa Rosa",
+    "county": "Sonoma",
+    "pop": 45096
+  },
+  {
+    "zip": 92410,
+    "city": "San Bernardino",
+    "county": "San Bernardino",
+    "pop": 45052
+  },
+  {
+    "zip": 95209,
+    "city": "Stockton",
+    "county": "San Joaquin",
+    "pop": 44980
+  },
+  {
+    "zip": 91320,
+    "city": "Newbury Park",
+    "county": "Ventura",
+    "pop": 44968
+  },
+  {
+    "zip": 92688,
+    "city": "Rancho Santa Margarita",
+    "county": "Orange",
+    "pop": 44832
+  },
+  {
+    "zip": 90027,
+    "city": "Los Angeles",
+    "county": "Los Angeles",
+    "pop": 44770
+  },
+  {
+    "zip": 95822,
+    "city": "Sacramento",
+    "county": "Sacramento",
+    "pop": 44741
+  },
+  {
+    "zip": 92867,
+    "city": "Orange",
+    "county": "Orange",
+    "pop": 44655
+  },
+  {
+    "zip": 94117,
+    "city": "San Francisco",
+    "county": "San Francisco",
+    "pop": 44650
+  },
+  {
+    "zip": 93446,
+    "city": "Paso Robles",
+    "county": "San Luis Obispo",
+    "pop": 44636
+  },
+  {
+    "zip": 90503,
+    "city": "Torrance",
+    "county": "Los Angeles",
+    "pop": 44605
+  },
+  {
+    "zip": 92555,
+    "city": "Moreno Valley",
+    "county": "Riverside",
+    "pop": 44452
+  },
+  {
+    "zip": 91789,
+    "city": "Walnut",
+    "county": "Los Angeles",
+    "pop": 44440
+  },
+  {
+    "zip": 94403,
+    "city": "San Mateo",
+    "county": "San Mateo",
+    "pop": 44408
+  },
+  {
+    "zip": 94546,
+    "city": "Castro Valley",
+    "county": "Alameda",
+    "pop": 44378
+  },
+  {
+    "zip": 96003,
+    "city": "Redding",
+    "county": "Shasta",
+    "pop": 44328
+  },
+  {
+    "zip": 94928,
+    "city": "Rohnert Park",
+    "county": "Sonoma",
+    "pop": 44323
+  },
+  {
+    "zip": 91606,
+    "city": "North Hollywood",
+    "county": "Los Angeles",
+    "pop": 44295
+  },
+  {
+    "zip": 92102,
+    "city": "San Diego",
+    "county": "San Diego",
+    "pop": 44010
+  },
+  {
+    "zip": 94121,
+    "city": "San Francisco",
+    "county": "San Francisco",
+    "pop": 43616
+  },
+  {
+    "zip": 93702,
+    "city": "Fresno",
+    "county": "Fresno",
+    "pop": 43601
+  },
+  {
+    "zip": 94605,
+    "city": "Oakland",
+    "county": "Alameda",
+    "pop": 43399
+  },
+  {
+    "zip": 94025,
+    "city": "Menlo Park",
+    "county": "San Mateo",
+    "pop": 43392
+  },
+  {
+    "zip": 92374,
+    "city": "Redlands",
+    "county": "San Bernardino",
+    "pop": 43391
+  },
+  {
+    "zip": 94521,
+    "city": "Concord",
+    "county": "Contra Costa",
+    "pop": 43281
+  },
+  {
+    "zip": 92019,
+    "city": "El Cajon",
+    "county": "San Diego",
+    "pop": 43272
+  },
+  {
+    "zip": 90241,
+    "city": "Downey",
+    "county": "Los Angeles",
+    "pop": 43215
+  },
+  {
+    "zip": 91360,
+    "city": "Thousand Oaks",
+    "county": "Ventura",
+    "pop": 43121
+  },
+  {
+    "zip": 94066,
+    "city": "San Bruno",
+    "county": "San Mateo",
+    "pop": 43101
+  },
+  {
+    "zip": 95831,
+    "city": "Sacramento",
+    "county": "Sacramento",
+    "pop": 43094
+  },
+  {
+    "zip": 95762,
+    "city": "El Dorado Hills",
+    "county": "El Dorado",
+    "pop": 43052
+  },
+  {
+    "zip": 94531,
+    "city": "Antioch",
+    "county": "Contra Costa",
+    "pop": 43022
+  },
+  {
+    "zip": 90604,
+    "city": "Whittier",
+    "county": "Los Angeles",
+    "pop": 42911
+  },
+  {
+    "zip": 95380,
+    "city": "Turlock",
+    "county": "Stanislaus",
+    "pop": 42866
+  },
+  {
+    "zip": 93726,
+    "city": "Fresno",
+    "county": "Fresno",
+    "pop": 42824
+  },
+  {
+    "zip": 94010,
+    "city": "Burlingame",
+    "county": "San Mateo",
+    "pop": 42760
+  },
+  {
+    "zip": 90242,
+    "city": "Downey",
+    "county": "Los Angeles",
+    "pop": 42694
+  },
+  {
+    "zip": 94561,
+    "city": "Oakley",
+    "county": "Contra Costa",
+    "pop": 42473
+  },
+  {
+    "zip": 90007,
+    "city": "Los Angeles",
+    "county": "Los Angeles",
+    "pop": 42433
+  },
+  {
+    "zip": 94134,
+    "city": "San Francisco",
+    "county": "San Francisco",
+    "pop": 42418
+  },
+  {
+    "zip": 92308,
+    "city": "Apple Valley",
+    "county": "San Bernardino",
+    "pop": 42207
+  },
+  {
+    "zip": 90275,
+    "city": "Rancho Palos Verdes",
+    "county": "Los Angeles",
+    "pop": 42146
+  },
+  {
+    "zip": 94118,
+    "city": "San Francisco",
+    "county": "San Francisco",
+    "pop": 42095
+  },
+  {
+    "zip": 95678,
+    "city": "Roseville",
+    "county": "Placer",
+    "pop": 42053
+  },
+  {
+    "zip": 91387,
+    "city": "Canyon Country",
+    "county": "Los Angeles",
+    "pop": 42034
+  },
+  {
+    "zip": 93292,
+    "city": "Visalia",
+    "county": "Tulare",
+    "pop": 42031
+  },
+  {
+    "zip": 95407,
+    "city": "Santa Rosa",
+    "county": "Sonoma",
+    "pop": 42026
+  },
+  {
+    "zip": 92802,
+    "city": "Anaheim",
+    "county": "Orange",
+    "pop": 42016
+  },
+  {
+    "zip": 90806,
+    "city": "Long Beach",
+    "county": "Los Angeles",
+    "pop": 41990
+  },
+  {
+    "zip": 90501,
+    "city": "Torrance",
+    "county": "Los Angeles",
+    "pop": 41975
+  },
+  {
+    "zip": 92545,
+    "city": "Hemet",
+    "county": "Riverside",
+    "pop": 41879
+  },
+  {
+    "zip": 94578,
+    "city": "San Leandro",
+    "county": "Alameda",
+    "pop": 41865
+  },
+  {
+    "zip": 92054,
+    "city": "Oceanside",
+    "county": "San Diego",
+    "pop": 41807
+  },
+  {
+    "zip": 95132,
+    "city": "San Jose",
+    "county": "Santa Clara",
+    "pop": 41790
+  },
+  {
+    "zip": 95621,
+    "city": "Citrus Heights",
+    "county": "Sacramento",
+    "pop": 41740
+  },
+  {
+    "zip": 94901,
+    "city": "San Rafael",
+    "county": "Marin",
+    "pop": 41713
+  },
+  {
+    "zip": 92591,
+    "city": "Temecula",
+    "county": "Riverside",
+    "pop": 41609
+  },
+  {
+    "zip": 95210,
+    "city": "Stockton",
+    "county": "San Joaquin",
+    "pop": 41509
+  },
+  {
+    "zip": 90815,
+    "city": "Long Beach",
+    "county": "Los Angeles",
+    "pop": 41312
+  },
+  {
+    "zip": 95695,
+    "city": "Woodland",
+    "county": "Yolo",
+    "pop": 41278
+  },
+  {
+    "zip": 93635,
+    "city": "Los Banos",
+    "county": "Merced",
+    "pop": 41180
+  },
+  {
+    "zip": 92101,
+    "city": "San Diego",
+    "county": "San Diego",
+    "pop": 41159
+  },
+  {
+    "zip": 93637,
+    "city": "Madera",
+    "county": "Madera",
+    "pop": 41108
+  },
+  {
+    "zip": 91016,
+    "city": "Monrovia",
+    "county": "Los Angeles",
+    "pop": 41105
+  },
+  {
+    "zip": 94804,
+    "city": "Richmond",
+    "county": "Contra Costa",
+    "pop": 40931
+  },
+  {
+    "zip": 92253,
+    "city": "La Quinta",
+    "county": "Riverside",
+    "pop": 40929
+  },
+  {
+    "zip": 95991,
+    "city": "Yuba City",
+    "county": "Sutter",
+    "pop": 40861
+  },
+  {
+    "zip": 95628,
+    "city": "Fair Oaks",
+    "county": "Sacramento",
+    "pop": 40855
+  },
+  {
+    "zip": 91311,
+    "city": "Chatsworth",
+    "county": "Los Angeles",
+    "pop": 40839
+  },
+  {
+    "zip": 93706,
+    "city": "Fresno",
+    "county": "Fresno",
+    "pop": 40586
+  },
+  {
+    "zip": 90045,
+    "city": "Los Angeles",
+    "county": "Los Angeles",
+    "pop": 40567
+  },
+  {
+    "zip": 95404,
+    "city": "Santa Rosa",
+    "county": "Sonoma",
+    "pop": 40497
+  },
+  {
+    "zip": 93454,
+    "city": "Santa Maria",
+    "county": "Santa Barbara",
+    "pop": 40432
+  },
+  {
+    "zip": 90278,
+    "city": "Redondo Beach",
+    "county": "Los Angeles",
+    "pop": 40252
+  },
+  {
+    "zip": 90605,
+    "city": "Whittier",
+    "county": "Los Angeles",
+    "pop": 40192
+  },
+  {
+    "zip": 95835,
+    "city": "Sacramento",
+    "county": "Sacramento",
+    "pop": 40170
+  },
+  {
+    "zip": 91942,
+    "city": "La Mesa",
+    "county": "San Diego",
+    "pop": 40151
+  },
+  {
+    "zip": 92231,
+    "city": "Calexico",
+    "county": "Imperial",
+    "pop": 40064
+  },
+  {
+    "zip": 95926,
+    "city": "Chico",
+    "county": "Butte",
+    "pop": 40000
+  },
+  {
+    "zip": 90031,
+    "city": "Los Angeles",
+    "county": "Los Angeles",
+    "pop": 39916
+  },
+  {
+    "zip": 95833,
+    "city": "Sacramento",
+    "county": "Sacramento",
+    "pop": 39905
+  },
+  {
+    "zip": 93552,
+    "city": "Palmdale",
+    "county": "Los Angeles",
+    "pop": 39905
+  },
+  {
+    "zip": 91739,
+    "city": "Rancho Cucamonga",
+    "county": "San Bernardino",
+    "pop": 39875
+  },
+  {
+    "zip": 91401,
+    "city": "Van Nuys",
+    "county": "Los Angeles",
+    "pop": 39755
+  },
+  {
+    "zip": 95129,
+    "city": "San Jose",
+    "county": "Santa Clara",
+    "pop": 39741
+  },
+  {
+    "zip": 90005,
+    "city": "Los Angeles",
+    "county": "Los Angeles",
+    "pop": 39732
+  },
+  {
+    "zip": 92083,
+    "city": "Vista",
+    "county": "San Diego",
+    "pop": 39509
+  },
+  {
+    "zip": 91701,
+    "city": "Rancho Cucamonga",
+    "county": "San Bernardino",
+    "pop": 39461
+  },
+  {
+    "zip": 92806,
+    "city": "Anaheim",
+    "county": "Orange",
+    "pop": 39442
+  },
+  {
+    "zip": 93534,
+    "city": "Lancaster",
+    "county": "Los Angeles",
+    "pop": 39367
+  },
+  {
+    "zip": 90808,
+    "city": "Long Beach",
+    "county": "Los Angeles",
+    "pop": 39330
+  },
+  {
+    "zip": 92337,
+    "city": "Fontana",
+    "county": "San Bernardino",
+    "pop": 39240
+  },
+  {
+    "zip": 90804,
+    "city": "Long Beach",
+    "county": "Los Angeles",
+    "pop": 39239
+  },
+  {
+    "zip": 95765,
+    "city": "Rocklin",
+    "county": "Placer",
+    "pop": 39214
+  },
+  {
+    "zip": 90020,
+    "city": "Los Angeles",
+    "county": "Los Angeles",
+    "pop": 39189
+  },
+  {
+    "zip": 95301,
+    "city": "Atwater",
+    "county": "Merced",
+    "pop": 39186
+  },
+  {
+    "zip": 95337,
+    "city": "Manteca",
+    "county": "San Joaquin",
+    "pop": 39177
+  },
+  {
+    "zip": 92307,
+    "city": "Apple Valley",
+    "county": "San Bernardino",
+    "pop": 39149
+  },
+  {
+    "zip": 95826,
+    "city": "Sacramento",
+    "county": "Sacramento",
+    "pop": 39145
+  },
+  {
+    "zip": 95838,
+    "city": "Sacramento",
+    "county": "Sacramento",
+    "pop": 39053
+  },
+  {
+    "zip": 94061,
+    "city": "Redwood City",
+    "county": "San Mateo",
+    "pop": 39023
+  },
+  {
+    "zip": 94044,
+    "city": "Pacifica",
+    "county": "San Mateo",
+    "pop": 38984
+  },
+  {
+    "zip": 94611,
+    "city": "Oakland",
+    "county": "Alameda",
+    "pop": 38975
+  },
+  {
+    "zip": 90802,
+    "city": "Long Beach",
+    "county": "Los Angeles",
+    "pop": 38962
+  },
+  {
+    "zip": 91763,
+    "city": "Montclair",
+    "county": "San Bernardino",
+    "pop": 38863
+  },
+  {
+    "zip": 95401,
+    "city": "Santa Rosa",
+    "county": "Sonoma",
+    "pop": 38839
+  },
+  {
+    "zip": 92675,
+    "city": "San Juan Capistrano",
+    "county": "Orange",
+    "pop": 38803
+  },
+  {
+    "zip": 94954,
+    "city": "Petaluma",
+    "county": "Sonoma",
+    "pop": 38763
+  },
+  {
+    "zip": 94520,
+    "city": "Concord",
+    "county": "Contra Costa",
+    "pop": 38753
+  },
+  {
+    "zip": 95382,
+    "city": "Turlock",
+    "county": "Stanislaus",
+    "pop": 38700
+  },
+  {
+    "zip": 95050,
+    "city": "Santa Clara",
+    "county": "Santa Clara",
+    "pop": 38699
+  },
+  {
+    "zip": 95691,
+    "city": "West Sacramento",
+    "county": "Yolo",
+    "pop": 38690
+  },
+  {
+    "zip": 91776,
+    "city": "San Gabriel",
+    "county": "Los Angeles",
+    "pop": 38664
+  },
+  {
+    "zip": 93021,
+    "city": "Moorpark",
+    "county": "Ventura",
+    "pop": 38581
+  },
+  {
+    "zip": 93245,
+    "city": "Lemoore",
+    "county": "Kings",
+    "pop": 38480
+  },
+  {
+    "zip": 94555,
+    "city": "Fremont",
+    "county": "Alameda",
+    "pop": 38478
+  },
+  {
+    "zip": 92508,
+    "city": "Riverside",
+    "county": "Riverside",
+    "pop": 38428
+  },
+  {
+    "zip": 95205,
+    "city": "Stockton",
+    "county": "San Joaquin",
+    "pop": 38350
+  },
+  {
+    "zip": 92543,
+    "city": "Hemet",
+    "county": "Riverside",
+    "pop": 38314
+  },
+  {
+    "zip": 90301,
+    "city": "Inglewood",
+    "county": "Los Angeles",
+    "pop": 38234
+  },
+  {
+    "zip": 94606,
+    "city": "Oakland",
+    "county": "Alameda",
+    "pop": 38220
+  },
+  {
+    "zip": 92037,
+    "city": "La Jolla",
+    "county": "San Diego",
+    "pop": 38168
+  },
+  {
+    "zip": 95120,
+    "city": "San Jose",
+    "county": "Santa Clara",
+    "pop": 38122
+  },
+  {
+    "zip": 93711,
+    "city": "Fresno",
+    "county": "Fresno",
+    "pop": 38007
+  },
+  {
+    "zip": 90036,
+    "city": "Los Angeles",
+    "county": "Los Angeles",
+    "pop": 37965
+  },
+  {
+    "zip": 93305,
+    "city": "Bakersfield",
+    "county": "Kern",
+    "pop": 37902
+  },
+  {
+    "zip": 91104,
+    "city": "Pasadena",
+    "county": "Los Angeles",
+    "pop": 37874
+  },
+  {
+    "zip": 91001,
+    "city": "Altadena",
+    "county": "Los Angeles",
+    "pop": 37818
+  },
+  {
+    "zip": 95928,
+    "city": "Chico",
+    "county": "Butte",
+    "pop": 37735
+  },
+  {
+    "zip": 92821,
+    "city": "Brea",
+    "county": "Orange",
+    "pop": 37712
+  },
+  {
+    "zip": 91205,
+    "city": "Glendale",
+    "county": "Los Angeles",
+    "pop": 37638
+  },
+  {
+    "zip": 95121,
+    "city": "San Jose",
+    "county": "Santa Clara",
+    "pop": 37531
+  },
+  {
+    "zip": 92065,
+    "city": "Ramona",
+    "county": "San Diego",
+    "pop": 37505
+  },
+  {
+    "zip": 95825,
+    "city": "Sacramento",
+    "county": "Sacramento",
+    "pop": 37473
+  },
+  {
+    "zip": 92831,
+    "city": "Fullerton",
+    "county": "Orange",
+    "pop": 37359
+  },
+  {
+    "zip": 94590,
+    "city": "Vallejo",
+    "county": "Solano",
+    "pop": 37280
+  },
+  {
+    "zip": 95688,
+    "city": "Vacaville",
+    "county": "Solano",
+    "pop": 37260
+  },
+  {
+    "zip": 94588,
+    "city": "Pleasanton",
+    "county": "Alameda",
+    "pop": 37253
+  },
+  {
+    "zip": 90810,
+    "city": "Long Beach",
+    "county": "Los Angeles",
+    "pop": 37251
+  },
+  {
+    "zip": 90505,
+    "city": "Torrance",
+    "county": "Los Angeles",
+    "pop": 37220
+  },
+  {
+    "zip": 95993,
+    "city": "Yuba City",
+    "county": "Sutter",
+    "pop": 37077
+  },
+  {
+    "zip": 94404,
+    "city": "San Mateo",
+    "county": "San Mateo",
+    "pop": 36985
+  },
+  {
+    "zip": 95128,
+    "city": "San Jose",
+    "county": "Santa Clara",
+    "pop": 36975
+  },
+  {
+    "zip": 92869,
+    "city": "Orange",
+    "county": "Orange",
+    "pop": 36846
+  },
+  {
+    "zip": 91601,
+    "city": "North Hollywood",
+    "county": "Los Angeles",
+    "pop": 36841
+  },
+  {
+    "zip": 93705,
+    "city": "Fresno",
+    "county": "Fresno",
+    "pop": 36808
+  },
+  {
+    "zip": 91711,
+    "city": "Claremont",
+    "county": "Los Angeles",
+    "pop": 36777
+  },
+  {
+    "zip": 95062,
+    "city": "Santa Cruz",
+    "county": "Santa Cruz",
+    "pop": 36737
+  },
+  {
+    "zip": 95973,
+    "city": "Chico",
+    "county": "Butte",
+    "pop": 36682
+  },
+  {
+    "zip": 90029,
+    "city": "Los Angeles",
+    "county": "Los Angeles",
+    "pop": 36668
+  },
+  {
+    "zip": 91362,
+    "city": "Thousand Oaks",
+    "county": "Ventura",
+    "pop": 36604
+  },
+  {
+    "zip": 95476,
+    "city": "Sonoma",
+    "county": "Sonoma",
+    "pop": 36586
+  },
+  {
+    "zip": 90012,
+    "city": "Los Angeles",
+    "county": "Los Angeles",
+    "pop": 36552
+  },
+  {
+    "zip": 94040,
+    "city": "Mountain View",
+    "county": "Santa Clara",
+    "pop": 36526
+  },
+  {
+    "zip": 95667,
+    "city": "Placerville",
+    "county": "El Dorado",
+    "pop": 36487
+  },
+  {
+    "zip": 95820,
+    "city": "Sacramento",
+    "county": "Sacramento",
+    "pop": 36437
+  },
+  {
+    "zip": 90049,
+    "city": "Los Angeles",
+    "county": "Los Angeles",
+    "pop": 36418
+  },
+  {
+    "zip": 91326,
+    "city": "Northridge",
+    "county": "Los Angeles",
+    "pop": 36339
+  },
+  {
+    "zip": 95126,
+    "city": "San Jose",
+    "county": "Santa Clara",
+    "pop": 36206
+  },
+  {
+    "zip": 91350,
+    "city": "Santa Clarita",
+    "county": "Los Angeles",
+    "pop": 36173
+  },
+  {
+    "zip": 91340,
+    "city": "San Fernando",
+    "county": "Los Angeles",
+    "pop": 36156
+  },
+  {
+    "zip": 92139,
+    "city": "San Diego",
+    "county": "San Diego",
+    "pop": 36105
+  },
+  {
+    "zip": 93012,
+    "city": "Camarillo",
+    "county": "Ventura",
+    "pop": 36052
+  },
+  {
+    "zip": 94401,
+    "city": "San Mateo",
+    "county": "San Mateo",
+    "pop": 36001
+  },
+  {
+    "zip": 92883,
+    "city": "Corona",
+    "county": "Riverside",
+    "pop": 35933
+  },
+  {
+    "zip": 90062,
+    "city": "Los Angeles",
+    "county": "Los Angeles",
+    "pop": 35916
+  },
+  {
+    "zip": 93405,
+    "city": "San Luis Obispo",
+    "county": "San Luis Obispo",
+    "pop": 35898
+  },
+  {
+    "zip": 94603,
+    "city": "Oakland",
+    "county": "Alameda",
+    "pop": 35862
+  },
+  {
+    "zip": 95340,
+    "city": "Merced",
+    "county": "Merced",
+    "pop": 35827
+  },
+  {
+    "zip": 95821,
+    "city": "Sacramento",
+    "county": "Sacramento",
+    "pop": 35812
+  },
+  {
+    "zip": 92706,
+    "city": "Santa Ana",
+    "county": "Orange",
+    "pop": 35748
+  },
+  {
+    "zip": 94124,
+    "city": "San Francisco",
+    "county": "San Francisco",
+    "pop": 35747
+  },
+  {
+    "zip": 91752,
+    "city": "Mira Loma",
+    "county": "Riverside",
+    "pop": 35694
+  },
+  {
+    "zip": 92807,
+    "city": "Anaheim",
+    "county": "Orange",
+    "pop": 35687
+  },
+  {
+    "zip": 93657,
+    "city": "Sanger",
+    "county": "Fresno",
+    "pop": 35666
+  },
+  {
+    "zip": 90621,
+    "city": "Buena Park",
+    "county": "Orange",
+    "pop": 35598
+  },
+  {
+    "zip": 94952,
+    "city": "Petaluma",
+    "county": "Sonoma",
+    "pop": 35503
+  },
+  {
+    "zip": 90266,
+    "city": "Manhattan Beach",
+    "county": "Los Angeles",
+    "pop": 35500
+  },
+  {
+    "zip": 95660,
+    "city": "North Highlands",
+    "county": "Sacramento",
+    "pop": 35461
+  },
+  {
+    "zip": 92660,
+    "city": "Newport Beach",
+    "county": "Orange",
+    "pop": 35446
+  },
+  {
+    "zip": 95361,
+    "city": "Oakdale",
+    "county": "Stanislaus",
+    "pop": 35308
+  },
+  {
+    "zip": 92649,
+    "city": "Huntington Beach",
+    "county": "Orange",
+    "pop": 35278
+  },
+  {
+    "zip": 92240,
+    "city": "Desert Hot Springs",
+    "county": "Riverside",
+    "pop": 35278
+  },
+  {
+    "zip": 94583,
+    "city": "San Ramon",
+    "county": "Contra Costa",
+    "pop": 35231
+  },
+  {
+    "zip": 91768,
+    "city": "Pomona",
+    "county": "Los Angeles",
+    "pop": 35191
+  },
+  {
+    "zip": 93612,
+    "city": "Clovis",
+    "county": "Fresno",
+    "pop": 35140
+  },
+  {
+    "zip": 91780,
+    "city": "Temple City",
+    "county": "Los Angeles",
+    "pop": 35133
+  },
+  {
+    "zip": 94621,
+    "city": "Oakland",
+    "county": "Alameda",
+    "pop": 35035
+  },
+  {
+    "zip": 94523,
+    "city": "Pleasant Hill",
+    "county": "Contra Costa",
+    "pop": 35005
+  },
+  {
+    "zip": 93561,
+    "city": "Tehachapi",
+    "county": "Kern",
+    "pop": 34979
+  },
+  {
+    "zip": 94114,
+    "city": "San Francisco",
+    "county": "San Francisco",
+    "pop": 34918
+  },
+  {
+    "zip": 92394,
+    "city": "Victorville",
+    "county": "San Bernardino",
+    "pop": 34915
+  },
+  {
+    "zip": 94063,
+    "city": "Redwood City",
+    "county": "San Mateo",
+    "pop": 34867
+  },
+  {
+    "zip": 90277,
+    "city": "Redondo Beach",
+    "county": "Los Angeles",
+    "pop": 34827
+  },
+  {
+    "zip": 90260,
+    "city": "Lawndale",
+    "county": "Los Angeles",
+    "pop": 34827
+  },
+  {
+    "zip": 91206,
+    "city": "Glendale",
+    "county": "Los Angeles",
+    "pop": 34739
+  },
+  {
+    "zip": 92131,
+    "city": "San Diego",
+    "county": "San Diego",
+    "pop": 34727
+  },
+  {
+    "zip": 92103,
+    "city": "San Diego",
+    "county": "San Diego",
+    "pop": 34700
+  },
+  {
+    "zip": 92260,
+    "city": "Palm Desert",
+    "county": "Riverside",
+    "pop": 34660
+  },
+  {
+    "zip": 91722,
+    "city": "Covina",
+    "county": "Los Angeles",
+    "pop": 34631
+  },
+  {
+    "zip": 94115,
+    "city": "San Francisco",
+    "county": "San Francisco",
+    "pop": 34604
+  },
+  {
+    "zip": 91325,
+    "city": "Northridge",
+    "county": "Los Angeles",
+    "pop": 34575
+  },
+  {
+    "zip": 93955,
+    "city": "Seaside",
+    "county": "Monterey",
+    "pop": 34566
+  },
+  {
+    "zip": 96001,
+    "city": "Redding",
+    "county": "Shasta",
+    "pop": 34293
+  },
+  {
+    "zip": 92301,
+    "city": "Adelanto",
+    "county": "San Bernardino",
+    "pop": 34250
+  },
+  {
+    "zip": 92672,
+    "city": "San Clemente",
+    "county": "Orange",
+    "pop": 34218
+  },
+  {
+    "zip": 96002,
+    "city": "Redding",
+    "county": "Shasta",
+    "pop": 34196
+  },
+  {
+    "zip": 91750,
+    "city": "La Verne",
+    "county": "Los Angeles",
+    "pop": 34129
+  },
+  {
+    "zip": 91007,
+    "city": "Arcadia",
+    "county": "Los Angeles",
+    "pop": 34116
+  },
+  {
+    "zip": 91321,
+    "city": "Newhall",
+    "county": "Los Angeles",
+    "pop": 34014
+  },
+  {
+    "zip": 92551,
+    "city": "Moreno Valley",
+    "county": "Riverside",
+    "pop": 34011
+  },
+  {
+    "zip": 91773,
+    "city": "San Dimas",
+    "county": "Los Angeles",
+    "pop": 34007
+  },
+  {
+    "zip": 95348,
+    "city": "Merced",
+    "county": "Merced",
+    "pop": 34002
+  },
+  {
+    "zip": 93555,
+    "city": "Ridgecrest",
+    "county": "Kern",
+    "pop": 33833
+  },
+  {
+    "zip": 93060,
+    "city": "Santa Paula",
+    "county": "Ventura",
+    "pop": 33773
+  },
+  {
+    "zip": 92841,
+    "city": "Garden Grove",
+    "county": "Orange",
+    "pop": 33754
+  },
+  {
+    "zip": 92595,
+    "city": "Wildomar",
+    "county": "Riverside",
+    "pop": 33649
+  },
+  {
+    "zip": 91754,
+    "city": "Monterey Park",
+    "county": "Los Angeles",
+    "pop": 33636
+  },
+  {
+    "zip": 92881,
+    "city": "Corona",
+    "county": "Riverside",
+    "pop": 33531
+  },
+  {
+    "zip": 92220,
+    "city": "Banning",
+    "county": "Riverside",
+    "pop": 33525
+  },
+  {
+    "zip": 95842,
+    "city": "Sacramento",
+    "county": "Sacramento",
+    "pop": 33522
+  },
+  {
+    "zip": 91915,
+    "city": "Chula Vista",
+    "county": "San Diego",
+    "pop": 33485
+  },
+  {
+    "zip": 93422,
+    "city": "Atascadero",
+    "county": "San Luis Obispo",
+    "pop": 33466
+  },
+  {
+    "zip": 95901,
+    "city": "Marysville",
+    "county": "Yuba",
+    "pop": 33455
+  },
+  {
+    "zip": 92311,
+    "city": "Barstow",
+    "county": "San Bernardino",
+    "pop": 33454
+  },
+  {
+    "zip": 93710,
+    "city": "Fresno",
+    "county": "Fresno",
+    "pop": 33448
+  },
+  {
+    "zip": 90504,
+    "city": "Torrance",
+    "county": "Los Angeles",
+    "pop": 33410
+  },
+  {
+    "zip": 92116,
+    "city": "San Diego",
+    "county": "San Diego",
+    "pop": 33408
+  },
+  {
+    "zip": 91791,
+    "city": "West Covina",
+    "county": "Los Angeles",
+    "pop": 33397
+  },
+  {
+    "zip": 92373,
+    "city": "Redlands",
+    "county": "San Bernardino",
+    "pop": 33353
+  },
+  {
+    "zip": 92612,
+    "city": "Irvine",
+    "county": "Orange",
+    "pop": 33234
+  },
+  {
+    "zip": 90222,
+    "city": "Compton",
+    "county": "Los Angeles",
+    "pop": 33200
+  },
+  {
+    "zip": 91423,
+    "city": "Sherman Oaks",
+    "county": "Los Angeles",
+    "pop": 33172
+  },
+  {
+    "zip": 94526,
+    "city": "Danville",
+    "county": "Contra Costa",
+    "pop": 33135
+  },
+  {
+    "zip": 95341,
+    "city": "Merced",
+    "county": "Merced",
+    "pop": 33090
+  },
+  {
+    "zip": 90606,
+    "city": "Whittier",
+    "county": "Los Angeles",
+    "pop": 32987
+  },
+  {
+    "zip": 91006,
+    "city": "Arcadia",
+    "county": "Los Angeles",
+    "pop": 32958
+  },
+  {
+    "zip": 91604,
+    "city": "Studio City",
+    "county": "Los Angeles",
+    "pop": 32910
+  },
+  {
+    "zip": 93703,
+    "city": "Fresno",
+    "county": "Fresno",
+    "pop": 32754
+  },
+  {
+    "zip": 94545,
+    "city": "Hayward",
+    "county": "Alameda",
+    "pop": 32724
+  },
+  {
+    "zip": 91351,
+    "city": "Canyon Country",
+    "county": "Los Angeles",
+    "pop": 32711
+  },
+  {
+    "zip": 92583,
+    "city": "San Jacinto",
+    "county": "Riverside",
+    "pop": 32697
+  },
+  {
+    "zip": 90230,
+    "city": "Culver City",
+    "county": "Los Angeles",
+    "pop": 32687
+  },
+  {
+    "zip": 92679,
+    "city": "Trabuco Canyon",
+    "county": "Orange",
+    "pop": 32657
+  },
+  {
+    "zip": 95356,
+    "city": "Modesto",
+    "county": "Stanislaus",
+    "pop": 32622
+  },
+  {
+    "zip": 92124,
+    "city": "San Diego",
+    "county": "San Diego",
+    "pop": 32600
+  },
+  {
+    "zip": 91354,
+    "city": "Valencia",
+    "county": "Los Angeles",
+    "pop": 32544
+  },
+  {
+    "zip": 95358,
+    "city": "Modesto",
+    "county": "Stanislaus",
+    "pop": 32524
+  },
+  {
+    "zip": 91107,
+    "city": "Pasadena",
+    "county": "Los Angeles",
+    "pop": 32503
+  },
+  {
+    "zip": 92123,
+    "city": "San Diego",
+    "county": "San Diego",
+    "pop": 32473
+  },
+  {
+    "zip": 95118,
+    "city": "San Jose",
+    "county": "Santa Clara",
+    "pop": 32421
+  },
+  {
+    "zip": 93001,
+    "city": "Ventura",
+    "county": "Ventura",
+    "pop": 32396
+  },
+  {
+    "zip": 92596,
+    "city": "Winchester",
+    "county": "Riverside",
+    "pop": 32256
+  },
+  {
+    "zip": 93940,
+    "city": "Monterey",
+    "county": "Monterey",
+    "pop": 32236
+  },
+  {
+    "zip": 90807,
+    "city": "Long Beach",
+    "county": "Los Angeles",
+    "pop": 32202
+  },
+  {
+    "zip": 95662,
+    "city": "Orangevale",
+    "county": "Sacramento",
+    "pop": 32172
+  },
+  {
+    "zip": 90803,
+    "city": "Long Beach",
+    "county": "Los Angeles",
+    "pop": 32126
+  },
+  {
+    "zip": 95377,
+    "city": "Tracy",
+    "county": "San Joaquin",
+    "pop": 32091
+  },
+  {
+    "zip": 90601,
+    "city": "Whittier",
+    "county": "Los Angeles",
+    "pop": 32053
+  },
+  {
+    "zip": 94941,
+    "city": "Mill Valley",
+    "county": "Marin",
+    "pop": 32009
+  },
+  {
+    "zip": 94610,
+    "city": "Oakland",
+    "county": "Alameda",
+    "pop": 31936
+  },
+  {
+    "zip": 91941,
+    "city": "La Mesa",
+    "county": "San Diego",
+    "pop": 31918
+  },
+  {
+    "zip": 95632,
+    "city": "Galt",
+    "county": "Sacramento",
+    "pop": 31911
+  },
+  {
+    "zip": 90008,
+    "city": "Los Angeles",
+    "county": "Los Angeles",
+    "pop": 31754
+  },
+  {
+    "zip": 91303,
+    "city": "Canoga Park",
+    "county": "Los Angeles",
+    "pop": 31586
+  },
+  {
+    "zip": 94589,
+    "city": "Vallejo",
+    "county": "Solano",
+    "pop": 31536
+  },
+  {
+    "zip": 93004,
+    "city": "Ventura",
+    "county": "Ventura",
+    "pop": 31525
+  },
+  {
+    "zip": 95482,
+    "city": "Ukiah",
+    "county": "Mendocino",
+    "pop": 31482
+  },
+  {
+    "zip": 93618,
+    "city": "Dinuba",
+    "county": "Tulare",
+    "pop": 31470
+  },
+  {
+    "zip": 94107,
+    "city": "San Francisco",
+    "county": "San Francisco",
+    "pop": 31461
+  },
+  {
+    "zip": 94132,
+    "city": "San Francisco",
+    "county": "San Francisco",
+    "pop": 31436
+  },
+  {
+    "zip": 94102,
+    "city": "San Francisco",
+    "county": "San Francisco",
+    "pop": 31392
+  },
+  {
+    "zip": 93101,
+    "city": "Santa Barbara",
+    "county": "Santa Barbara",
+    "pop": 31371
+  },
+  {
+    "zip": 95661,
+    "city": "Roseville",
+    "county": "Placer",
+    "pop": 31315
+  },
+  {
+    "zip": 95131,
+    "city": "San Jose",
+    "county": "Santa Clara",
+    "pop": 31236
+  },
+  {
+    "zip": 92107,
+    "city": "San Diego",
+    "county": "San Diego",
+    "pop": 31223
+  },
+  {
+    "zip": 90712,
+    "city": "Lakewood",
+    "county": "Los Angeles",
+    "pop": 31217
+  },
+  {
+    "zip": 94801,
+    "city": "Richmond",
+    "county": "Contra Costa",
+    "pop": 31210
+  },
+  {
+    "zip": 95070,
+    "city": "Saratoga",
+    "county": "Santa Clara",
+    "pop": 31196
+  },
+  {
+    "zip": 94043,
+    "city": "Mountain View",
+    "county": "Santa Clara",
+    "pop": 31161
+  },
+  {
+    "zip": 92203,
+    "city": "Indio",
+    "county": "Riverside",
+    "pop": 31140
+  },
+  {
+    "zip": 94070,
+    "city": "San Carlos",
+    "county": "San Mateo",
+    "pop": 31074
+  },
+  {
+    "zip": 94608,
+    "city": "Emeryville",
+    "county": "Alameda",
+    "pop": 31013
+  },
+  {
+    "zip": 92173,
+    "city": "San Ysidro",
+    "county": "San Diego",
+    "pop": 31000
+  },
+  {
+    "zip": 91505,
+    "city": "Burbank",
+    "county": "Los Angeles",
+    "pop": 30902
+  },
+  {
+    "zip": 91214,
+    "city": "La Crescenta",
+    "county": "Los Angeles",
+    "pop": 30787
+  },
+  {
+    "zip": 92673,
+    "city": "San Clemente",
+    "county": "Orange",
+    "pop": 30768
+  },
+  {
+    "zip": 93420,
+    "city": "Arroyo Grande",
+    "county": "San Luis Obispo",
+    "pop": 30740
+  },
+  {
+    "zip": 95472,
+    "city": "Sebastopol",
+    "county": "Sonoma",
+    "pop": 30736
+  },
+  {
+    "zip": 93662,
+    "city": "Selma",
+    "county": "Fresno",
+    "pop": 30725
+  },
+  {
+    "zip": 94103,
+    "city": "San Francisco",
+    "county": "San Francisco",
+    "pop": 30703
+  },
+  {
+    "zip": 91607,
+    "city": "Valley Village",
+    "county": "Los Angeles",
+    "pop": 30611
+  },
+  {
+    "zip": 92120,
+    "city": "San Diego",
+    "county": "San Diego",
+    "pop": 30550
+  },
+  {
+    "zip": 90680,
+    "city": "Stanton",
+    "county": "Orange",
+    "pop": 30531
+  },
+  {
+    "zip": 91355,
+    "city": "Valencia",
+    "county": "Los Angeles",
+    "pop": 30526
+  },
+  {
+    "zip": 91316,
+    "city": "Encino",
+    "county": "Los Angeles",
+    "pop": 30499
+  },
+  {
+    "zip": 94580,
+    "city": "San Lorenzo",
+    "county": "Alameda",
+    "pop": 30488
+  },
+  {
+    "zip": 94903,
+    "city": "San Rafael",
+    "county": "Marin",
+    "pop": 30427
+  },
+  {
+    "zip": 93654,
+    "city": "Reedley",
+    "county": "Fresno",
+    "pop": 30373
+  },
+  {
+    "zip": 95117,
+    "city": "San Jose",
+    "county": "Santa Clara",
+    "pop": 30369
+  },
+  {
+    "zip": 95682,
+    "city": "Shingle Springs",
+    "county": "El Dorado",
+    "pop": 30314
+  },
+  {
+    "zip": 95824,
+    "city": "Sacramento",
+    "county": "Sacramento",
+    "pop": 30296
+  },
+  {
+    "zip": 91731,
+    "city": "El Monte",
+    "county": "Los Angeles",
+    "pop": 30222
+  },
+  {
+    "zip": 94602,
+    "city": "Oakland",
+    "county": "Alameda",
+    "pop": 30162
+  },
+  {
+    "zip": 92405,
+    "city": "San Bernardino",
+    "county": "San Bernardino",
+    "pop": 30112
+  },
+  {
+    "zip": 92110,
+    "city": "San Diego",
+    "county": "San Diego",
+    "pop": 30108
+  },
+  {
+    "zip": 95834,
+    "city": "Sacramento",
+    "county": "Sacramento",
+    "pop": 30076
+  },
+  {
+    "zip": 90302,
+    "city": "Inglewood",
+    "county": "Los Angeles",
+    "pop": 30017
+  },
+  {
+    "zip": 92653,
+    "city": "Laguna Hills",
+    "county": "Orange",
+    "pop": 30012
+  },
+  {
+    "zip": 95966,
+    "city": "Oroville",
+    "county": "Butte",
+    "pop": 29860
+  },
+  {
+    "zip": 91356,
+    "city": "Tarzana",
+    "county": "Los Angeles",
+    "pop": 29822
+  },
+  {
+    "zip": 94549,
+    "city": "Lafayette",
+    "county": "Contra Costa",
+    "pop": 29795
+  },
+  {
+    "zip": 90028,
+    "city": "Los Angeles",
+    "county": "Los Angeles",
+    "pop": 29774
+  },
+  {
+    "zip": 93704,
+    "city": "Fresno",
+    "county": "Fresno",
+    "pop": 29740
+  },
+  {
+    "zip": 91746,
+    "city": "La Puente",
+    "county": "Los Angeles",
+    "pop": 29709
+  },
+  {
+    "zip": 91324,
+    "city": "Northridge",
+    "county": "Los Angeles",
+    "pop": 29670
+  },
+  {
+    "zip": 91792,
+    "city": "West Covina",
+    "county": "Los Angeles",
+    "pop": 29619
+  },
+  {
+    "zip": 94704,
+    "city": "Berkeley",
+    "county": "Alameda",
+    "pop": 29597
+  },
+  {
+    "zip": 92694,
+    "city": "Ladera Ranch",
+    "county": "Orange",
+    "pop": 29570
+  },
+  {
+    "zip": 91803,
+    "city": "Alhambra",
+    "county": "Los Angeles",
+    "pop": 29567
+  },
+  {
+    "zip": 94585,
+    "city": "Suisun City",
+    "county": "Solano",
+    "pop": 29525
+  },
+  {
+    "zip": 94131,
+    "city": "San Francisco",
+    "county": "San Francisco",
+    "pop": 29523
+  },
+  {
+    "zip": 90039,
+    "city": "Los Angeles",
+    "county": "Los Angeles",
+    "pop": 29510
+  },
+  {
+    "zip": 95603,
+    "city": "Auburn",
+    "county": "Placer",
+    "pop": 29474
+  },
+  {
+    "zip": 95212,
+    "city": "Stockton",
+    "county": "San Joaquin",
+    "pop": 29426
+  },
+  {
+    "zip": 93035,
+    "city": "Oxnard",
+    "county": "Ventura",
+    "pop": 29354
+  },
+  {
+    "zip": 95134,
+    "city": "San Jose",
+    "county": "Santa Clara",
+    "pop": 29349
+  },
+  {
+    "zip": 96150,
+    "city": "South Lake Tahoe",
+    "county": "El Dorado",
+    "pop": 29327
+  },
+  {
+    "zip": 95492,
+    "city": "Windsor",
+    "county": "Sonoma",
+    "pop": 29271
+  },
+  {
+    "zip": 95219,
+    "city": "Stockton",
+    "county": "San Joaquin",
+    "pop": 29270
+  },
+  {
+    "zip": 91384,
+    "city": "Castaic",
+    "county": "Los Angeles",
+    "pop": 29212
+  },
+  {
+    "zip": 96080,
+    "city": "Red Bluff",
+    "county": "Tehama",
+    "pop": 29139
+  },
+  {
+    "zip": 90041,
+    "city": "Los Angeles",
+    "county": "Los Angeles",
+    "pop": 29090
+  },
+  {
+    "zip": 92604,
+    "city": "Irvine",
+    "county": "Orange",
+    "pop": 28990
+  },
+  {
+    "zip": 93401,
+    "city": "San Luis Obispo",
+    "county": "San Luis Obispo",
+    "pop": 28854
+  },
+  {
+    "zip": 94518,
+    "city": "Concord",
+    "county": "Contra Costa",
+    "pop": 28734
+  },
+  {
+    "zip": 92316,
+    "city": "Bloomington",
+    "county": "San Bernardino",
+    "pop": 28704
+  },
+  {
+    "zip": 95204,
+    "city": "Stockton",
+    "county": "San Joaquin",
+    "pop": 28667
+  },
+  {
+    "zip": 92262,
+    "city": "Palm Springs",
+    "county": "Riverside",
+    "pop": 28618
+  },
+  {
+    "zip": 90038,
+    "city": "Los Angeles",
+    "county": "Los Angeles",
+    "pop": 28580
+  },
+  {
+    "zip": 95133,
+    "city": "San Jose",
+    "county": "Santa Clara",
+    "pop": 28565
+  },
+  {
+    "zip": 93105,
+    "city": "Santa Barbara",
+    "county": "Santa Barbara",
+    "pop": 28545
+  },
+  {
+    "zip": 95961,
+    "city": "Olivehurst",
+    "county": "Yuba",
+    "pop": 28489
+  },
+  {
+    "zip": 94062,
+    "city": "Redwood City",
+    "county": "San Mateo",
+    "pop": 28423
+  },
+  {
+    "zip": 94510,
+    "city": "Benicia",
+    "county": "Solano",
+    "pop": 28350
+  },
+  {
+    "zip": 95829,
+    "city": "Sacramento",
+    "county": "Sacramento",
+    "pop": 28264
+  },
+  {
+    "zip": 90713,
+    "city": "Lakewood",
+    "county": "Los Angeles",
+    "pop": 28202
+  },
+  {
+    "zip": 93901,
+    "city": "Salinas",
+    "county": "Monterey",
+    "pop": 28194
+  },
+  {
+    "zip": 90405,
+    "city": "Santa Monica",
+    "county": "Los Angeles",
+    "pop": 28156
+  },
+  {
+    "zip": 93280,
+    "city": "Wasco",
+    "county": "Kern",
+    "pop": 28138
+  },
+  {
+    "zip": 95370,
+    "city": "Sonora",
+    "county": "Tuolumne",
+    "pop": 28096
+  },
+  {
+    "zip": 90710,
+    "city": "Harbor City",
+    "county": "Los Angeles",
+    "pop": 28045
+  },
+  {
+    "zip": 91364,
+    "city": "Woodland Hills",
+    "county": "Los Angeles",
+    "pop": 27971
+  },
+  {
+    "zip": 95363,
+    "city": "Patterson",
+    "county": "Stanislaus",
+    "pop": 27908
+  },
+  {
+    "zip": 90061,
+    "city": "Los Angeles",
+    "county": "Los Angeles",
+    "pop": 27873
+  },
+  {
+    "zip": 94598,
+    "city": "Walnut Creek",
+    "county": "Contra Costa",
+    "pop": 27831
+  },
+  {
+    "zip": 90017,
+    "city": "Los Angeles",
+    "county": "Los Angeles",
+    "pop": 27723
+  },
+  {
+    "zip": 91103,
+    "city": "Pasadena",
+    "county": "Los Angeles",
+    "pop": 27659
+  },
+  {
+    "zip": 94559,
+    "city": "Napa",
+    "county": "Napa",
+    "pop": 27593
+  },
+  {
+    "zip": 95618,
+    "city": "El Macero",
+    "county": "Yolo",
+    "pop": 27519
+  },
+  {
+    "zip": 94306,
+    "city": "Palo Alto",
+    "county": "Santa Clara",
+    "pop": 27435
+  },
+  {
+    "zip": 90270,
+    "city": "Maywood",
+    "county": "Los Angeles",
+    "pop": 27287
+  },
+  {
+    "zip": 90035,
+    "city": "Los Angeles",
+    "county": "Los Angeles",
+    "pop": 27272
+  },
+  {
+    "zip": 91945,
+    "city": "Lemon Grove",
+    "county": "San Diego",
+    "pop": 27236
+  },
+  {
+    "zip": 93725,
+    "city": "Fresno",
+    "county": "Fresno",
+    "pop": 27214
+  },
+  {
+    "zip": 92227,
+    "city": "Brawley",
+    "county": "Imperial",
+    "pop": 27189
+  },
+  {
+    "zip": 92614,
+    "city": "Irvine",
+    "county": "Orange",
+    "pop": 27187
+  },
+  {
+    "zip": 95409,
+    "city": "Santa Rosa",
+    "county": "Sonoma",
+    "pop": 27186
+  },
+  {
+    "zip": 94002,
+    "city": "Belmont",
+    "county": "San Mateo",
+    "pop": 27155
+  },
+  {
+    "zip": 92008,
+    "city": "Carlsbad",
+    "county": "San Diego",
+    "pop": 27151
+  },
+  {
+    "zip": 90746,
+    "city": "Carson",
+    "county": "Los Angeles",
+    "pop": 27075
+  },
+  {
+    "zip": 92868,
+    "city": "Orange",
+    "county": "Orange",
+    "pop": 27072
+  },
+  {
+    "zip": 91042,
+    "city": "Tujunga",
+    "county": "Los Angeles",
+    "pop": 26966
+  },
+  {
+    "zip": 93960,
+    "city": "Soledad",
+    "county": "Monterey",
+    "pop": 26966
+  },
+  {
+    "zip": 90291,
+    "city": "Venice",
+    "county": "Los Angeles",
+    "pop": 26950
+  },
+  {
+    "zip": 92629,
+    "city": "Dana Point",
+    "county": "Orange",
+    "pop": 26877
+  },
+  {
+    "zip": 92860,
+    "city": "Norco",
+    "county": "Riverside",
+    "pop": 26849
+  },
+  {
+    "zip": 94607,
+    "city": "Oakland",
+    "county": "Alameda",
+    "pop": 26823
+  },
+  {
+    "zip": 91755,
+    "city": "Monterey Park",
+    "county": "Los Angeles",
+    "pop": 26803
+  },
+  {
+    "zip": 94133,
+    "city": "San Francisco",
+    "county": "San Francisco",
+    "pop": 26796
+  },
+  {
+    "zip": 91741,
+    "city": "Glendora",
+    "county": "Los Angeles",
+    "pop": 26794
+  },
+  {
+    "zip": 91504,
+    "city": "Burbank",
+    "county": "Los Angeles",
+    "pop": 26749
+  },
+  {
+    "zip": 91724,
+    "city": "Covina",
+    "county": "Los Angeles",
+    "pop": 26717
+  },
+  {
+    "zip": 91302,
+    "city": "Calabasas",
+    "county": "Los Angeles",
+    "pop": 26712
+  },
+  {
+    "zip": 91932,
+    "city": "Imperial Beach",
+    "county": "San Diego",
+    "pop": 26492
+  },
+  {
+    "zip": 90249,
+    "city": "Gardena",
+    "county": "Los Angeles",
+    "pop": 26429
+  },
+  {
+    "zip": 90240,
+    "city": "Downey",
+    "county": "Los Angeles",
+    "pop": 26413
+  },
+  {
+    "zip": 95242,
+    "city": "Lodi",
+    "county": "San Joaquin",
+    "pop": 26409
+  },
+  {
+    "zip": 91010,
+    "city": "Duarte",
+    "county": "Los Angeles",
+    "pop": 26380
+  },
+  {
+    "zip": 91307,
+    "city": "West Hills",
+    "county": "Los Angeles",
+    "pop": 26341
+  },
+  {
+    "zip": 91301,
+    "city": "Agoura Hills",
+    "county": "Los Angeles",
+    "pop": 26334
+  },
+  {
+    "zip": 92284,
+    "city": "Yucca Valley",
+    "county": "San Bernardino",
+    "pop": 26182
+  },
+  {
+    "zip": 92606,
+    "city": "Irvine",
+    "county": "Orange",
+    "pop": 26171
+  },
+  {
+    "zip": 94530,
+    "city": "El Cerrito",
+    "county": "Contra Costa",
+    "pop": 26145
+  },
+  {
+    "zip": 91411,
+    "city": "Van Nuys",
+    "county": "Los Angeles",
+    "pop": 26111
+  },
+  {
+    "zip": 91784,
+    "city": "Upland",
+    "county": "San Bernardino",
+    "pop": 26090
+  },
+  {
+    "zip": 95032,
+    "city": "Los Gatos",
+    "county": "Santa Clara",
+    "pop": 26047
+  },
+  {
+    "zip": 95503,
+    "city": "Eureka",
+    "county": "Humboldt",
+    "pop": 25972
+  },
+  {
+    "zip": 90304,
+    "city": "Inglewood",
+    "county": "Los Angeles",
+    "pop": 25946
+  },
+  {
+    "zip": 90064,
+    "city": "Los Angeles",
+    "county": "Los Angeles",
+    "pop": 25925
+  },
+  {
+    "zip": 92532,
+    "city": "Lake Elsinore",
+    "county": "Riverside",
+    "pop": 25923
+  },
+  {
+    "zip": 94803,
+    "city": "El Sobrante",
+    "county": "Contra Costa",
+    "pop": 25893
+  },
+  {
+    "zip": 94123,
+    "city": "San Francisco",
+    "county": "San Francisco",
+    "pop": 25890
+  },
+  {
+    "zip": 91740,
+    "city": "Glendora",
+    "county": "Los Angeles",
+    "pop": 25877
+  },
+  {
+    "zip": 94947,
+    "city": "Novato",
+    "county": "Marin",
+    "pop": 25867
+  },
+  {
+    "zip": 92832,
+    "city": "Fullerton",
+    "county": "Orange",
+    "pop": 25837
+  },
+  {
+    "zip": 94402,
+    "city": "San Mateo",
+    "county": "San Mateo",
+    "pop": 25703
+  },
+  {
+    "zip": 95815,
+    "city": "Sacramento",
+    "county": "Sacramento",
+    "pop": 25673
+  },
+  {
+    "zip": 92411,
+    "city": "San Bernardino",
+    "county": "San Bernardino",
+    "pop": 25650
+  },
+  {
+    "zip": 91030,
+    "city": "South Pasadena",
+    "county": "Los Angeles",
+    "pop": 25637
+  },
+  {
+    "zip": 94547,
+    "city": "Hercules",
+    "county": "Contra Costa",
+    "pop": 25616
+  },
+  {
+    "zip": 90602,
+    "city": "Whittier",
+    "county": "Los Angeles",
+    "pop": 25581
+  },
+  {
+    "zip": 91106,
+    "city": "Pasadena",
+    "county": "Los Angeles",
+    "pop": 25543
+  },
+  {
+    "zip": 95677,
+    "city": "Rocklin",
+    "county": "Placer",
+    "pop": 25477
+  },
+  {
+    "zip": 93933,
+    "city": "Marina",
+    "county": "Monterey",
+    "pop": 25442
+  },
+  {
+    "zip": 95945,
+    "city": "Grass Valley",
+    "county": "Nevada",
+    "pop": 25381
+  },
+  {
+    "zip": 94506,
+    "city": "Danville",
+    "county": "Contra Costa",
+    "pop": 25240
+  },
+  {
+    "zip": 95003,
+    "city": "Aptos",
+    "county": "Santa Cruz",
+    "pop": 25185
+  },
+  {
+    "zip": 91403,
+    "city": "Sherman Oaks",
+    "county": "Los Angeles",
+    "pop": 25156
+  },
+  {
+    "zip": 91737,
+    "city": "Rancho Cucamonga",
+    "county": "San Bernardino",
+    "pop": 25154
+  },
+  {
+    "zip": 95367,
+    "city": "Riverbank",
+    "county": "Stanislaus",
+    "pop": 25072
+  },
+  {
+    "zip": 90274,
+    "city": "Palos Verdes Peninsula",
+    "county": "Los Angeles",
+    "pop": 25061
+  },
+  {
+    "zip": 92211,
+    "city": "Palm Desert",
+    "county": "Riverside",
+    "pop": 25056
+  },
+  {
+    "zip": 91775,
+    "city": "San Gabriel",
+    "county": "Los Angeles",
+    "pop": 25004
+  },
+  {
+    "zip": 95354,
+    "city": "Modesto",
+    "county": "Stanislaus",
+    "pop": 24923
+  },
+  {
+    "zip": 92119,
+    "city": "San Diego",
+    "county": "San Diego",
+    "pop": 24831
+  },
+  {
+    "zip": 92651,
+    "city": "Laguna Beach",
+    "county": "Orange",
+    "pop": 24800
+  },
+  {
+    "zip": 95054,
+    "city": "Santa Clara",
+    "county": "Santa Clara",
+    "pop": 24524
+  },
+  {
+    "zip": 90303,
+    "city": "Inglewood",
+    "county": "Los Angeles",
+    "pop": 24374
+  },
+  {
+    "zip": 95215,
+    "city": "Stockton",
+    "county": "San Joaquin",
+    "pop": 24326
+  },
+  {
+    "zip": 90740,
+    "city": "Seal Beach",
+    "county": "Orange",
+    "pop": 24307
+  },
+  {
+    "zip": 93041,
+    "city": "Port Hueneme",
+    "county": "Ventura",
+    "pop": 24208
+  },
+  {
+    "zip": 94619,
+    "city": "Oakland",
+    "county": "Alameda",
+    "pop": 24112
+  },
+  {
+    "zip": 92251,
+    "city": "Imperial",
+    "county": "Imperial",
+    "pop": 23970
+  },
+  {
+    "zip": 95746,
+    "city": "Granite Bay",
+    "county": "Placer",
+    "pop": 23934
+  },
+  {
+    "zip": 95776,
+    "city": "Woodland",
+    "county": "Yolo",
+    "pop": 23911
+  },
+  {
+    "zip": 90403,
+    "city": "Santa Monica",
+    "county": "Los Angeles",
+    "pop": 23902
+  },
+  {
+    "zip": 95531,
+    "city": "Crescent City",
+    "county": "Del Norte",
+    "pop": 23737
+  },
+  {
+    "zip": 94609,
+    "city": "Oakland",
+    "county": "Alameda",
+    "pop": 23726
+  },
+  {
+    "zip": 94024,
+    "city": "Los Altos",
+    "county": "Santa Clara",
+    "pop": 23675
+  },
+  {
+    "zip": 95969,
+    "city": "Paradise",
+    "county": "Butte",
+    "pop": 23572
+  },
+  {
+    "zip": 90292,
+    "city": "Marina Del Rey",
+    "county": "Los Angeles",
+    "pop": 23549
+  },
+  {
+    "zip": 92835,
+    "city": "Fullerton",
+    "county": "Orange",
+    "pop": 23528
+  },
+  {
+    "zip": 93212,
+    "city": "Corcoran",
+    "county": "Kings",
+    "pop": 23357
+  },
+  {
+    "zip": 95864,
+    "city": "Sacramento",
+    "county": "Sacramento",
+    "pop": 23352
+  },
+  {
+    "zip": 91202,
+    "city": "Glendale",
+    "county": "Los Angeles",
+    "pop": 23345
+  },
+  {
+    "zip": 95501,
+    "city": "Eureka",
+    "county": "Humboldt",
+    "pop": 23324
+  },
+  {
+    "zip": 93907,
+    "city": "Salinas",
+    "county": "Monterey",
+    "pop": 23299
+  },
+  {
+    "zip": 91201,
+    "city": "Glendale",
+    "county": "Los Angeles",
+    "pop": 23281
+  },
+  {
+    "zip": 92602,
+    "city": "Irvine",
+    "county": "Orange",
+    "pop": 23238
+  },
+  {
+    "zip": 96007,
+    "city": "Anderson",
+    "county": "Shasta",
+    "pop": 23228
+  },
+  {
+    "zip": 94085,
+    "city": "Sunnyvale",
+    "county": "Santa Clara",
+    "pop": 23223
+  },
+  {
+    "zip": 92844,
+    "city": "Garden Grove",
+    "county": "Orange",
+    "pop": 23189
+  },
+  {
+    "zip": 92277,
+    "city": "Twentynine Palms",
+    "county": "San Bernardino",
+    "pop": 23172
+  },
+  {
+    "zip": 94597,
+    "city": "Walnut Creek",
+    "county": "Contra Costa",
+    "pop": 23108
+  },
+  {
+    "zip": 92782,
+    "city": "Tustin",
+    "county": "Orange",
+    "pop": 23084
+  },
+  {
+    "zip": 90404,
+    "city": "Santa Monica",
+    "county": "Los Angeles",
+    "pop": 22929
+  },
+  {
+    "zip": 94089,
+    "city": "Sunnyvale",
+    "county": "Santa Clara",
+    "pop": 22882
+  },
+  {
+    "zip": 90732,
+    "city": "San Pedro",
+    "county": "Los Angeles",
+    "pop": 22780
+  },
+  {
+    "zip": 95330,
+    "city": "Lathrop",
+    "county": "San Joaquin",
+    "pop": 22760
+  },
+  {
+    "zip": 93610,
+    "city": "Chowchilla",
+    "county": "Madera",
+    "pop": 22724
+  },
+  {
+    "zip": 93203,
+    "city": "Arvin",
+    "county": "Kern",
+    "pop": 22662
+  },
+  {
+    "zip": 90015,
+    "city": "Los Angeles",
+    "county": "Los Angeles",
+    "pop": 22651
+  },
+  {
+    "zip": 94030,
+    "city": "Millbrae",
+    "county": "San Mateo",
+    "pop": 22625
+  },
+  {
+    "zip": 92118,
+    "city": "Coronado",
+    "county": "San Diego",
+    "pop": 22548
+  },
+  {
+    "zip": 92225,
+    "city": "Blythe",
+    "county": "Riverside",
+    "pop": 22460
+  },
+  {
+    "zip": 92108,
+    "city": "San Diego",
+    "county": "San Diego",
+    "pop": 22280
+  },
+  {
+    "zip": 90720,
+    "city": "Los Alamitos",
+    "county": "Orange",
+    "pop": 22261
+  },
+  {
+    "zip": 93263,
+    "city": "Shafter",
+    "county": "Kern",
+    "pop": 22210
+  },
+  {
+    "zip": 92354,
+    "city": "Loma Linda",
+    "county": "San Bernardino",
+    "pop": 22050
+  },
+  {
+    "zip": 95135,
+    "city": "San Jose",
+    "county": "Santa Clara",
+    "pop": 22015
+  },
+  {
+    "zip": 95620,
+    "city": "Dixon",
+    "county": "Solano",
+    "pop": 21954
+  },
+  {
+    "zip": 92663,
+    "city": "Newport Beach",
+    "county": "Orange",
+    "pop": 21951
+  },
+  {
+    "zip": 92585,
+    "city": "Sun City",
+    "county": "Riverside",
+    "pop": 21907
+  },
+  {
+    "zip": 94579,
+    "city": "San Leandro",
+    "county": "Alameda",
+    "pop": 21883
+  },
+  {
+    "zip": 93560,
+    "city": "Rosamond",
+    "county": "Kern",
+    "pop": 21756
+  },
+  {
+    "zip": 94596,
+    "city": "Walnut Creek",
+    "county": "Contra Costa",
+    "pop": 21700
+  },
+  {
+    "zip": 94703,
+    "city": "Berkeley",
+    "county": "Alameda",
+    "pop": 21697
+  },
+  {
+    "zip": 90272,
+    "city": "Pacific Palisades",
+    "county": "Los Angeles",
+    "pop": 21629
+  },
+  {
+    "zip": 95818,
+    "city": "Sacramento",
+    "county": "Sacramento",
+    "pop": 21625
+  },
+  {
+    "zip": 92501,
+    "city": "Riverside",
+    "county": "Riverside",
+    "pop": 21590
+  },
+  {
+    "zip": 90603,
+    "city": "Whittier",
+    "county": "Los Angeles",
+    "pop": 21584
+  },
+  {
+    "zip": 90717,
+    "city": "Lomita",
+    "county": "Los Angeles",
+    "pop": 21508
+  },
+  {
+    "zip": 90048,
+    "city": "Los Angeles",
+    "county": "Los Angeles",
+    "pop": 21489
+  },
+  {
+    "zip": 91101,
+    "city": "Pasadena",
+    "county": "Los Angeles",
+    "pop": 21395
+  },
+  {
+    "zip": 93444,
+    "city": "Nipomo",
+    "county": "San Luis Obispo",
+    "pop": 21331
+  },
+  {
+    "zip": 95841,
+    "city": "Sacramento",
+    "county": "Sacramento",
+    "pop": 21229
+  },
+  {
+    "zip": 94706,
+    "city": "Albany",
+    "county": "Alameda",
+    "pop": 21218
+  },
+  {
+    "zip": 94127,
+    "city": "San Francisco",
+    "county": "San Francisco",
+    "pop": 21151
+  },
+  {
+    "zip": 90068,
+    "city": "Los Angeles",
+    "county": "Los Angeles",
+    "pop": 21092
+  },
+  {
+    "zip": 95405,
+    "city": "Santa Rosa",
+    "county": "Sonoma",
+    "pop": 21082
+  },
+  {
+    "zip": 95521,
+    "city": "Arcata",
+    "county": "Humboldt",
+    "pop": 21068
+  },
+  {
+    "zip": 95949,
+    "city": "Grass Valley",
+    "county": "Nevada",
+    "pop": 21036
+  },
+  {
+    "zip": 93630,
+    "city": "Kerman",
+    "county": "Fresno",
+    "pop": 20764
+  },
+  {
+    "zip": 95138,
+    "city": "San Jose",
+    "county": "Santa Clara",
+    "pop": 20674
+  },
+  {
+    "zip": 95827,
+    "city": "Sacramento",
+    "county": "Sacramento",
+    "pop": 20666
+  },
+  {
+    "zip": 92865,
+    "city": "Orange",
+    "county": "Orange",
+    "pop": 20664
+  },
+  {
+    "zip": 93103,
+    "city": "Santa Barbara",
+    "county": "Santa Barbara",
+    "pop": 20538
+  },
+  {
+    "zip": 94019,
+    "city": "Half Moon Bay",
+    "county": "San Mateo",
+    "pop": 20512
+  },
+  {
+    "zip": 91501,
+    "city": "Burbank",
+    "county": "Los Angeles",
+    "pop": 20511
+  },
+  {
+    "zip": 95965,
+    "city": "Oroville",
+    "county": "Butte",
+    "pop": 20498
+  },
+  {
+    "zip": 92808,
+    "city": "Anaheim",
+    "county": "Orange",
+    "pop": 20483
+  },
+  {
+    "zip": 92377,
+    "city": "Rialto",
+    "county": "San Bernardino",
+    "pop": 20476
+  },
+  {
+    "zip": 91011,
+    "city": "La Canada Flintridge",
+    "county": "Los Angeles",
+    "pop": 20301
+  },
+  {
+    "zip": 94503,
+    "city": "American Canyon",
+    "county": "Napa",
+    "pop": 20276
+  },
+  {
+    "zip": 91361,
+    "city": "Westlake Village",
+    "county": "Ventura",
+    "pop": 20258
+  },
+  {
+    "zip": 90715,
+    "city": "Lakewood",
+    "county": "Los Angeles",
+    "pop": 20256
+  },
+  {
+    "zip": 90069,
+    "city": "West Hollywood",
+    "county": "Los Angeles",
+    "pop": 20230
+  },
+  {
+    "zip": 92106,
+    "city": "San Diego",
+    "county": "San Diego",
+    "pop": 20155
+  },
+  {
+    "zip": 95391,
+    "city": "Tracy",
+    "county": "San Joaquin",
+    "pop": 20131
+  },
+  {
+    "zip": 96130,
+    "city": "Susanville",
+    "county": "Lassen",
+    "pop": 20119
+  },
+  {
+    "zip": 92264,
+    "city": "Palm Springs",
+    "county": "Riverside",
+    "pop": 20072
+  },
+  {
+    "zip": 91040,
+    "city": "Sunland",
+    "county": "Los Angeles",
+    "pop": 20049
+  },
+  {
+    "zip": 94519,
+    "city": "Concord",
+    "county": "Contra Costa",
+    "pop": 20041
+  },
+  {
+    "zip": 92887,
+    "city": "Yorba Linda",
+    "county": "Orange",
+    "pop": 20012
+  },
+  {
+    "zip": 95110,
+    "city": "San Jose",
+    "county": "Santa Clara",
+    "pop": 19928
+  },
+  {
+    "zip": 93023,
+    "city": "Ojai",
+    "county": "Ventura",
+    "pop": 19895
+  },
+  {
+    "zip": 95819,
+    "city": "Sacramento",
+    "county": "Sacramento",
+    "pop": 19890
+  },
+  {
+    "zip": 95519,
+    "city": "Mckinleyville",
+    "county": "Humboldt",
+    "pop": 19763
+  },
+  {
+    "zip": 90814,
+    "city": "Long Beach",
+    "county": "Los Angeles",
+    "pop": 19685
+  },
+  {
+    "zip": 91602,
+    "city": "North Hollywood",
+    "county": "Los Angeles",
+    "pop": 19672
+  },
+  {
+    "zip": 94563,
+    "city": "Orinda",
+    "county": "Contra Costa",
+    "pop": 19644
+  },
+  {
+    "zip": 92603,
+    "city": "Irvine",
+    "county": "Orange",
+    "pop": 19558
+  },
+  {
+    "zip": 90254,
+    "city": "Hermosa Beach",
+    "county": "Los Angeles",
+    "pop": 19539
+  },
+  {
+    "zip": 92586,
+    "city": "Sun City",
+    "county": "Riverside",
+    "pop": 19472
+  },
+  {
+    "zip": 94022,
+    "city": "Los Altos",
+    "county": "Santa Clara",
+    "pop": 19406
+  },
+  {
+    "zip": 91381,
+    "city": "Stevenson Ranch",
+    "county": "Los Angeles",
+    "pop": 19390
+  },
+  {
+    "zip": 92029,
+    "city": "Escondido",
+    "county": "San Diego",
+    "pop": 19382
+  },
+  {
+    "zip": 90210,
+    "city": "Beverly Hills",
+    "county": "Los Angeles",
+    "pop": 19314
+  },
+  {
+    "zip": 94564,
+    "city": "Pinole",
+    "county": "Contra Costa",
+    "pop": 19260
+  },
+  {
+    "zip": 91390,
+    "city": "Santa Clarita",
+    "county": "Los Angeles",
+    "pop": 19168
+  },
+  {
+    "zip": 91345,
+    "city": "Mission Hills",
+    "county": "Los Angeles",
+    "pop": 19145
+  },
+  {
+    "zip": 94945,
+    "city": "Novato",
+    "county": "Marin",
+    "pop": 19043
+  },
+  {
+    "zip": 91902,
+    "city": "Bonita",
+    "county": "San Diego",
+    "pop": 18896
+  },
+  {
+    "zip": 93927,
+    "city": "Greenfield",
+    "county": "Monterey",
+    "pop": 18812
+  },
+  {
+    "zip": 93268,
+    "city": "Taft",
+    "county": "Kern",
+    "pop": 18731
+  },
+  {
+    "zip": 91204,
+    "city": "Glendale",
+    "county": "Los Angeles",
+    "pop": 18723
+  },
+  {
+    "zip": 92082,
+    "city": "Valley Center",
+    "county": "San Diego",
+    "pop": 18705
+  },
+  {
+    "zip": 94949,
+    "city": "Novato",
+    "county": "Marin",
+    "pop": 18695
+  },
+  {
+    "zip": 91506,
+    "city": "Burbank",
+    "county": "Los Angeles",
+    "pop": 18591
+  },
+  {
+    "zip": 91723,
+    "city": "Covina",
+    "county": "Los Angeles",
+    "pop": 18521
+  },
+  {
+    "zip": 96161,
+    "city": "Truckee",
+    "county": "Nevada",
+    "pop": 18488
+  },
+  {
+    "zip": 95959,
+    "city": "Nevada City",
+    "county": "Nevada",
+    "pop": 18343
+  },
+  {
+    "zip": 93210,
+    "city": "Coalinga",
+    "county": "Fresno",
+    "pop": 18336
+  },
+  {
+    "zip": 92371,
+    "city": "Phelan",
+    "county": "San Bernardino",
+    "pop": 18269
+  },
+  {
+    "zip": 93247,
+    "city": "Lindsay",
+    "county": "Tulare",
+    "pop": 18234
+  },
+  {
+    "zip": 92270,
+    "city": "Rancho Mirage",
+    "county": "Riverside",
+    "pop": 18193
+  },
+  {
+    "zip": 91901,
+    "city": "Alpine",
+    "county": "San Diego",
+    "pop": 18162
+  },
+  {
+    "zip": 94595,
+    "city": "Walnut Creek",
+    "county": "Contra Costa",
+    "pop": 18117
+  },
+  {
+    "zip": 93015,
+    "city": "Fillmore",
+    "county": "Ventura",
+    "pop": 17989
+  },
+  {
+    "zip": 90265,
+    "city": "Malibu",
+    "county": "Los Angeles",
+    "pop": 17954
+  },
+  {
+    "zip": 95366,
+    "city": "Ripon",
+    "county": "San Joaquin",
+    "pop": 17909
+  },
+  {
+    "zip": 90502,
+    "city": "Torrance",
+    "county": "Los Angeles",
+    "pop": 17778
+  },
+  {
+    "zip": 95602,
+    "city": "Auburn",
+    "county": "Placer",
+    "pop": 17557
+  },
+  {
+    "zip": 95448,
+    "city": "Healdsburg",
+    "county": "Sonoma",
+    "pop": 17407
+  },
+  {
+    "zip": 91914,
+    "city": "Chula Vista",
+    "county": "San Diego",
+    "pop": 17379
+  },
+  {
+    "zip": 93111,
+    "city": "Santa Barbara",
+    "county": "Santa Barbara",
+    "pop": 17329
+  },
+  {
+    "zip": 94618,
+    "city": "Oakland",
+    "county": "Alameda",
+    "pop": 17252
+  },
+  {
+    "zip": 92587,
+    "city": "Sun City",
+    "county": "Riverside",
+    "pop": 17237
+  },
+  {
+    "zip": 92582,
+    "city": "San Jacinto",
+    "county": "Riverside",
+    "pop": 17219
+  },
+  {
+    "zip": 95816,
+    "city": "Sacramento",
+    "county": "Sacramento",
+    "pop": 17199
+  },
+  {
+    "zip": 93930,
+    "city": "King City",
+    "county": "Monterey",
+    "pop": 17067
+  },
+  {
+    "zip": 95334,
+    "city": "Livingston",
+    "county": "Merced",
+    "pop": 17057
+  },
+  {
+    "zip": 94702,
+    "city": "Berkeley",
+    "county": "Alameda",
+    "pop": 16860
+  },
+  {
+    "zip": 93110,
+    "city": "Santa Barbara",
+    "county": "Santa Barbara",
+    "pop": 16849
+  },
+  {
+    "zip": 90701,
+    "city": "Artesia",
+    "county": "Los Angeles",
+    "pop": 16801
+  },
+  {
+    "zip": 90245,
+    "city": "El Segundo",
+    "county": "Los Angeles",
+    "pop": 16731
+  },
+  {
+    "zip": 90670,
+    "city": "Santa Fe Springs",
+    "county": "Los Angeles",
+    "pop": 16700
+  },
+  {
+    "zip": 93013,
+    "city": "Carpinteria",
+    "county": "Santa Barbara",
+    "pop": 16652
+  },
+  {
+    "zip": 95673,
+    "city": "Rio Linda",
+    "county": "Sacramento",
+    "pop": 16636
+  },
+  {
+    "zip": 94301,
+    "city": "Palo Alto",
+    "county": "Santa Clara",
+    "pop": 16582
+  },
+  {
+    "zip": 93728,
+    "city": "Fresno",
+    "county": "Fresno",
+    "pop": 16574
+  },
+  {
+    "zip": 93402,
+    "city": "Los Osos",
+    "county": "San Luis Obispo",
+    "pop": 16562
+  },
+  {
+    "zip": 94556,
+    "city": "Moraga",
+    "county": "Contra Costa",
+    "pop": 16428
+  },
+  {
+    "zip": 93241,
+    "city": "Lamont",
+    "county": "Kern",
+    "pop": 16397
+  },
+  {
+    "zip": 94305,
+    "city": "Stanford",
+    "county": "Santa Clara",
+    "pop": 16397
+  },
+  {
+    "zip": 92610,
+    "city": "Foothill Ranch",
+    "county": "Orange",
+    "pop": 16360
+  },
+  {
+    "zip": 93631,
+    "city": "Kingsburg",
+    "county": "Fresno",
+    "pop": 16282
+  },
+  {
+    "zip": 92845,
+    "city": "Garden Grove",
+    "county": "Orange",
+    "pop": 16273
+  },
+  {
+    "zip": 95252,
+    "city": "Valley Springs",
+    "county": "Calaveras",
+    "pop": 16262
+  },
+  {
+    "zip": 96022,
+    "city": "Cottonwood",
+    "county": "Shasta",
+    "pop": 16253
+  },
+  {
+    "zip": 93250,
+    "city": "Mc Farland",
+    "county": "Kern",
+    "pop": 16191
+  },
+  {
+    "zip": 93648,
+    "city": "Parlier",
+    "county": "Fresno",
+    "pop": 16087
+  },
+  {
+    "zip": 92637,
+    "city": "Laguna Hills",
+    "county": "Orange",
+    "pop": 16053
+  },
+  {
+    "zip": 96021,
+    "city": "Corning",
+    "county": "Tehama",
+    "pop": 16017
+  },
+  {
+    "zip": 94960,
+    "city": "San Anselmo",
+    "county": "Marin",
+    "pop": 15868
+  },
+  {
+    "zip": 91208,
+    "city": "Glendale",
+    "county": "Los Angeles",
+    "pop": 15860
+  },
+  {
+    "zip": 94612,
+    "city": "Oakland",
+    "county": "Alameda",
+    "pop": 15785
+  },
+  {
+    "zip": 95422,
+    "city": "Clearlake",
+    "county": "Lake",
+    "pop": 15696
+  },
+  {
+    "zip": 90623,
+    "city": "La Palma",
+    "county": "Orange",
+    "pop": 15662
+  },
+  {
+    "zip": 92866,
+    "city": "Orange",
+    "county": "Orange",
+    "pop": 15574
+  },
+  {
+    "zip": 93950,
+    "city": "Pacific Grove",
+    "county": "Monterey",
+    "pop": 15547
+  },
+  {
+    "zip": 95963,
+    "city": "Orland",
+    "county": "Glenn",
+    "pop": 15492
+  },
+  {
+    "zip": 95203,
+    "city": "Stockton",
+    "county": "San Joaquin",
+    "pop": 15487
+  },
+  {
+    "zip": 91203,
+    "city": "Glendale",
+    "county": "Los Angeles",
+    "pop": 15410
+  },
+  {
+    "zip": 95066,
+    "city": "Scotts Valley",
+    "county": "Santa Cruz",
+    "pop": 15341
+  },
+  {
+    "zip": 92274,
+    "city": "Thermal",
+    "county": "Riverside",
+    "pop": 15317
+  },
+  {
+    "zip": 91436,
+    "city": "Encino",
+    "county": "Los Angeles",
+    "pop": 15292
+  },
+  {
+    "zip": 94507,
+    "city": "Alamo",
+    "county": "Contra Costa",
+    "pop": 15105
+  },
+  {
+    "zip": 90305,
+    "city": "Inglewood",
+    "county": "Los Angeles",
+    "pop": 15042
+  },
+  {
+    "zip": 94552,
+    "city": "Castro Valley",
+    "county": "Alameda",
+    "pop": 14938
+  },
+  {
+    "zip": 95437,
+    "city": "Fort Bragg",
+    "county": "Mendocino",
+    "pop": 14859
+  },
+  {
+    "zip": 95650,
+    "city": "Loomis",
+    "county": "Placer",
+    "pop": 14808
+  },
+  {
+    "zip": 90232,
+    "city": "Culver City",
+    "county": "Los Angeles",
+    "pop": 14780
+  },
+  {
+    "zip": 94502,
+    "city": "Alameda",
+    "county": "Alameda",
+    "pop": 14701
+  },
+  {
+    "zip": 94542,
+    "city": "Hayward",
+    "county": "Alameda",
+    "pop": 14699
+  },
+  {
+    "zip": 95130,
+    "city": "San Jose",
+    "county": "Santa Clara",
+    "pop": 14660
+  },
+  {
+    "zip": 94041,
+    "city": "Mountain View",
+    "county": "Santa Clara",
+    "pop": 14572
+  },
+  {
+    "zip": 95315,
+    "city": "Delhi",
+    "county": "Merced",
+    "pop": 14520
+  },
+  {
+    "zip": 95605,
+    "city": "West Sacramento",
+    "county": "Yolo",
+    "pop": 14493
+  },
+  {
+    "zip": 93543,
+    "city": "Littlerock",
+    "county": "Los Angeles",
+    "pop": 14392
+  },
+  {
+    "zip": 90716,
+    "city": "Hawaiian Gardens",
+    "county": "Los Angeles",
+    "pop": 14285
+  },
+  {
+    "zip": 95304,
+    "city": "Tracy",
+    "county": "San Joaquin",
+    "pop": 14282
+  },
+  {
+    "zip": 95540,
+    "city": "Fortuna",
+    "county": "Humboldt",
+    "pop": 14196
+  },
+  {
+    "zip": 94805,
+    "city": "Richmond",
+    "county": "Contra Costa",
+    "pop": 14188
+  },
+  {
+    "zip": 93514,
+    "city": "Bishop",
+    "county": "Inyo",
+    "pop": 14175
+  },
+  {
+    "zip": 94108,
+    "city": "San Francisco",
+    "county": "San Francisco",
+    "pop": 14143
+  },
+  {
+    "zip": 93221,
+    "city": "Exeter",
+    "county": "Tulare",
+    "pop": 14129
+  },
+  {
+    "zip": 95388,
+    "city": "Winton",
+    "county": "Merced",
+    "pop": 14116
+  },
+  {
+    "zip": 95368,
+    "city": "Salida",
+    "county": "Stanislaus",
+    "pop": 14041
+  },
+  {
+    "zip": 91377,
+    "city": "Oak Park",
+    "county": "Ventura",
+    "pop": 13853
+  },
+  {
+    "zip": 93505,
+    "city": "California City",
+    "county": "Kern",
+    "pop": 13774
+  },
+  {
+    "zip": 95817,
+    "city": "Sacramento",
+    "county": "Sacramento",
+    "pop": 13758
+  },
+  {
+    "zip": 94517,
+    "city": "Clayton",
+    "county": "Contra Costa",
+    "pop": 13687
+  },
+  {
+    "zip": 92408,
+    "city": "San Bernardino",
+    "county": "San Bernardino",
+    "pop": 13635
+  },
+  {
+    "zip": 92014,
+    "city": "Del Mar",
+    "county": "San Diego",
+    "pop": 13568
+  },
+  {
+    "zip": 93433,
+    "city": "Grover Beach",
+    "county": "San Luis Obispo",
+    "pop": 13535
+  },
+  {
+    "zip": 94705,
+    "city": "Berkeley",
+    "county": "Alameda",
+    "pop": 13527
+  },
+  {
+    "zip": 95030,
+    "city": "Los Gatos",
+    "county": "Santa Clara",
+    "pop": 13481
+  },
+  {
+    "zip": 91108,
+    "city": "San Marino",
+    "county": "Los Angeles",
+    "pop": 13375
+  },
+  {
+    "zip": 90212,
+    "city": "Beverly Hills",
+    "county": "Los Angeles",
+    "pop": 13314
+  },
+  {
+    "zip": 95360,
+    "city": "Newman",
+    "county": "Stanislaus",
+    "pop": 13278
+  },
+  {
+    "zip": 94904,
+    "city": "Greenbrae",
+    "county": "Marin",
+    "pop": 12994
+  },
+  {
+    "zip": 95490,
+    "city": "Willits",
+    "county": "Mendocino",
+    "pop": 12975
+  },
+  {
+    "zip": 93204,
+    "city": "Avenal",
+    "county": "Kings",
+    "pop": 12961
+  },
+  {
+    "zip": 93640,
+    "city": "Mendota",
+    "county": "Fresno",
+    "pop": 12920
+  },
+  {
+    "zip": 93923,
+    "city": "Carmel",
+    "county": "Monterey",
+    "pop": 12837
+  },
+  {
+    "zip": 95320,
+    "city": "Escalon",
+    "county": "San Joaquin",
+    "pop": 12822
+  },
+  {
+    "zip": 92075,
+    "city": "Solana Beach",
+    "county": "San Diego",
+    "pop": 12752
+  },
+  {
+    "zip": 94920,
+    "city": "Belvedere Tiburon",
+    "county": "Marin",
+    "pop": 12740
+  },
+  {
+    "zip": 90293,
+    "city": "Playa Del Rey",
+    "county": "Los Angeles",
+    "pop": 12728
+  },
+  {
+    "zip": 91105,
+    "city": "Pasadena",
+    "county": "Los Angeles",
+    "pop": 12617
+  },
+  {
+    "zip": 90013,
+    "city": "Los Angeles",
+    "county": "Los Angeles",
+    "pop": 12559
+  },
+  {
+    "zip": 92313,
+    "city": "Grand Terrace",
+    "county": "San Bernardino",
+    "pop": 12547
+  },
+  {
+    "zip": 95742,
+    "city": "Rancho Cordova",
+    "county": "Sacramento",
+    "pop": 12472
+  },
+  {
+    "zip": 94065,
+    "city": "Redwood City",
+    "county": "San Mateo",
+    "pop": 12461
+  },
+  {
+    "zip": 93908,
+    "city": "Salinas",
+    "county": "Monterey",
+    "pop": 12398
+  },
+  {
+    "zip": 92625,
+    "city": "Corona Del Mar",
+    "county": "Orange",
+    "pop": 12394
+  },
+  {
+    "zip": 95954,
+    "city": "Magalia",
+    "county": "Butte",
+    "pop": 12371
+  },
+  {
+    "zip": 90040,
+    "city": "Los Angeles",
+    "county": "Los Angeles",
+    "pop": 12328
+  },
+  {
+    "zip": 93301,
+    "city": "Bakersfield",
+    "county": "Kern",
+    "pop": 12325
+  },
+  {
+    "zip": 95832,
+    "city": "Sacramento",
+    "county": "Sacramento",
+    "pop": 12114
+  },
+  {
+    "zip": 93614,
+    "city": "Coarsegold",
+    "county": "Madera",
+    "pop": 11982
+  },
+  {
+    "zip": 94709,
+    "city": "Berkeley",
+    "county": "Alameda",
+    "pop": 11951
+  },
+  {
+    "zip": 95948,
+    "city": "Gridley",
+    "county": "Butte",
+    "pop": 11917
+  },
+  {
+    "zip": 95814,
+    "city": "Sacramento",
+    "county": "Sacramento",
+    "pop": 11908
+  },
+  {
+    "zip": 90402,
+    "city": "Santa Monica",
+    "county": "Los Angeles",
+    "pop": 11882
+  },
+  {
+    "zip": 94707,
+    "city": "Berkeley",
+    "county": "Alameda",
+    "pop": 11767
+  },
+  {
+    "zip": 95357,
+    "city": "Modesto",
+    "county": "Stanislaus",
+    "pop": 11765
+  },
+  {
+    "zip": 92055,
+    "city": "Camp Pendleton",
+    "county": "San Diego",
+    "pop": 11765
+  },
+  {
+    "zip": 93646,
+    "city": "Orange Cove",
+    "county": "Fresno",
+    "pop": 11738
+  },
+  {
+    "zip": 90248,
+    "city": "Gardena",
+    "county": "Los Angeles",
+    "pop": 11607
+  },
+  {
+    "zip": 95451,
+    "city": "Kelseyville",
+    "county": "Lake",
+    "pop": 11603
+  },
+  {
+    "zip": 95640,
+    "city": "Ione",
+    "county": "Amador",
+    "pop": 11598
+  },
+  {
+    "zip": 92007,
+    "city": "Cardiff By The Sea",
+    "county": "San Diego",
+    "pop": 11417
+  },
+  {
+    "zip": 93647,
+    "city": "Orosi",
+    "county": "Tulare",
+    "pop": 11407
+  },
+  {
+    "zip": 94965,
+    "city": "Sausalito",
+    "county": "Marin",
+    "pop": 11394
+  },
+  {
+    "zip": 94708,
+    "city": "Berkeley",
+    "county": "Alameda",
+    "pop": 11394
+  },
+  {
+    "zip": 92314,
+    "city": "Big Bear City",
+    "county": "San Bernardino",
+    "pop": 11385
+  },
+  {
+    "zip": 95453,
+    "city": "Lakeport",
+    "county": "Lake",
+    "pop": 11369
+  },
+  {
+    "zip": 91207,
+    "city": "Glendale",
+    "county": "Los Angeles",
+    "pop": 11031
+  },
+  {
+    "zip": 95073,
+    "city": "Soquel",
+    "county": "Santa Cruz",
+    "pop": 11013
+  },
+  {
+    "zip": 95425,
+    "city": "Cloverdale",
+    "county": "Sonoma",
+    "pop": 10984
+  },
+  {
+    "zip": 91024,
+    "city": "Sierra Madre",
+    "county": "Los Angeles",
+    "pop": 10932
+  },
+  {
+    "zip": 95953,
+    "city": "Live Oak",
+    "county": "Sutter",
+    "pop": 10925
+  },
+  {
+    "zip": 93442,
+    "city": "Morro Bay",
+    "county": "San Luis Obispo",
+    "pop": 10917
+  },
+  {
+    "zip": 94105,
+    "city": "San Francisco",
+    "county": "San Francisco",
+    "pop": 10916
+  },
+  {
+    "zip": 95338,
+    "city": "Mariposa",
+    "county": "Mariposa",
+    "pop": 10827
+  },
+  {
+    "zip": 95012,
+    "city": "Castroville",
+    "county": "Monterey",
+    "pop": 10780
+  },
+  {
+    "zip": 93109,
+    "city": "Santa Barbara",
+    "county": "Santa Barbara",
+    "pop": 10771
+  },
+  {
+    "zip": 93223,
+    "city": "Farmersville",
+    "county": "Tulare",
+    "pop": 10716
+  },
+  {
+    "zip": 91502,
+    "city": "Burbank",
+    "county": "Los Angeles",
+    "pop": 10708
+  },
+  {
+    "zip": 92567,
+    "city": "Nuevo",
+    "county": "Riverside",
+    "pop": 10648
+  },
+  {
+    "zip": 94571,
+    "city": "Rio Vista",
+    "county": "Solano",
+    "pop": 10605
+  },
+  {
+    "zip": 95386,
+    "city": "Waterford",
+    "county": "Stanislaus",
+    "pop": 10557
+  },
+  {
+    "zip": 91978,
+    "city": "Spring Valley",
+    "county": "San Diego",
+    "pop": 10506
+  },
+  {
+    "zip": 95694,
+    "city": "Winters",
+    "county": "Yolo",
+    "pop": 10495
+  },
+  {
+    "zip": 95064,
+    "city": "Santa Cruz",
+    "county": "Santa Cruz",
+    "pop": 10486
+  },
+  {
+    "zip": 95713,
+    "city": "Colfax",
+    "county": "Placer",
+    "pop": 10472
+  },
+  {
+    "zip": 93108,
+    "city": "Santa Barbara",
+    "county": "Santa Barbara",
+    "pop": 10401
+  },
+  {
+    "zip": 94572,
+    "city": "Rodeo",
+    "county": "Contra Costa",
+    "pop": 10384
+  },
+  {
+    "zip": 95322,
+    "city": "Gustine",
+    "county": "Merced",
+    "pop": 10373
+  },
+  {
+    "zip": 93622,
+    "city": "Firebaugh",
+    "county": "Fresno",
+    "pop": 10335
+  },
+  {
+    "zip": 93219,
+    "city": "Earlimart",
+    "county": "Tulare",
+    "pop": 10285
+  },
+  {
+    "zip": 96019,
+    "city": "Shasta Lake",
+    "county": "Shasta",
+    "pop": 10178
+  },
+  {
+    "zip": 93701,
+    "city": "Fresno",
+    "county": "Fresno",
+    "pop": 10166
+  },
+  {
+    "zip": 95326,
+    "city": "Hughson",
+    "county": "Stanislaus",
+    "pop": 10147
+  },
+  {
+    "zip": 95119,
+    "city": "San Jose",
+    "county": "Santa Clara",
+    "pop": 10027
+  },
+  {
+    "zip": 93286,
+    "city": "Woodlake",
+    "county": "Tulare",
+    "pop": 9906
+  },
+  {
+    "zip": 92310,
+    "city": "Fort Irwin",
+    "county": "San Bernardino",
+    "pop": 9872
+  },
+  {
+    "zip": 94925,
+    "city": "Corte Madera",
+    "county": "Marin",
+    "pop": 9838
+  },
+  {
+    "zip": 90094,
+    "city": "Los Angeles",
+    "county": "Los Angeles",
+    "pop": 9827
+  },
+  {
+    "zip": 92657,
+    "city": "Newport Coast",
+    "county": "Orange",
+    "pop": 9802
+  },
+  {
+    "zip": 92254,
+    "city": "Mecca",
+    "county": "Riverside",
+    "pop": 9779
+  },
+  {
+    "zip": 96097,
+    "city": "Yreka",
+    "county": "Siskiyou",
+    "pop": 9746
+  },
+  {
+    "zip": 95006,
+    "city": "Boulder Creek",
+    "county": "Santa Cruz",
+    "pop": 9632
+  },
+  {
+    "zip": 93546,
+    "city": "Mammoth Lakes",
+    "county": "Mono",
+    "pop": 9591
+  },
+  {
+    "zip": 95033,
+    "city": "Los Gatos",
+    "county": "Santa Clara",
+    "pop": 9511
+  },
+  {
+    "zip": 92252,
+    "city": "Joshua Tree",
+    "county": "San Bernardino",
+    "pop": 9351
+  },
+  {
+    "zip": 93465,
+    "city": "Templeton",
+    "county": "San Luis Obispo",
+    "pop": 9202
+  },
+  {
+    "zip": 93926,
+    "city": "Gonzales",
+    "county": "Monterey",
+    "pop": 9171
+  },
+  {
+    "zip": 92359,
+    "city": "Mentone",
+    "county": "San Bernardino",
+    "pop": 9170
+  },
+  {
+    "zip": 93644,
+    "city": "Oakhurst",
+    "county": "Madera",
+    "pop": 9055
+  },
+  {
+    "zip": 95946,
+    "city": "Penn Valley",
+    "county": "Nevada",
+    "pop": 8977
+  },
+  {
+    "zip": 94931,
+    "city": "Cotati",
+    "county": "Sonoma",
+    "pop": 8926
+  },
+  {
+    "zip": 93620,
+    "city": "Dos Palos",
+    "county": "Merced",
+    "pop": 8906
+  },
+  {
+    "zip": 95010,
+    "city": "Capitola",
+    "county": "Santa Cruz",
+    "pop": 8856
+  },
+  {
+    "zip": 94574,
+    "city": "Saint Helena",
+    "county": "Napa",
+    "pop": 8757
+  },
+  {
+    "zip": 92320,
+    "city": "Calimesa",
+    "county": "Riverside",
+    "pop": 8753
+  },
+  {
+    "zip": 94930,
+    "city": "Fairfax",
+    "county": "Marin",
+    "pop": 8728
+  },
+  {
+    "zip": 90014,
+    "city": "Los Angeles",
+    "county": "Los Angeles",
+    "pop": 8688
+  },
+  {
+    "zip": 92250,
+    "city": "Holtville",
+    "county": "Imperial",
+    "pop": 8655
+  },
+  {
+    "zip": 91020,
+    "city": "Montrose",
+    "county": "Los Angeles",
+    "pop": 8633
+  },
+  {
+    "zip": 91935,
+    "city": "Jamul",
+    "county": "San Diego",
+    "pop": 8550
+  },
+  {
+    "zip": 95065,
+    "city": "Santa Cruz",
+    "county": "Santa Cruz",
+    "pop": 8491
+  },
+  {
+    "zip": 95726,
+    "city": "Pollock Pines",
+    "county": "El Dorado",
+    "pop": 8449
+  },
+  {
+    "zip": 92655,
+    "city": "Midway City",
+    "county": "Orange",
+    "pop": 8382
+  },
+  {
+    "zip": 90077,
+    "city": "Los Angeles",
+    "county": "Los Angeles",
+    "pop": 8382
+  },
+  {
+    "zip": 95324,
+    "city": "Hilmar",
+    "county": "Merced",
+    "pop": 8380
+  },
+  {
+    "zip": 95988,
+    "city": "Willows",
+    "county": "Glenn",
+    "pop": 8298
+  },
+  {
+    "zip": 93449,
+    "city": "Pismo Beach",
+    "county": "San Luis Obispo",
+    "pop": 8180
+  },
+  {
+    "zip": 93625,
+    "city": "Fowler",
+    "county": "Fresno",
+    "pop": 8059
+  },
+  {
+    "zip": 90211,
+    "city": "Beverly Hills",
+    "county": "Los Angeles",
+    "pop": 8019
+  },
+  {
+    "zip": 92325,
+    "city": "Crestline",
+    "county": "San Bernardino",
+    "pop": 7948
+  },
+  {
+    "zip": 95327,
+    "city": "Jamestown",
+    "county": "Tuolumne",
+    "pop": 7918
+  },
+  {
+    "zip": 93463,
+    "city": "Solvang",
+    "county": "Santa Barbara",
+    "pop": 7911
+  },
+  {
+    "zip": 94710,
+    "city": "Berkeley",
+    "county": "Alameda",
+    "pop": 7893
+  },
+  {
+    "zip": 92249,
+    "city": "Heber",
+    "county": "Imperial",
+    "pop": 7861
+  },
+  {
+    "zip": 92548,
+    "city": "Homeland",
+    "county": "Riverside",
+    "pop": 7859
+  },
+  {
+    "zip": 92067,
+    "city": "Rancho Santa Fe",
+    "county": "San Diego",
+    "pop": 7724
+  },
+  {
+    "zip": 92241,
+    "city": "Desert Hot Springs",
+    "county": "Riverside",
+    "pop": 7699
+  },
+  {
+    "zip": 95005,
+    "city": "Ben Lomond",
+    "county": "Santa Cruz",
+    "pop": 7661
+  },
+  {
+    "zip": 93721,
+    "city": "Fresno",
+    "county": "Fresno",
+    "pop": 7650
+  },
+  {
+    "zip": 90056,
+    "city": "Los Angeles",
+    "county": "Los Angeles",
+    "pop": 7649
+  },
+  {
+    "zip": 93510,
+    "city": "Acton",
+    "county": "Los Angeles",
+    "pop": 7644
+  },
+  {
+    "zip": 95932,
+    "city": "Colusa",
+    "county": "Colusa",
+    "pop": 7633
+  },
+  {
+    "zip": 95220,
+    "city": "Acampo",
+    "county": "San Joaquin",
+    "pop": 7576
+  },
+  {
+    "zip": 92233,
+    "city": "Calipatria",
+    "county": "Imperial",
+    "pop": 7509
+  },
+  {
+    "zip": 94515,
+    "city": "Calistoga",
+    "county": "Napa",
+    "pop": 7491
+  },
+  {
+    "zip": 93434,
+    "city": "Guadalupe",
+    "county": "Santa Barbara",
+    "pop": 7451
+  },
+  {
+    "zip": 94027,
+    "city": "Atherton",
+    "county": "San Mateo",
+    "pop": 7415
+  },
+  {
+    "zip": 95019,
+    "city": "Freedom",
+    "county": "Santa Cruz",
+    "pop": 7368
+  },
+  {
+    "zip": 95139,
+    "city": "San Jose",
+    "county": "Santa Clara",
+    "pop": 7363
+  },
+  {
+    "zip": 93234,
+    "city": "Huron",
+    "county": "Fresno",
+    "pop": 7355
+  },
+  {
+    "zip": 93022,
+    "city": "Oak View",
+    "county": "Ventura",
+    "pop": 7179
+  },
+  {
+    "zip": 94028,
+    "city": "Portola Valley",
+    "county": "San Mateo",
+    "pop": 7125
+  },
+  {
+    "zip": 90401,
+    "city": "Santa Monica",
+    "county": "Los Angeles",
+    "pop": 7111
+  },
+  {
+    "zip": 93445,
+    "city": "Oceano",
+    "county": "San Luis Obispo",
+    "pop": 7106
+  },
+  {
+    "zip": 95642,
+    "city": "Jackson",
+    "county": "Amador",
+    "pop": 7101
+  },
+  {
+    "zip": 96067,
+    "city": "Mount Shasta",
+    "county": "Siskiyou",
+    "pop": 7094
+  },
+  {
+    "zip": 95693,
+    "city": "Wilton",
+    "county": "Sacramento",
+    "pop": 7037
+  },
+  {
+    "zip": 95316,
+    "city": "Denair",
+    "county": "Stanislaus",
+    "pop": 7022
+  },
+  {
+    "zip": 95631,
+    "city": "Foresthill",
+    "county": "Placer",
+    "pop": 6851
+  },
+  {
+    "zip": 95018,
+    "city": "Felton",
+    "county": "Santa Cruz",
+    "pop": 6841
+  },
+  {
+    "zip": 95658,
+    "city": "Newcastle",
+    "county": "Placer",
+    "pop": 6837
+  },
+  {
+    "zip": 93267,
+    "city": "Strathmore",
+    "county": "Tulare",
+    "pop": 6788
+  },
+  {
+    "zip": 92276,
+    "city": "Thousand Palms",
+    "county": "Riverside",
+    "pop": 6748
+  },
+  {
+    "zip": 94939,
+    "city": "Larkspur",
+    "county": "Marin",
+    "pop": 6747
+  },
+  {
+    "zip": 93591,
+    "city": "Palmdale",
+    "county": "Los Angeles",
+    "pop": 6744
+  },
+  {
+    "zip": 92342,
+    "city": "Helendale",
+    "county": "San Bernardino",
+    "pop": 6737
+  },
+  {
+    "zip": 96094,
+    "city": "Weed",
+    "county": "Siskiyou",
+    "pop": 6611
+  },
+  {
+    "zip": 92356,
+    "city": "Lucerne Valley",
+    "county": "San Bernardino",
+    "pop": 6573
+  },
+  {
+    "zip": 93924,
+    "city": "Carmel Valley",
+    "county": "Monterey",
+    "pop": 6514
+  },
+  {
+    "zip": 92624,
+    "city": "Capistrano Beach",
+    "county": "Orange",
+    "pop": 6372
+  },
+  {
+    "zip": 93615,
+    "city": "Cutler",
+    "county": "Tulare",
+    "pop": 6347
+  },
+  {
+    "zip": 93240,
+    "city": "Lake Isabella",
+    "county": "Kern",
+    "pop": 6327
+  },
+  {
+    "zip": 95683,
+    "city": "Sloughhouse",
+    "county": "Sacramento",
+    "pop": 6326
+  },
+  {
+    "zip": 95436,
+    "city": "Forestville",
+    "county": "Sonoma",
+    "pop": 6240
+  },
+  {
+    "zip": 93427,
+    "city": "Buellton",
+    "county": "Santa Barbara",
+    "pop": 6200
+  },
+  {
+    "zip": 92372,
+    "city": "Pinon Hills",
+    "county": "San Bernardino",
+    "pop": 6071
+  },
+  {
+    "zip": 95202,
+    "city": "Stockton",
+    "county": "San Joaquin",
+    "pop": 6066
+  },
+  {
+    "zip": 95626,
+    "city": "Elverta",
+    "county": "Sacramento",
+    "pop": 6065
+  },
+  {
+    "zip": 95987,
+    "city": "Williams",
+    "county": "Colusa",
+    "pop": 5950
+  },
+  {
+    "zip": 95971,
+    "city": "Quincy",
+    "county": "Plumas",
+    "pop": 5924
+  },
+  {
+    "zip": 95046,
+    "city": "San Martin",
+    "county": "Santa Clara",
+    "pop": 5918
+  },
+  {
+    "zip": 93428,
+    "city": "Cambria",
+    "county": "San Luis Obispo",
+    "pop": 5859
+  },
+  {
+    "zip": 92861,
+    "city": "Villa Park",
+    "county": "Orange",
+    "pop": 5822
+  },
+  {
+    "zip": 93656,
+    "city": "Riverdale",
+    "county": "Fresno",
+    "pop": 5806
+  },
+  {
+    "zip": 95619,
+    "city": "Diamond Springs",
+    "county": "El Dorado",
+    "pop": 5718
+  },
+  {
+    "zip": 90290,
+    "city": "Topanga",
+    "county": "Los Angeles",
+    "pop": 5681
+  },
+  {
+    "zip": 92352,
+    "city": "Lake Arrowhead",
+    "county": "San Bernardino",
+    "pop": 5578
+  },
+  {
+    "zip": 95470,
+    "city": "Redwood Valley",
+    "county": "Mendocino",
+    "pop": 5561
+  },
+  {
+    "zip": 95709,
+    "city": "Camino",
+    "county": "El Dorado",
+    "pop": 5498
+  },
+  {
+    "zip": 95249,
+    "city": "San Andreas",
+    "county": "Calaveras",
+    "pop": 5444
+  },
+  {
+    "zip": 93256,
+    "city": "Pixley",
+    "county": "Tulare",
+    "pop": 5431
+  },
+  {
+    "zip": 95912,
+    "city": "Arbuckle",
+    "county": "Colusa",
+    "pop": 5380
+  },
+  {
+    "zip": 93270,
+    "city": "Terra Bella",
+    "county": "Tulare",
+    "pop": 5367
+  },
+  {
+    "zip": 92363,
+    "city": "Needles",
+    "county": "San Bernardino",
+    "pop": 5348
+  },
+  {
+    "zip": 93460,
+    "city": "Santa Ynez",
+    "county": "Santa Barbara",
+    "pop": 5284
+  },
+  {
+    "zip": 95672,
+    "city": "Rescue",
+    "county": "El Dorado",
+    "pop": 5266
+  },
+  {
+    "zip": 96101,
+    "city": "Alturas",
+    "county": "Modoc",
+    "pop": 5262
+  },
+  {
+    "zip": 95692,
+    "city": "Wheatland",
+    "county": "Yuba",
+    "pop": 5251
+  },
+  {
+    "zip": 92315,
+    "city": "Big Bear Lake",
+    "county": "San Bernardino",
+    "pop": 5247
+  },
+  {
+    "zip": 93609,
+    "city": "Caruthers",
+    "county": "Fresno",
+    "pop": 5177
+  },
+  {
+    "zip": 95446,
+    "city": "Guerneville",
+    "county": "Sonoma",
+    "pop": 5168
+  },
+  {
+    "zip": 95231,
+    "city": "French Camp",
+    "county": "San Joaquin",
+    "pop": 5165
+  },
+  {
+    "zip": 95666,
+    "city": "Pioneer",
+    "county": "Amador",
+    "pop": 5164
+  },
+  {
+    "zip": 92003,
+    "city": "Bonsall",
+    "county": "San Diego",
+    "pop": 5160
+  },
+  {
+    "zip": 92590,
+    "city": "Temecula",
+    "county": "Riverside",
+    "pop": 5154
+  },
+  {
+    "zip": 92210,
+    "city": "Indian Wells",
+    "county": "Riverside",
+    "pop": 5138
+  },
+  {
+    "zip": 95722,
+    "city": "Meadow Vista",
+    "county": "Placer",
+    "pop": 5123
+  },
+  {
+    "zip": 95222,
+    "city": "Angels Camp",
+    "county": "Calaveras",
+    "pop": 5029
+  },
+  {
+    "zip": 92278,
+    "city": "Twentynine Palms",
+    "county": "San Bernardino",
+    "pop": 4890
+  },
+  {
+    "zip": 92823,
+    "city": "Brea",
+    "county": "Orange",
+    "pop": 4872
+  },
+  {
+    "zip": 96013,
+    "city": "Burney",
+    "county": "Shasta",
+    "pop": 4819
+  },
+  {
+    "zip": 93501,
+    "city": "Mojave",
+    "county": "Kern",
+    "pop": 4802
+  },
+  {
+    "zip": 93225,
+    "city": "Frazier Park",
+    "county": "Kern",
+    "pop": 4782
+  },
+  {
+    "zip": 95365,
+    "city": "Planada",
+    "county": "Merced",
+    "pop": 4775
+  },
+  {
+    "zip": 92121,
+    "city": "San Diego",
+    "county": "San Diego",
+    "pop": 4729
+  },
+  {
+    "zip": 93272,
+    "city": "Tipton",
+    "county": "Tulare",
+    "pop": 4707
+  },
+  {
+    "zip": 94005,
+    "city": "Brisbane",
+    "county": "San Mateo",
+    "pop": 4697
+  },
+  {
+    "zip": 96088,
+    "city": "Shingletown",
+    "county": "Shasta",
+    "pop": 4690
+  },
+  {
+    "zip": 95685,
+    "city": "Sutter Creek",
+    "county": "Amador",
+    "pop": 4665
+  },
+  {
+    "zip": 94951,
+    "city": "Penngrove",
+    "county": "Sonoma",
+    "pop": 4574
+  },
+  {
+    "zip": 92397,
+    "city": "Wrightwood",
+    "county": "San Bernardino",
+    "pop": 4562
+  },
+  {
+    "zip": 92539,
+    "city": "Anza",
+    "county": "Riverside",
+    "pop": 4557
+  },
+  {
+    "zip": 95228,
+    "city": "Copperopolis",
+    "county": "Calaveras",
+    "pop": 4541
+  },
+  {
+    "zip": 96064,
+    "city": "Montague",
+    "county": "Siskiyou",
+    "pop": 4533
+  },
+  {
+    "zip": 95328,
+    "city": "Keyes",
+    "county": "Stanislaus",
+    "pop": 4480
+  },
+  {
+    "zip": 93451,
+    "city": "San Miguel",
+    "county": "San Luis Obispo",
+    "pop": 4477
+  },
+  {
+    "zip": 92382,
+    "city": "Running Springs",
+    "county": "San Bernardino",
+    "pop": 4462
+  },
+  {
+    "zip": 95938,
+    "city": "Durham",
+    "county": "Butte",
+    "pop": 4446
+  },
+  {
+    "zip": 91906,
+    "city": "Campo",
+    "county": "San Diego",
+    "pop": 4428
+  },
+  {
+    "zip": 95614,
+    "city": "Cool",
+    "county": "El Dorado",
+    "pop": 4359
+  },
+  {
+    "zip": 95665,
+    "city": "Pine Grove",
+    "county": "Amador",
+    "pop": 4303
+  },
+  {
+    "zip": 93202,
+    "city": "Armona",
+    "county": "Kings",
+    "pop": 4273
+  },
+  {
+    "zip": 95004,
+    "city": "Aromas",
+    "county": "Monterey",
+    "pop": 4218
+  },
+  {
+    "zip": 95045,
+    "city": "San Juan Bautista",
+    "county": "San Benito",
+    "pop": 4217
+  },
+  {
+    "zip": 93235,
+    "city": "Ivanhoe",
+    "county": "Tulare",
+    "pop": 4215
+  },
+  {
+    "zip": 95236,
+    "city": "Linden",
+    "county": "San Joaquin",
+    "pop": 4199
+  },
+  {
+    "zip": 95633,
+    "city": "Garden Valley",
+    "county": "El Dorado",
+    "pop": 4188
+  },
+  {
+    "zip": 95655,
+    "city": "Mather",
+    "county": "Sacramento",
+    "pop": 4156
+  },
+  {
+    "zip": 94129,
+    "city": "San Francisco",
+    "county": "San Francisco",
+    "pop": 4136
+  },
+  {
+    "zip": 93660,
+    "city": "San Joaquin",
+    "county": "Fresno",
+    "pop": 4090
+  },
+  {
+    "zip": 93953,
+    "city": "Pebble Beach",
+    "county": "Monterey",
+    "pop": 4028
+  },
+  {
+    "zip": 95247,
+    "city": "Murphys",
+    "county": "Calaveras",
+    "pop": 4024
+  },
+  {
+    "zip": 91708,
+    "city": "Chino",
+    "county": "San Bernardino",
+    "pop": 4009
+  },
+  {
+    "zip": 95379,
+    "city": "Tuolumne",
+    "county": "Tuolumne",
+    "pop": 4003
+  },
+  {
+    "zip": 96073,
+    "city": "Palo Cedro",
+    "county": "Shasta",
+    "pop": 3980
+  },
+  {
+    "zip": 90704,
+    "city": "Avalon",
+    "county": "Los Angeles",
+    "pop": 3979
+  },
+  {
+    "zip": 94508,
+    "city": "Angwin",
+    "county": "Napa",
+    "pop": 3935
+  },
+  {
+    "zip": 93675,
+    "city": "Squaw Valley",
+    "county": "Fresno",
+    "pop": 3905
+  },
+  {
+    "zip": 96055,
+    "city": "Los Molinos",
+    "county": "Tehama",
+    "pop": 3866
+  },
+  {
+    "zip": 95053,
+    "city": "Santa Clara",
+    "county": "Santa Clara",
+    "pop": 3862
+  },
+  {
+    "zip": 94304,
+    "city": "Palo Alto",
+    "county": "Santa Clara",
+    "pop": 3852
+  },
+  {
+    "zip": 94535,
+    "city": "Travis Afb",
+    "county": "Solano",
+    "pop": 3842
+  },
+  {
+    "zip": 90010,
+    "city": "Los Angeles",
+    "county": "Los Angeles",
+    "pop": 3822
+  },
+  {
+    "zip": 95627,
+    "city": "Esparto",
+    "county": "Yolo",
+    "pop": 3802
+  },
+  {
+    "zip": 90089,
+    "city": "Los Angeles",
+    "county": "Los Angeles",
+    "pop": 3786
+  },
+  {
+    "zip": 95423,
+    "city": "Clearlake Oaks",
+    "county": "Lake",
+    "pop": 3751
+  },
+  {
+    "zip": 92140,
+    "city": "San Diego",
+    "county": "San Diego",
+    "pop": 3737
+  },
+  {
+    "zip": 95917,
+    "city": "Biggs",
+    "county": "Butte",
+    "pop": 3717
+  },
+  {
+    "zip": 95623,
+    "city": "El Dorado",
+    "county": "El Dorado",
+    "pop": 3665
+  },
+  {
+    "zip": 95237,
+    "city": "Lockeford",
+    "county": "San Joaquin",
+    "pop": 3639
+  },
+  {
+    "zip": 96035,
+    "city": "Gerber",
+    "county": "Tehama",
+    "pop": 3629
+  },
+  {
+    "zip": 94111,
+    "city": "San Francisco",
+    "county": "San Francisco",
+    "pop": 3611
+  },
+  {
+    "zip": 95383,
+    "city": "Twain Harte",
+    "county": "Tuolumne",
+    "pop": 3611
+  },
+  {
+    "zip": 95258,
+    "city": "Woodbridge",
+    "county": "San Joaquin",
+    "pop": 3599
+  },
+  {
+    "zip": 96143,
+    "city": "Kings Beach",
+    "county": "Placer",
+    "pop": 3585
+  },
+  {
+    "zip": 96093,
+    "city": "Weaverville",
+    "county": "Trinity",
+    "pop": 3570
+  },
+  {
+    "zip": 95634,
+    "city": "Georgetown",
+    "county": "El Dorado",
+    "pop": 3559
+  },
+  {
+    "zip": 93523,
+    "city": "Edwards",
+    "county": "Kern",
+    "pop": 3556
+  },
+  {
+    "zip": 95321,
+    "city": "Groveland",
+    "county": "Tuolumne",
+    "pop": 3541
+  },
+  {
+    "zip": 93602,
+    "city": "Auberry",
+    "county": "Fresno",
+    "pop": 3530
+  },
+  {
+    "zip": 93242,
+    "city": "Laton",
+    "county": "Fresno",
+    "pop": 3474
+  },
+  {
+    "zip": 95546,
+    "city": "Hoopa",
+    "county": "Humboldt",
+    "pop": 3466
+  },
+  {
+    "zip": 94038,
+    "city": "Moss Beach",
+    "county": "San Mateo",
+    "pop": 3450
+  },
+  {
+    "zip": 92661,
+    "city": "Newport Beach",
+    "county": "Orange",
+    "pop": 3445
+  },
+  {
+    "zip": 95562,
+    "city": "Rio Dell",
+    "county": "Humboldt",
+    "pop": 3401
+  },
+  {
+    "zip": 93437,
+    "city": "Lompoc",
+    "county": "Santa Barbara",
+    "pop": 3387
+  },
+  {
+    "zip": 93265,
+    "city": "Springville",
+    "county": "Tulare",
+    "pop": 3379
+  },
+  {
+    "zip": 93921,
+    "city": "Carmel",
+    "county": "Monterey",
+    "pop": 3316
+  },
+  {
+    "zip": 94525,
+    "city": "Crockett",
+    "county": "Contra Costa",
+    "pop": 3290
+  },
+  {
+    "zip": 96114,
+    "city": "Janesville",
+    "county": "Lassen",
+    "pop": 3267
+  },
+  {
+    "zip": 96122,
+    "city": "Portola",
+    "county": "Plumas",
+    "pop": 3266
+  },
+  {
+    "zip": 95982,
+    "city": "Sutter",
+    "county": "Sutter",
+    "pop": 3259
+  },
+  {
+    "zip": 91330,
+    "city": "Northridge",
+    "county": "Los Angeles",
+    "pop": 3257
+  },
+  {
+    "zip": 96137,
+    "city": "Westwood",
+    "county": "Lassen",
+    "pop": 3252
+  },
+  {
+    "zip": 95457,
+    "city": "Lower Lake",
+    "county": "Lake",
+    "pop": 3227
+  },
+  {
+    "zip": 93066,
+    "city": "Somis",
+    "county": "Ventura",
+    "pop": 3220
+  },
+  {
+    "zip": 95442,
+    "city": "Glen Ellen",
+    "county": "Sonoma",
+    "pop": 3213
+  },
+  {
+    "zip": 93650,
+    "city": "Fresno",
+    "county": "Fresno",
+    "pop": 3173
+  },
+  {
+    "zip": 94964,
+    "city": "San Quentin",
+    "county": "Marin",
+    "pop": 3155
+  },
+  {
+    "zip": 95684,
+    "city": "Somerset",
+    "county": "El Dorado",
+    "pop": 3129
+  },
+  {
+    "zip": 94599,
+    "city": "Yountville",
+    "county": "Napa",
+    "pop": 3108
+  },
+  {
+    "zip": 92256,
+    "city": "Morongo Valley",
+    "county": "San Bernardino",
+    "pop": 3100
+  },
+  {
+    "zip": 92536,
+    "city": "Aguanga",
+    "county": "Riverside",
+    "pop": 3076
+  },
+  {
+    "zip": 94130,
+    "city": "San Francisco",
+    "county": "San Francisco",
+    "pop": 3008
+  },
+  {
+    "zip": 95458,
+    "city": "Lucerne",
+    "county": "Lake",
+    "pop": 2960
+  },
+  {
+    "zip": 90021,
+    "city": "Los Angeles",
+    "county": "Los Angeles",
+    "pop": 2945
+  },
+  {
+    "zip": 96041,
+    "city": "Hayfork",
+    "county": "Trinity",
+    "pop": 2934
+  },
+  {
+    "zip": 95918,
+    "city": "Browns Valley",
+    "county": "Yuba",
+    "pop": 2915
+  },
+  {
+    "zip": 95536,
+    "city": "Ferndale",
+    "county": "Humboldt",
+    "pop": 2899
+  },
+  {
+    "zip": 93430,
+    "city": "Cayucos",
+    "county": "San Luis Obispo",
+    "pop": 2847
+  },
+  {
+    "zip": 94720,
+    "city": "Berkeley",
+    "county": "Alameda",
+    "pop": 2845
+  },
+  {
+    "zip": 93643,
+    "city": "North Fork",
+    "county": "Madera",
+    "pop": 2783
+  },
+  {
+    "zip": 92365,
+    "city": "Newberry Springs",
+    "county": "San Bernardino",
+    "pop": 2733
+  },
+  {
+    "zip": 90058,
+    "city": "Los Angeles",
+    "county": "Los Angeles",
+    "pop": 2718
+  },
+  {
+    "zip": 92230,
+    "city": "Cabazon",
+    "county": "Riverside",
+    "pop": 2705
+  },
+  {
+    "zip": 95951,
+    "city": "Hamilton City",
+    "county": "Glenn",
+    "pop": 2686
+  },
+  {
+    "zip": 93532,
+    "city": "Lake Hughes",
+    "county": "Los Angeles",
+    "pop": 2683
+  },
+  {
+    "zip": 95223,
+    "city": "Arnold",
+    "county": "Calaveras",
+    "pop": 2666
+  },
+  {
+    "zip": 92061,
+    "city": "Pauma Valley",
+    "county": "San Diego",
+    "pop": 2660
+  },
+  {
+    "zip": 96032,
+    "city": "Fort Jones",
+    "county": "Siskiyou",
+    "pop": 2653
+  },
+  {
+    "zip": 95485,
+    "city": "Upper Lake",
+    "county": "Lake",
+    "pop": 2650
+  },
+  {
+    "zip": 92275,
+    "city": "Salton City",
+    "county": "Imperial",
+    "pop": 2632
+  },
+  {
+    "zip": 92036,
+    "city": "Julian",
+    "county": "San Diego",
+    "pop": 2593
+  },
+  {
+    "zip": 92281,
+    "city": "Westmorland",
+    "county": "Imperial",
+    "pop": 2591
+  },
+  {
+    "zip": 93616,
+    "city": "Del Rey",
+    "county": "Fresno",
+    "pop": 2582
+  },
+  {
+    "zip": 95428,
+    "city": "Covelo",
+    "county": "Mendocino",
+    "pop": 2580
+  },
+  {
+    "zip": 93453,
+    "city": "Santa Margarita",
+    "county": "San Luis Obispo",
+    "pop": 2578
+  },
+  {
+    "zip": 95329,
+    "city": "La Grange",
+    "county": "Stanislaus",
+    "pop": 2570
+  },
+  {
+    "zip": 95461,
+    "city": "Middletown",
+    "county": "Lake",
+    "pop": 2567
+  },
+  {
+    "zip": 95333,
+    "city": "Le Grand",
+    "county": "Merced",
+    "pop": 2539
+  },
+  {
+    "zip": 92662,
+    "city": "Newport Beach",
+    "county": "Orange",
+    "pop": 2519
+  },
+  {
+    "zip": 92549,
+    "city": "Idyllwild",
+    "county": "Riverside",
+    "pop": 2517
+  },
+  {
+    "zip": 95460,
+    "city": "Mendocino",
+    "county": "Mendocino",
+    "pop": 2508
+  },
+  {
+    "zip": 95464,
+    "city": "Nice",
+    "county": "Lake",
+    "pop": 2505
+  },
+  {
+    "zip": 94037,
+    "city": "Montara",
+    "county": "San Mateo",
+    "pop": 2504
+  },
+  {
+    "zip": 95663,
+    "city": "Penryn",
+    "county": "Placer",
+    "pop": 2493
+  },
+  {
+    "zip": 93252,
+    "city": "Maricopa",
+    "county": "Kern",
+    "pop": 2488
+  },
+  {
+    "zip": 93271,
+    "city": "Three Rivers",
+    "county": "Tulare",
+    "pop": 2479
+  },
+  {
+    "zip": 93285,
+    "city": "Wofford Heights",
+    "county": "Kern",
+    "pop": 2477
+  },
+  {
+    "zip": 93261,
+    "city": "Richgrove",
+    "county": "Tulare",
+    "pop": 2434
+  },
+  {
+    "zip": 92285,
+    "city": "Landers",
+    "county": "San Bernardino",
+    "pop": 2430
+  },
+  {
+    "zip": 90067,
+    "city": "Los Angeles",
+    "county": "Los Angeles",
+    "pop": 2428
+  },
+  {
+    "zip": 93626,
+    "city": "Friant",
+    "county": "Fresno",
+    "pop": 2427
+  },
+  {
+    "zip": 93667,
+    "city": "Tollhouse",
+    "county": "Fresno",
+    "pop": 2405
+  },
+  {
+    "zip": 96020,
+    "city": "Chester",
+    "county": "Plumas",
+    "pop": 2369
+  },
+  {
+    "zip": 95002,
+    "city": "Alviso",
+    "county": "Santa Clara",
+    "pop": 2348
+  },
+  {
+    "zip": 95570,
+    "city": "Trinidad",
+    "county": "Humboldt",
+    "pop": 2338
+  },
+  {
+    "zip": 96027,
+    "city": "Etna",
+    "county": "Siskiyou",
+    "pop": 2327
+  },
+  {
+    "zip": 95669,
+    "city": "Plymouth",
+    "county": "Amador",
+    "pop": 2315
+  },
+  {
+    "zip": 92004,
+    "city": "Borrego Springs",
+    "county": "San Diego",
+    "pop": 2299
+  },
+  {
+    "zip": 93283,
+    "city": "Weldon",
+    "county": "Kern",
+    "pop": 2261
+  },
+  {
+    "zip": 92401,
+    "city": "San Bernardino",
+    "county": "San Bernardino",
+    "pop": 2257
+  },
+  {
+    "zip": 95445,
+    "city": "Gualala",
+    "county": "Mendocino",
+    "pop": 2257
+  },
+  {
+    "zip": 92386,
+    "city": "Sugarloaf",
+    "county": "San Bernardino",
+    "pop": 2248
+  },
+  {
+    "zip": 93516,
+    "city": "Boron",
+    "county": "Kern",
+    "pop": 2244
+  },
+  {
+    "zip": 95465,
+    "city": "Occidental",
+    "county": "Sonoma",
+    "pop": 2244
+  },
+  {
+    "zip": 95690,
+    "city": "Walnut Grove",
+    "county": "Sacramento",
+    "pop": 2215
+  },
+  {
+    "zip": 92398,
+    "city": "Yermo",
+    "county": "San Bernardino",
+    "pop": 2195
+  },
+  {
+    "zip": 94511,
+    "city": "Bethel Island",
+    "county": "Contra Costa",
+    "pop": 2161
+  },
+  {
+    "zip": 96145,
+    "city": "Tahoe City",
+    "county": "Placer",
+    "pop": 2147
+  },
+  {
+    "zip": 95638,
+    "city": "Herald",
+    "county": "Sacramento",
+    "pop": 2126
+  },
+  {
+    "zip": 96025,
+    "city": "Dunsmuir",
+    "county": "Siskiyou",
+    "pop": 2126
+  },
+  {
+    "zip": 95113,
+    "city": "San Jose",
+    "county": "Santa Clara",
+    "pop": 2107
+  },
+  {
+    "zip": 95454,
+    "city": "Laytonville",
+    "county": "Mendocino",
+    "pop": 2107
+  },
+  {
+    "zip": 91962,
+    "city": "Pine Valley",
+    "county": "San Diego",
+    "pop": 2106
+  },
+  {
+    "zip": 93925,
+    "city": "Chualar",
+    "county": "Monterey",
+    "pop": 2073
+  },
+  {
+    "zip": 92676,
+    "city": "Silverado",
+    "county": "Orange",
+    "pop": 2068
+  },
+  {
+    "zip": 96134,
+    "city": "Tulelake",
+    "county": "Siskiyou",
+    "pop": 2059
+  },
+  {
+    "zip": 95372,
+    "city": "Soulsbyville",
+    "county": "Tuolumne",
+    "pop": 2056
+  },
+  {
+    "zip": 93205,
+    "city": "Bodfish",
+    "county": "Kern",
+    "pop": 2030
+  },
+  {
+    "zip": 92273,
+    "city": "Seeley",
+    "county": "Imperial",
+    "pop": 2010
+  },
+  {
+    "zip": 92391,
+    "city": "Twin Peaks",
+    "county": "San Bernardino",
+    "pop": 1959
+  },
+  {
+    "zip": 93258,
+    "city": "Porterville",
+    "county": "Tulare",
+    "pop": 1952
+  },
+  {
+    "zip": 91916,
+    "city": "Descanso",
+    "county": "San Diego",
+    "pop": 1939
+  },
+  {
+    "zip": 96113,
+    "city": "Herlong",
+    "county": "Lassen",
+    "pop": 1925
+  },
+  {
+    "zip": 95469,
+    "city": "Potter Valley",
+    "county": "Mendocino",
+    "pop": 1911
+  },
+  {
+    "zip": 95311,
+    "city": "Coulterville",
+    "county": "Mariposa",
+    "pop": 1893
+  },
+  {
+    "zip": 92145,
+    "city": "San Diego",
+    "county": "San Diego",
+    "pop": 1883
+  },
+  {
+    "zip": 95645,
+    "city": "Knights Landing",
+    "county": "Yolo",
+    "pop": 1881
+  },
+  {
+    "zip": 95975,
+    "city": "Rough And Ready",
+    "county": "Nevada",
+    "pop": 1877
+  },
+  {
+    "zip": 93249,
+    "city": "Lost Hills",
+    "county": "Kern",
+    "pop": 1875
+  },
+  {
+    "zip": 95310,
+    "city": "Columbia",
+    "county": "Tuolumne",
+    "pop": 1874
+  },
+  {
+    "zip": 95542,
+    "city": "Garberville",
+    "county": "Humboldt",
+    "pop": 1871
+  },
+  {
+    "zip": 90263,
+    "city": "Malibu",
+    "county": "Los Angeles",
+    "pop": 1838
+  },
+  {
+    "zip": 93040,
+    "city": "Piru",
+    "county": "Ventura",
+    "pop": 1827
+  },
+  {
+    "zip": 93545,
+    "city": "Lone Pine",
+    "county": "Inyo",
+    "pop": 1821
+  },
+  {
+    "zip": 95421,
+    "city": "Cazadero",
+    "county": "Sonoma",
+    "pop": 1808
+  },
+  {
+    "zip": 95567,
+    "city": "Smith River",
+    "county": "Del Norte",
+    "pop": 1802
+  },
+  {
+    "zip": 93651,
+    "city": "Prather",
+    "county": "Fresno",
+    "pop": 1798
+  },
+  {
+    "zip": 95441,
+    "city": "Geyserville",
+    "county": "Sonoma",
+    "pop": 1797
+  },
+  {
+    "zip": 96118,
+    "city": "Loyalton",
+    "county": "Sierra",
+    "pop": 1779
+  },
+  {
+    "zip": 93562,
+    "city": "Trona",
+    "county": "San Bernardino",
+    "pop": 1771
+  },
+  {
+    "zip": 95319,
+    "city": "Empire",
+    "county": "Stanislaus",
+    "pop": 1745
+  },
+  {
+    "zip": 95245,
+    "city": "Mokelumne Hill",
+    "county": "Calaveras",
+    "pop": 1717
+  },
+  {
+    "zip": 93553,
+    "city": "Pearblossom",
+    "county": "Los Angeles",
+    "pop": 1709
+  },
+  {
+    "zip": 93206,
+    "city": "Buttonwillow",
+    "county": "Kern",
+    "pop": 1704
+  },
+  {
+    "zip": 95689,
+    "city": "Volcano",
+    "county": "Amador",
+    "pop": 1698
+  },
+  {
+    "zip": 94020,
+    "city": "La Honda",
+    "county": "San Mateo",
+    "pop": 1697
+  },
+  {
+    "zip": 92283,
+    "city": "Winterhaven",
+    "county": "Imperial",
+    "pop": 1684
+  },
+  {
+    "zip": 95374,
+    "city": "Stevinson",
+    "county": "Merced",
+    "pop": 1682
+  },
+  {
+    "zip": 93601,
+    "city": "Ahwahnee",
+    "county": "Madera",
+    "pop": 1674
+  },
+  {
+    "zip": 95524,
+    "city": "Bayside",
+    "county": "Humboldt",
+    "pop": 1668
+  },
+  {
+    "zip": 93440,
+    "city": "Los Alamos",
+    "county": "Santa Barbara",
+    "pop": 1659
+  },
+  {
+    "zip": 95947,
+    "city": "Greenville",
+    "county": "Plumas",
+    "pop": 1657
+  },
+  {
+    "zip": 95903,
+    "city": "Beale Afb",
+    "county": "Yuba",
+    "pop": 1653
+  },
+  {
+    "zip": 95211,
+    "city": "Stockton",
+    "county": "San Joaquin",
+    "pop": 1624
+  },
+  {
+    "zip": 93513,
+    "city": "Big Pine",
+    "county": "Inyo",
+    "pop": 1621
+  },
+  {
+    "zip": 95560,
+    "city": "Redway",
+    "county": "Humboldt",
+    "pop": 1615
+  },
+  {
+    "zip": 95664,
+    "city": "Pilot Hill",
+    "county": "El Dorado",
+    "pop": 1603
+  },
+  {
+    "zip": 93222,
+    "city": "Frazier Park",
+    "county": "Kern",
+    "pop": 1583
+  },
+  {
+    "zip": 93201,
+    "city": "Alpaugh",
+    "county": "Tulare",
+    "pop": 1580
+  },
+  {
+    "zip": 96052,
+    "city": "Lewiston",
+    "county": "Trinity",
+    "pop": 1574
+  },
+  {
+    "zip": 95573,
+    "city": "Willow Creek",
+    "county": "Humboldt",
+    "pop": 1568
+  },
+  {
+    "zip": 93426,
+    "city": "Bradley",
+    "county": "Monterey",
+    "pop": 1568
+  },
+  {
+    "zip": 95449,
+    "city": "Hopland",
+    "county": "Mendocino",
+    "pop": 1560
+  },
+  {
+    "zip": 93527,
+    "city": "Inyokern",
+    "county": "Kern",
+    "pop": 1559
+  },
+  {
+    "zip": 93920,
+    "city": "Big Sur",
+    "county": "Monterey",
+    "pop": 1545
+  },
+  {
+    "zip": 92086,
+    "city": "Warner Springs",
+    "county": "San Diego",
+    "pop": 1543
+  },
+  {
+    "zip": 95937,
+    "city": "Dunnigan",
+    "county": "Yolo",
+    "pop": 1540
+  },
+  {
+    "zip": 93243,
+    "city": "Lebec",
+    "county": "Kern",
+    "pop": 1532
+  },
+  {
+    "zip": 96056,
+    "city": "Mcarthur",
+    "county": "Shasta",
+    "pop": 1530
+  },
+  {
+    "zip": 93432,
+    "city": "Creston",
+    "county": "San Luis Obispo",
+    "pop": 1503
+  },
+  {
+    "zip": 95641,
+    "city": "Isleton",
+    "county": "Sacramento",
+    "pop": 1489
+  },
+  {
+    "zip": 95977,
+    "city": "Smartville",
+    "county": "Yuba",
+    "pop": 1488
+  },
+  {
+    "zip": 94514,
+    "city": "Byron",
+    "county": "Contra Costa",
+    "pop": 1475
+  },
+  {
+    "zip": 91905,
+    "city": "Boulevard",
+    "county": "San Diego",
+    "pop": 1472
+  },
+  {
+    "zip": 92059,
+    "city": "Pala",
+    "county": "San Diego",
+    "pop": 1464
+  },
+  {
+    "zip": 92561,
+    "city": "Mountain Center",
+    "county": "Riverside",
+    "pop": 1462
+  },
+  {
+    "zip": 95528,
+    "city": "Carlotta",
+    "county": "Humboldt",
+    "pop": 1437
+  },
+  {
+    "zip": 96107,
+    "city": "Coleville",
+    "county": "Mono",
+    "pop": 1433
+  },
+  {
+    "zip": 95389,
+    "city": "Yosemite National Park",
+    "county": "Mariposa",
+    "pop": 1417
+  },
+  {
+    "zip": 95551,
+    "city": "Loleta",
+    "county": "Humboldt",
+    "pop": 1416
+  },
+  {
+    "zip": 96103,
+    "city": "Blairsden-Graeagle",
+    "county": "Plumas",
+    "pop": 1401
+  },
+  {
+    "zip": 95525,
+    "city": "Blue Lake",
+    "county": "Humboldt",
+    "pop": 1401
+  },
+  {
+    "zip": 95415,
+    "city": "Boonville",
+    "county": "Mendocino",
+    "pop": 1388
+  },
+  {
+    "zip": 95955,
+    "city": "Maxwell",
+    "county": "Colusa",
+    "pop": 1386
+  },
+  {
+    "zip": 93653,
+    "city": "Raymond",
+    "county": "Madera",
+    "pop": 1377
+  },
+  {
+    "zip": 92282,
+    "city": "White Water",
+    "county": "Riverside",
+    "pop": 1372
+  },
+  {
+    "zip": 96028,
+    "city": "Fall River Mills",
+    "county": "Shasta",
+    "pop": 1368
+  },
+  {
+    "zip": 95916,
+    "city": "Berry Creek",
+    "county": "Butte",
+    "pop": 1359
+  },
+  {
+    "zip": 96051,
+    "city": "Lakehead",
+    "county": "Shasta",
+    "pop": 1358
+  },
+  {
+    "zip": 95426,
+    "city": "Cobb",
+    "county": "Lake",
+    "pop": 1350
+  },
+  {
+    "zip": 93461,
+    "city": "Shandon",
+    "county": "San Luis Obispo",
+    "pop": 1349
+  },
+  {
+    "zip": 93266,
+    "city": "Stratford",
+    "county": "Kings",
+    "pop": 1337
+  },
+  {
+    "zip": 95962,
+    "city": "Oregon House",
+    "county": "Yuba",
+    "pop": 1324
+  },
+  {
+    "zip": 95612,
+    "city": "Clarksburg",
+    "county": "Yolo",
+    "pop": 1321
+  },
+  {
+    "zip": 92091,
+    "city": "Rancho Santa Fe",
+    "county": "San Diego",
+    "pop": 1313
+  },
+  {
+    "zip": 92242,
+    "city": "Earp",
+    "county": "San Bernardino",
+    "pop": 1312
+  },
+  {
+    "zip": 95313,
+    "city": "Crows Landing",
+    "county": "Stanislaus",
+    "pop": 1305
+  },
+  {
+    "zip": 95323,
+    "city": "Hickman",
+    "county": "Stanislaus",
+    "pop": 1299
+  },
+  {
+    "zip": 95255,
+    "city": "West Point",
+    "county": "Calaveras",
+    "pop": 1289
+  },
+  {
+    "zip": 92257,
+    "city": "Niland",
+    "county": "Imperial",
+    "pop": 1281
+  },
+  {
+    "zip": 95468,
+    "city": "Point Arena",
+    "county": "Mendocino",
+    "pop": 1280
+  },
+  {
+    "zip": 93608,
+    "city": "Cantua Creek",
+    "county": "Fresno",
+    "pop": 1280
+  },
+  {
+    "zip": 95686,
+    "city": "Thornton",
+    "county": "San Joaquin",
+    "pop": 1262
+  },
+  {
+    "zip": 95548,
+    "city": "Klamath",
+    "county": "Del Norte",
+    "pop": 1251
+  },
+  {
+    "zip": 95346,
+    "city": "Mi Wuk Village",
+    "county": "Tuolumne",
+    "pop": 1251
+  },
+  {
+    "zip": 93239,
+    "city": "Kettleman City",
+    "county": "Kings",
+    "pop": 1246
+  },
+  {
+    "zip": 95681,
+    "city": "Sheridan",
+    "county": "Placer",
+    "pop": 1246
+  },
+  {
+    "zip": 96057,
+    "city": "Mccloud",
+    "county": "Siskiyou",
+    "pop": 1235
+  },
+  {
+    "zip": 95968,
+    "city": "Palermo",
+    "county": "Butte",
+    "pop": 1231
+  },
+  {
+    "zip": 94973,
+    "city": "Woodacre",
+    "county": "Marin",
+    "pop": 1228
+  },
+  {
+    "zip": 93668,
+    "city": "Tranquillity",
+    "county": "Fresno",
+    "pop": 1219
+  },
+  {
+    "zip": 94957,
+    "city": "Ross",
+    "county": "Marin",
+    "pop": 1219
+  },
+  {
+    "zip": 95317,
+    "city": "El Nido",
+    "county": "Merced",
+    "pop": 1203
+  },
+  {
+    "zip": 95636,
+    "city": "Grizzly Flats",
+    "county": "El Dorado",
+    "pop": 1195
+  },
+  {
+    "zip": 96008,
+    "city": "Bella Vista",
+    "county": "Shasta",
+    "pop": 1191
+  },
+  {
+    "zip": 96023,
+    "city": "Dorris",
+    "county": "Siskiyou",
+    "pop": 1184
+  },
+  {
+    "zip": 91963,
+    "city": "Potrero",
+    "county": "San Diego",
+    "pop": 1182
+  },
+  {
+    "zip": 94575,
+    "city": "Moraga",
+    "county": "Contra Costa",
+    "pop": 1178
+  },
+  {
+    "zip": 93544,
+    "city": "Llano",
+    "county": "Los Angeles",
+    "pop": 1164
+  },
+  {
+    "zip": 95246,
+    "city": "Mountain Ranch",
+    "county": "Calaveras",
+    "pop": 1159
+  },
+  {
+    "zip": 94956,
+    "city": "Point Reyes Station",
+    "county": "Marin",
+    "pop": 1146
+  },
+  {
+    "zip": 96146,
+    "city": "Olympic Valley",
+    "county": "Placer",
+    "pop": 1145
+  },
+  {
+    "zip": 95497,
+    "city": "The Sea Ranch",
+    "county": "Sonoma",
+    "pop": 1134
+  },
+  {
+    "zip": 94924,
+    "city": "Bolinas",
+    "county": "Marin",
+    "pop": 1127
+  },
+  {
+    "zip": 95462,
+    "city": "Monte Rio",
+    "county": "Sonoma",
+    "pop": 1124
+  },
+  {
+    "zip": 95303,
+    "city": "Ballico",
+    "county": "Merced",
+    "pop": 1110
+  },
+  {
+    "zip": 92339,
+    "city": "Forest Falls",
+    "county": "San Bernardino",
+    "pop": 1077
+  },
+  {
+    "zip": 94922,
+    "city": "Bodega",
+    "county": "Sonoma",
+    "pop": 1075
+  },
+  {
+    "zip": 95039,
+    "city": "Moss Landing",
+    "county": "Monterey",
+    "pop": 1074
+  },
+  {
+    "zip": 95547,
+    "city": "Hydesville",
+    "county": "Humboldt",
+    "pop": 1063
+  },
+  {
+    "zip": 95635,
+    "city": "Greenwood",
+    "county": "El Dorado",
+    "pop": 1058
+  },
+  {
+    "zip": 92321,
+    "city": "Cedar Glen",
+    "county": "San Bernardino",
+    "pop": 1042
+  },
+  {
+    "zip": 96062,
+    "city": "Millville",
+    "county": "Shasta",
+    "pop": 1042
+  },
+  {
+    "zip": 95254,
+    "city": "Wallace",
+    "county": "Calaveras",
+    "pop": 1035
+  },
+  {
+    "zip": 93606,
+    "city": "Biola",
+    "county": "Fresno",
+    "pop": 1035
+  },
+  {
+    "zip": 95369,
+    "city": "Snelling",
+    "county": "Merced",
+    "pop": 1024
+  },
+  {
+    "zip": 92518,
+    "city": "March Air Force Base",
+    "county": "Riverside",
+    "pop": 1021
+  },
+  {
+    "zip": 92368,
+    "city": "Oro Grande",
+    "county": "San Bernardino",
+    "pop": 1019
+  },
+  {
+    "zip": 95410,
+    "city": "Albion",
+    "county": "Mendocino",
+    "pop": 997
+  },
+  {
+    "zip": 91917,
+    "city": "Dulzura",
+    "county": "San Diego",
+    "pop": 986
+  },
+  {
+    "zip": 95466,
+    "city": "Philo",
+    "county": "Mendocino",
+    "pop": 976
+  },
+  {
+    "zip": 95919,
+    "city": "Brownsville",
+    "county": "Yuba",
+    "pop": 971
+  },
+  {
+    "zip": 96044,
+    "city": "Hornbrook",
+    "county": "Siskiyou",
+    "pop": 963
+  },
+  {
+    "zip": 95589,
+    "city": "Whitethorn",
+    "county": "Humboldt",
+    "pop": 963
+  },
+  {
+    "zip": 90073,
+    "city": "Los Angeles",
+    "county": "Los Angeles",
+    "pop": 953
+  },
+  {
+    "zip": 96140,
+    "city": "Carnelian Bay",
+    "county": "Placer",
+    "pop": 953
+  },
+  {
+    "zip": 94592,
+    "city": "Vallejo",
+    "county": "Solano",
+    "pop": 952
+  },
+  {
+    "zip": 95629,
+    "city": "Fiddletown",
+    "county": "Amador",
+    "pop": 940
+  },
+  {
+    "zip": 95942,
+    "city": "Forest Ranch",
+    "county": "Butte",
+    "pop": 934
+  },
+  {
+    "zip": 95659,
+    "city": "Nicolaus",
+    "county": "Sutter",
+    "pop": 932
+  },
+  {
+    "zip": 95549,
+    "city": "Kneeland",
+    "county": "Humboldt",
+    "pop": 929
+  },
+  {
+    "zip": 96120,
+    "city": "Markleeville",
+    "county": "Alpine",
+    "pop": 926
+  },
+  {
+    "zip": 94060,
+    "city": "Pescadero",
+    "county": "San Mateo",
+    "pop": 926
+  },
+  {
+    "zip": 93441,
+    "city": "Los Olivos",
+    "county": "Santa Barbara",
+    "pop": 922
+  },
+  {
+    "zip": 94938,
+    "city": "Lagunitas",
+    "county": "Marin",
+    "pop": 920
+  },
+  {
+    "zip": 95452,
+    "city": "Kenwood",
+    "county": "Sonoma",
+    "pop": 919
+  },
+  {
+    "zip": 95701,
+    "city": "Alta",
+    "county": "Placer",
+    "pop": 915
+  },
+  {
+    "zip": 96039,
+    "city": "Happy Camp",
+    "county": "Siskiyou",
+    "pop": 904
+  },
+  {
+    "zip": 96142,
+    "city": "Tahoma",
+    "county": "El Dorado",
+    "pop": 885
+  },
+  {
+    "zip": 95957,
+    "city": "Meridian",
+    "county": "Sutter",
+    "pop": 879
+  },
+  {
+    "zip": 95943,
+    "city": "Glenn",
+    "county": "Glenn",
+    "pop": 871
+  },
+  {
+    "zip": 93624,
+    "city": "Five Points",
+    "county": "Fresno",
+    "pop": 871
+  },
+  {
+    "zip": 93218,
+    "city": "Ducor",
+    "county": "Tulare",
+    "pop": 871
+  },
+  {
+    "zip": 93666,
+    "city": "Sultana",
+    "county": "Tulare",
+    "pop": 866
+  },
+  {
+    "zip": 94613,
+    "city": "Oakland",
+    "county": "Alameda",
+    "pop": 855
+  },
+  {
+    "zip": 93928,
+    "city": "Jolon",
+    "county": "Monterey",
+    "pop": 854
+  },
+  {
+    "zip": 96047,
+    "city": "Igo",
+    "county": "Shasta",
+    "pop": 849
+  },
+  {
+    "zip": 96024,
+    "city": "Douglas City",
+    "county": "Trinity",
+    "pop": 846
+  },
+  {
+    "zip": 96104,
+    "city": "Cedarville",
+    "county": "Modoc",
+    "pop": 842
+  },
+  {
+    "zip": 95230,
+    "city": "Farmington",
+    "county": "San Joaquin",
+    "pop": 840
+  },
+  {
+    "zip": 95456,
+    "city": "Littleriver",
+    "county": "Mendocino",
+    "pop": 838
+  },
+  {
+    "zip": 94933,
+    "city": "Forest Knolls",
+    "county": "Marin",
+    "pop": 837
+  },
+  {
+    "zip": 94586,
+    "city": "Sunol",
+    "county": "Alameda",
+    "pop": 831
+  },
+  {
+    "zip": 95922,
+    "city": "Camptonville",
+    "county": "Yuba",
+    "pop": 831
+  },
+  {
+    "zip": 95703,
+    "city": "Applegate",
+    "county": "Placer",
+    "pop": 831
+  },
+  {
+    "zip": 93518,
+    "city": "Caliente",
+    "county": "Kern",
+    "pop": 814
+  },
+  {
+    "zip": 96109,
+    "city": "Doyle",
+    "county": "Lassen",
+    "pop": 812
+  },
+  {
+    "zip": 94923,
+    "city": "Bodega Bay",
+    "county": "Sonoma",
+    "pop": 808
+  },
+  {
+    "zip": 95345,
+    "city": "Midpines",
+    "county": "Mariposa",
+    "pop": 802
+  },
+  {
+    "zip": 96069,
+    "city": "Oak Run",
+    "county": "Shasta",
+    "pop": 800
+  },
+  {
+    "zip": 93424,
+    "city": "Avila Beach",
+    "county": "San Luis Obispo",
+    "pop": 795
+  },
+  {
+    "zip": 95652,
+    "city": "Mcclellan",
+    "county": "Sacramento",
+    "pop": 789
+  },
+  {
+    "zip": 93254,
+    "city": "New Cuyama",
+    "county": "Santa Barbara",
+    "pop": 786
+  },
+  {
+    "zip": 92070,
+    "city": "Santa Ysabel",
+    "county": "San Diego",
+    "pop": 786
+  },
+  {
+    "zip": 95941,
+    "city": "Forbestown",
+    "county": "Butte",
+    "pop": 775
+  },
+  {
+    "zip": 95674,
+    "city": "Rio Oso",
+    "county": "Sutter",
+    "pop": 767
+  },
+  {
+    "zip": 95553,
+    "city": "Miranda",
+    "county": "Humboldt",
+    "pop": 767
+  },
+  {
+    "zip": 93450,
+    "city": "San Ardo",
+    "county": "Monterey",
+    "pop": 767
+  },
+  {
+    "zip": 95565,
+    "city": "Scotia",
+    "county": "Humboldt",
+    "pop": 762
+  },
+  {
+    "zip": 93673,
+    "city": "Traver",
+    "county": "Tulare",
+    "pop": 754
+  },
+  {
+    "zip": 95914,
+    "city": "Bangor",
+    "county": "Butte",
+    "pop": 752
+  },
+  {
+    "zip": 93665,
+    "city": "South Dos Palos",
+    "county": "Merced",
+    "pop": 752
+  },
+  {
+    "zip": 95552,
+    "city": "Mad River",
+    "county": "Trinity",
+    "pop": 750
+  },
+  {
+    "zip": 94937,
+    "city": "Inverness",
+    "county": "Marin",
+    "pop": 742
+  },
+  {
+    "zip": 92327,
+    "city": "Daggett",
+    "county": "San Bernardino",
+    "pop": 737
+  },
+  {
+    "zip": 95830,
+    "city": "Sacramento",
+    "county": "Sacramento",
+    "pop": 734
+  },
+  {
+    "zip": 96038,
+    "city": "Grenada",
+    "county": "Siskiyou",
+    "pop": 732
+  },
+  {
+    "zip": 95043,
+    "city": "Paicines",
+    "county": "San Benito",
+    "pop": 731
+  },
+  {
+    "zip": 96048,
+    "city": "Junction City",
+    "county": "Trinity",
+    "pop": 730
+  },
+  {
+    "zip": 95439,
+    "city": "Fulton",
+    "county": "Sonoma",
+    "pop": 728
+  },
+  {
+    "zip": 92358,
+    "city": "Lytle Creek",
+    "county": "San Bernardino",
+    "pop": 722
+  },
+  {
+    "zip": 93932,
+    "city": "Lockwood",
+    "county": "Monterey",
+    "pop": 709
+  },
+  {
+    "zip": 95432,
+    "city": "Elk",
+    "county": "Mendocino",
+    "pop": 706
+  },
+  {
+    "zip": 95543,
+    "city": "Gasquet",
+    "county": "Del Norte",
+    "pop": 705
+  },
+  {
+    "zip": 95444,
+    "city": "Graton",
+    "county": "Sonoma",
+    "pop": 705
+  },
+  {
+    "zip": 95615,
+    "city": "Courtland",
+    "county": "Sacramento",
+    "pop": 704
+  },
+  {
+    "zip": 96096,
+    "city": "Whitmore",
+    "county": "Shasta",
+    "pop": 703
+  },
+  {
+    "zip": 92347,
+    "city": "Hinkley",
+    "county": "San Bernardino",
+    "pop": 702
+  },
+  {
+    "zip": 94970,
+    "city": "Stinson Beach",
+    "county": "Marin",
+    "pop": 698
+  },
+  {
+    "zip": 92066,
+    "city": "Ranchita",
+    "county": "San Diego",
+    "pop": 693
+  },
+  {
+    "zip": 90742,
+    "city": "Sunset Beach",
+    "county": "Orange",
+    "pop": 692
+  },
+  {
+    "zip": 93255,
+    "city": "Onyx",
+    "county": "Kern",
+    "pop": 691
+  },
+  {
+    "zip": 96128,
+    "city": "Standish",
+    "county": "Lassen",
+    "pop": 685
+  },
+  {
+    "zip": 95960,
+    "city": "North San Juan",
+    "county": "Nevada",
+    "pop": 684
+  },
+  {
+    "zip": 95017,
+    "city": "Davenport",
+    "county": "Santa Cruz",
+    "pop": 681
+  },
+  {
+    "zip": 93238,
+    "city": "Kernville",
+    "county": "Kern",
+    "pop": 673
+  },
+  {
+    "zip": 92322,
+    "city": "Cedarpines Park",
+    "county": "San Bernardino",
+    "pop": 672
+  },
+  {
+    "zip": 95563,
+    "city": "Salyer",
+    "county": "Trinity",
+    "pop": 665
+  },
+  {
+    "zip": 95668,
+    "city": "Pleasant Grove",
+    "county": "Sutter",
+    "pop": 664
+  },
+  {
+    "zip": 94946,
+    "city": "Nicasio",
+    "county": "Marin",
+    "pop": 658
+  },
+  {
+    "zip": 93452,
+    "city": "San Simeon",
+    "county": "San Luis Obispo",
+    "pop": 658
+  },
+  {
+    "zip": 94567,
+    "city": "Pope Valley",
+    "county": "Napa",
+    "pop": 658
+  },
+  {
+    "zip": 92305,
+    "city": "Angelus Oaks",
+    "county": "San Bernardino",
+    "pop": 657
+  },
+  {
+    "zip": 95306,
+    "city": "Catheys Valley",
+    "county": "Mariposa",
+    "pop": 654
+  },
+  {
+    "zip": 95227,
+    "city": "Clements",
+    "county": "San Joaquin",
+    "pop": 654
+  },
+  {
+    "zip": 95459,
+    "city": "Manchester",
+    "county": "Mendocino",
+    "pop": 641
+  },
+  {
+    "zip": 93517,
+    "city": "Bridgeport",
+    "county": "Mono",
+    "pop": 641
+  },
+  {
+    "zip": 95387,
+    "city": "Westley",
+    "county": "Stanislaus",
+    "pop": 636
+  },
+  {
+    "zip": 92135,
+    "city": "San Diego",
+    "county": "San Diego",
+    "pop": 635
+  },
+  {
+    "zip": 93526,
+    "city": "Independence",
+    "county": "Inyo",
+    "pop": 629
+  },
+  {
+    "zip": 95251,
+    "city": "Vallecito",
+    "county": "Calaveras",
+    "pop": 625
+  },
+  {
+    "zip": 95651,
+    "city": "Lotus",
+    "county": "El Dorado",
+    "pop": 624
+  },
+  {
+    "zip": 96091,
+    "city": "Trinity Center",
+    "county": "Trinity",
+    "pop": 618
+  },
+  {
+    "zip": 95970,
+    "city": "Princeton",
+    "county": "Colusa",
+    "pop": 616
+  },
+  {
+    "zip": 91931,
+    "city": "Guatay",
+    "county": "San Diego",
+    "pop": 613
+  },
+  {
+    "zip": 95939,
+    "city": "Elk Creek",
+    "county": "Glenn",
+    "pop": 605
+  },
+  {
+    "zip": 95556,
+    "city": "Orleans",
+    "county": "Humboldt",
+    "pop": 598
+  },
+  {
+    "zip": 92678,
+    "city": "Trabuco Canyon",
+    "county": "Orange",
+    "pop": 584
+  },
+  {
+    "zip": 95653,
+    "city": "Madison",
+    "county": "Yolo",
+    "pop": 581
+  },
+  {
+    "zip": 96148,
+    "city": "Tahoe Vista",
+    "county": "Placer",
+    "pop": 580
+  },
+  {
+    "zip": 95471,
+    "city": "Rio Nido",
+    "county": "Sonoma",
+    "pop": 573
+  },
+  {
+    "zip": 92309,
+    "city": "Baker",
+    "county": "San Bernardino",
+    "pop": 572
+  },
+  {
+    "zip": 95675,
+    "city": "River Pines",
+    "county": "Amador",
+    "pop": 566
+  },
+  {
+    "zip": 92258,
+    "city": "North Palm Springs",
+    "county": "Riverside",
+    "pop": 559
+  },
+  {
+    "zip": 96058,
+    "city": "Macdoel",
+    "county": "Siskiyou",
+    "pop": 553
+  },
+  {
+    "zip": 93954,
+    "city": "San Lucas",
+    "county": "Monterey",
+    "pop": 551
+  },
+  {
+    "zip": 95233,
+    "city": "Hathaway Pines",
+    "county": "Calaveras",
+    "pop": 548
+  },
+  {
+    "zip": 96087,
+    "city": "Shasta",
+    "county": "Shasta",
+    "pop": 544
+  },
+  {
+    "zip": 96059,
+    "city": "Manton",
+    "county": "Tehama",
+    "pop": 542
+  },
+  {
+    "zip": 93604,
+    "city": "Bass Lake",
+    "county": "Madera",
+    "pop": 541
+  },
+  {
+    "zip": 93652,
+    "city": "Raisin",
+    "county": "Fresno",
+    "pop": 540
+  },
+  {
+    "zip": 96084,
+    "city": "Round Mountain",
+    "county": "Shasta",
+    "pop": 536
+  },
+  {
+    "zip": 91210,
+    "city": "Glendale",
+    "county": "Los Angeles",
+    "pop": 529
+  },
+  {
+    "zip": 95420,
+    "city": "Caspar",
+    "county": "Mendocino",
+    "pop": 523
+  },
+  {
+    "zip": 95714,
+    "city": "Dutch Flat",
+    "county": "Placer",
+    "pop": 522
+  },
+  {
+    "zip": 92147,
+    "city": "San Diego",
+    "county": "San Diego",
+    "pop": 518
+  },
+  {
+    "zip": 94021,
+    "city": "Loma Mar",
+    "county": "San Mateo",
+    "pop": 511
+  },
+  {
+    "zip": 95554,
+    "city": "Myers Flat",
+    "county": "Humboldt",
+    "pop": 508
+  },
+  {
+    "zip": 95527,
+    "city": "Burnt Ranch",
+    "county": "Trinity",
+    "pop": 499
+  },
+  {
+    "zip": 96033,
+    "city": "French Gulch",
+    "county": "Shasta",
+    "pop": 490
+  },
+  {
+    "zip": 96090,
+    "city": "Tehama",
+    "county": "Tehama",
+    "pop": 481
+  },
+  {
+    "zip": 93224,
+    "city": "Fellows",
+    "county": "Kern",
+    "pop": 471
+  },
+  {
+    "zip": 95075,
+    "city": "Tres Pinos",
+    "county": "San Benito",
+    "pop": 459
+  },
+  {
+    "zip": 96124,
+    "city": "Calpine",
+    "county": "Sierra",
+    "pop": 458
+  },
+  {
+    "zip": 95585,
+    "city": "Leggett",
+    "county": "Mendocino",
+    "pop": 457
+  },
+  {
+    "zip": 92155,
+    "city": "San Diego",
+    "county": "San Diego",
+    "pop": 456
+  },
+  {
+    "zip": 92268,
+    "city": "Pioneertown",
+    "county": "San Bernardino",
+    "pop": 455
+  },
+  {
+    "zip": 92328,
+    "city": "Death Valley",
+    "county": "Inyo",
+    "pop": 438
+  },
+  {
+    "zip": 95555,
+    "city": "Orick",
+    "county": "Humboldt",
+    "pop": 437
+  },
+  {
+    "zip": 95041,
+    "city": "Mount Hermon",
+    "county": "Santa Cruz",
+    "pop": 436
+  },
+  {
+    "zip": 94104,
+    "city": "San Francisco",
+    "county": "San Francisco",
+    "pop": 429
+  },
+  {
+    "zip": 96016,
+    "city": "Cassel",
+    "county": "Shasta",
+    "pop": 424
+  },
+  {
+    "zip": 95558,
+    "city": "Petrolia",
+    "county": "Humboldt",
+    "pop": 416
+  },
+  {
+    "zip": 95385,
+    "city": "Vernalis",
+    "county": "San Joaquin",
+    "pop": 415
+  },
+  {
+    "zip": 95979,
+    "city": "Stonyford",
+    "county": "Colusa",
+    "pop": 414
+  },
+  {
+    "zip": 93962,
+    "city": "Spreckels",
+    "county": "Monterey",
+    "pop": 414
+  },
+  {
+    "zip": 93067,
+    "city": "Summerland",
+    "county": "Santa Barbara",
+    "pop": 410
+  },
+  {
+    "zip": 96129,
+    "city": "Beckwourth",
+    "county": "Plumas",
+    "pop": 408
+  },
+  {
+    "zip": 95257,
+    "city": "Wilseyville",
+    "county": "Calaveras",
+    "pop": 407
+  },
+  {
+    "zip": 94963,
+    "city": "San Geronimo",
+    "county": "Marin",
+    "pop": 404
+  },
+  {
+    "zip": 96065,
+    "city": "Montgomery Creek",
+    "county": "Shasta",
+    "pop": 403
+  },
+  {
+    "zip": 96141,
+    "city": "Homewood",
+    "county": "Placer",
+    "pop": 403
+  },
+  {
+    "zip": 95412,
+    "city": "Annapolis",
+    "county": "Sonoma",
+    "pop": 397
+  },
+  {
+    "zip": 92333,
+    "city": "Fawnskin",
+    "county": "San Bernardino",
+    "pop": 392
+  },
+  {
+    "zip": 93529,
+    "city": "June Lake",
+    "county": "Mono",
+    "pop": 390
+  },
+  {
+    "zip": 95607,
+    "city": "Capay",
+    "county": "Yolo",
+    "pop": 389
+  },
+  {
+    "zip": 95564,
+    "city": "Samoa",
+    "county": "Humboldt",
+    "pop": 389
+  },
+  {
+    "zip": 96006,
+    "city": "Adin",
+    "county": "Modoc",
+    "pop": 389
+  },
+  {
+    "zip": 94528,
+    "city": "Diablo",
+    "county": "Contra Costa",
+    "pop": 384
+  },
+  {
+    "zip": 96050,
+    "city": "Klamath River",
+    "county": "Siskiyou",
+    "pop": 381
+  },
+  {
+    "zip": 93664,
+    "city": "Shaver Lake",
+    "county": "Fresno",
+    "pop": 380
+  },
+  {
+    "zip": 95983,
+    "city": "Taylorsville",
+    "county": "Plumas",
+    "pop": 380
+  },
+  {
+    "zip": 95225,
+    "city": "Burson",
+    "county": "Calaveras",
+    "pop": 378
+  },
+  {
+    "zip": 94548,
+    "city": "Knightsen",
+    "county": "Contra Costa",
+    "pop": 377
+  },
+  {
+    "zip": 95493,
+    "city": "Witter Springs",
+    "county": "Lake",
+    "pop": 377
+  },
+  {
+    "zip": 95007,
+    "city": "Brookdale",
+    "county": "Santa Cruz",
+    "pop": 374
+  },
+  {
+    "zip": 96105,
+    "city": "Chilcoot",
+    "county": "Plumas",
+    "pop": 372
+  },
+  {
+    "zip": 95569,
+    "city": "Redcrest",
+    "county": "Humboldt",
+    "pop": 371
+  },
+  {
+    "zip": 96063,
+    "city": "Mineral",
+    "county": "Tehama",
+    "pop": 359
+  },
+  {
+    "zip": 96121,
+    "city": "Milford",
+    "county": "Lassen",
+    "pop": 358
+  },
+  {
+    "zip": 93563,
+    "city": "Valyermo",
+    "county": "Los Angeles",
+    "pop": 357
+  },
+  {
+    "zip": 95417,
+    "city": "Branscomb",
+    "county": "Mendocino",
+    "pop": 356
+  },
+  {
+    "zip": 96117,
+    "city": "Litchfield",
+    "county": "Lassen",
+    "pop": 355
+  },
+  {
+    "zip": 95950,
+    "city": "Grimes",
+    "county": "Colusa",
+    "pop": 350
+  },
+  {
+    "zip": 96075,
+    "city": "Paynes Creek",
+    "county": "Tehama",
+    "pop": 350
+  },
+  {
+    "zip": 95956,
+    "city": "Meadow Valley",
+    "county": "Plumas",
+    "pop": 348
+  },
+  {
+    "zip": 96092,
+    "city": "Vina",
+    "county": "Tehama",
+    "pop": 343
+  },
+  {
+    "zip": 93531,
+    "city": "Keene",
+    "county": "Kern",
+    "pop": 338
+  },
+  {
+    "zip": 95639,
+    "city": "Hood",
+    "county": "Sacramento",
+    "pop": 335
+  },
+  {
+    "zip": 93512,
+    "city": "Benton",
+    "county": "Mono",
+    "pop": 328
+  },
+  {
+    "zip": 95984,
+    "city": "Twain",
+    "county": "Plumas",
+    "pop": 327
+  },
+  {
+    "zip": 91934,
+    "city": "Jacumba",
+    "county": "San Diego",
+    "pop": 323
+  },
+  {
+    "zip": 96009,
+    "city": "Bieber",
+    "county": "Lassen",
+    "pop": 321
+  },
+  {
+    "zip": 96015,
+    "city": "Canby",
+    "county": "Modoc",
+    "pop": 320
+  },
+  {
+    "zip": 96054,
+    "city": "Lookout",
+    "county": "Modoc",
+    "pop": 319
+  },
+  {
+    "zip": 95920,
+    "city": "Butte City",
+    "county": "Glenn",
+    "pop": 315
+  },
+  {
+    "zip": 93244,
+    "city": "Lemon Cove",
+    "county": "Tulare",
+    "pop": 308
+  },
+  {
+    "zip": 91759,
+    "city": "Mt Baldy",
+    "county": "Los Angeles",
+    "pop": 307
+  },
+  {
+    "zip": 95571,
+    "city": "Weott",
+    "county": "Humboldt",
+    "pop": 304
+  },
+  {
+    "zip": 96135,
+    "city": "Vinton",
+    "county": "Plumas",
+    "pop": 301
+  },
+  {
+    "zip": 95837,
+    "city": "Sacramento",
+    "county": "Sacramento",
+    "pop": 300
+  },
+  {
+    "zip": 95435,
+    "city": "Finley",
+    "county": "Lake",
+    "pop": 299
+  },
+  {
+    "zip": 93549,
+    "city": "Olancha",
+    "county": "Inyo",
+    "pop": 293
+  },
+  {
+    "zip": 95736,
+    "city": "Weimar",
+    "county": "Placer",
+    "pop": 289
+  },
+  {
+    "zip": 94940,
+    "city": "Marshall",
+    "county": "Marin",
+    "pop": 287
+  },
+  {
+    "zip": 92134,
+    "city": "San Diego",
+    "county": "San Diego",
+    "pop": 285
+  },
+  {
+    "zip": 96076,
+    "city": "Platina",
+    "county": "Shasta",
+    "pop": 284
+  },
+  {
+    "zip": 96037,
+    "city": "Greenview",
+    "county": "Siskiyou",
+    "pop": 279
+  },
+  {
+    "zip": 96034,
+    "city": "Gazelle",
+    "county": "Siskiyou",
+    "pop": 279
+  },
+  {
+    "zip": 96086,
+    "city": "Seiad Valley",
+    "county": "Siskiyou",
+    "pop": 278
+  },
+  {
+    "zip": 95925,
+    "city": "Challenge",
+    "county": "Yuba",
+    "pop": 276
+  },
+  {
+    "zip": 95312,
+    "city": "Cressey",
+    "county": "Merced",
+    "pop": 276
+  },
+  {
+    "zip": 96106,
+    "city": "Clio",
+    "county": "Plumas",
+    "pop": 274
+  },
+  {
+    "zip": 95568,
+    "city": "Somes Bar",
+    "county": "Siskiyou",
+    "pop": 274
+  },
+  {
+    "zip": 95637,
+    "city": "Guinda",
+    "county": "Yolo",
+    "pop": 268
+  },
+  {
+    "zip": 95511,
+    "city": "Alderpoint",
+    "county": "Humboldt",
+    "pop": 262
+  },
+  {
+    "zip": 95935,
+    "city": "Dobbins",
+    "county": "Yuba",
+    "pop": 261
+  },
+  {
+    "zip": 93207,
+    "city": "California Hot Springs",
+    "county": "Tulare",
+    "pop": 256
+  },
+  {
+    "zip": 94929,
+    "city": "Dillon Beach",
+    "county": "Marin",
+    "pop": 254
+  },
+  {
+    "zip": 95537,
+    "city": "Fields Landing",
+    "county": "Humboldt",
+    "pop": 251
+  },
+  {
+    "zip": 95606,
+    "city": "Brooks",
+    "county": "Yolo",
+    "pop": 249
+  },
+  {
+    "zip": 93627,
+    "city": "Helm",
+    "county": "Fresno",
+    "pop": 247
+  },
+  {
+    "zip": 95978,
+    "city": "Stirling City",
+    "county": "Butte",
+    "pop": 245
+  },
+  {
+    "zip": 93541,
+    "city": "Lee Vining",
+    "county": "Mono",
+    "pop": 244
+  },
+  {
+    "zip": 93669,
+    "city": "Wishon",
+    "county": "Madera",
+    "pop": 238
+  },
+  {
+    "zip": 90743,
+    "city": "Surfside",
+    "county": "Orange",
+    "pop": 236
+  },
+  {
+    "zip": 92378,
+    "city": "Rimforest",
+    "county": "San Bernardino",
+    "pop": 234
+  },
+  {
+    "zip": 95728,
+    "city": "Soda Springs",
+    "county": "Nevada",
+    "pop": 231
+  },
+  {
+    "zip": 95450,
+    "city": "Jenner",
+    "county": "Sonoma",
+    "pop": 227
+  },
+  {
+    "zip": 92239,
+    "city": "Desert Center",
+    "county": "Riverside",
+    "pop": 227
+  },
+  {
+    "zip": 95427,
+    "city": "Comptche",
+    "county": "Mendocino",
+    "pop": 226
+  },
+  {
+    "zip": 94971,
+    "city": "Tomales",
+    "county": "Marin",
+    "pop": 226
+  },
+  {
+    "zip": 93260,
+    "city": "Posey",
+    "county": "Tulare",
+    "pop": 226
+  },
+  {
+    "zip": 96112,
+    "city": "Fort Bidwell",
+    "county": "Modoc",
+    "pop": 224
+  },
+  {
+    "zip": 93641,
+    "city": "Miramonte",
+    "county": "Fresno",
+    "pop": 223
+  },
+  {
+    "zip": 92341,
+    "city": "Green Valley Lake",
+    "county": "San Bernardino",
+    "pop": 222
+  },
+  {
+    "zip": 95318,
+    "city": "El Portal",
+    "county": "Mariposa",
+    "pop": 220
+  },
+  {
+    "zip": 92385,
+    "city": "Skyforest",
+    "county": "San Bernardino",
+    "pop": 216
+  },
+  {
+    "zip": 96068,
+    "city": "Nubieber",
+    "county": "Lassen",
+    "pop": 204
+  },
+  {
+    "zip": 93251,
+    "city": "Mc Kittrick",
+    "county": "Kern",
+    "pop": 202
+  },
+  {
+    "zip": 96011,
+    "city": "Big Bend",
+    "county": "Shasta",
+    "pop": 199
+  },
+  {
+    "zip": 93605,
+    "city": "Big Creek",
+    "county": "Fresno",
+    "pop": 198
+  },
+  {
+    "zip": 95526,
+    "city": "Bridgeville",
+    "county": "Humboldt",
+    "pop": 196
+  },
+  {
+    "zip": 95443,
+    "city": "Glenhaven",
+    "county": "Lake",
+    "pop": 193
+  },
+  {
+    "zip": 95697,
+    "city": "Yolo",
+    "county": "Yolo",
+    "pop": 183
+  },
+  {
+    "zip": 94569,
+    "city": "Port Costa",
+    "county": "Contra Costa",
+    "pop": 180
+  },
+  {
+    "zip": 95488,
+    "city": "Westport",
+    "county": "Mendocino",
+    "pop": 179
+  },
+  {
+    "zip": 95717,
+    "city": "Gold Run",
+    "county": "Placer",
+    "pop": 176
+  },
+  {
+    "zip": 93603,
+    "city": "Badger",
+    "county": "Tulare",
+    "pop": 175
+  },
+  {
+    "zip": 96116,
+    "city": "Likely",
+    "county": "Modoc",
+    "pop": 172
+  },
+  {
+    "zip": 95494,
+    "city": "Yorkville",
+    "county": "Mendocino",
+    "pop": 171
+  },
+  {
+    "zip": 94074,
+    "city": "San Gregorio",
+    "county": "San Mateo",
+    "pop": 170
+  },
+  {
+    "zip": 92389,
+    "city": "Tecopa",
+    "county": "Inyo",
+    "pop": 168
+  },
+  {
+    "zip": 95224,
+    "city": "Avery",
+    "county": "Calaveras",
+    "pop": 167
+  },
+  {
+    "zip": 96029,
+    "city": "Flournoy",
+    "county": "Tehama",
+    "pop": 167
+  },
+  {
+    "zip": 92060,
+    "city": "Palomar Mountain",
+    "county": "San Diego",
+    "pop": 166
+  },
+  {
+    "zip": 93524,
+    "city": "Edwards",
+    "county": "Kern",
+    "pop": 165
+  },
+  {
+    "zip": 96074,
+    "city": "Paskenta",
+    "county": "Tehama",
+    "pop": 164
+  },
+  {
+    "zip": 95232,
+    "city": "Glencoe",
+    "county": "Calaveras",
+    "pop": 161
+  },
+  {
+    "zip": 95431,
+    "city": "Eldridge",
+    "county": "Sonoma",
+    "pop": 161
+  },
+  {
+    "zip": 91046,
+    "city": "Verdugo City",
+    "county": "Los Angeles",
+    "pop": 158
+  },
+  {
+    "zip": 95936,
+    "city": "Downieville",
+    "county": "Sierra",
+    "pop": 158
+  },
+  {
+    "zip": 95335,
+    "city": "Long Barn",
+    "county": "Tuolumne",
+    "pop": 153
+  },
+  {
+    "zip": 95601,
+    "city": "Amador City",
+    "county": "Amador",
+    "pop": 151
+  },
+  {
+    "zip": 93645,
+    "city": "O Neals",
+    "county": "Madera",
+    "pop": 148
+  },
+  {
+    "zip": 95698,
+    "city": "Zamora",
+    "county": "Yolo",
+    "pop": 148
+  },
+  {
+    "zip": 95934,
+    "city": "Crescent Mills",
+    "county": "Plumas",
+    "pop": 146
+  },
+  {
+    "zip": 94128,
+    "city": "San Francisco",
+    "county": "San Mateo",
+    "pop": 146
+  },
+  {
+    "zip": 93429,
+    "city": "Casmalia",
+    "county": "Santa Barbara",
+    "pop": 144
+  },
+  {
+    "zip": 93276,
+    "city": "Tupman",
+    "county": "Kern",
+    "pop": 144
+  },
+  {
+    "zip": 93043,
+    "city": "Port Hueneme Cbc Base",
+    "county": "Ventura",
+    "pop": 144
+  },
+  {
+    "zip": 96017,
+    "city": "Castella",
+    "county": "Shasta",
+    "pop": 140
+  },
+  {
+    "zip": 95514,
+    "city": "Blocksburg",
+    "county": "Humboldt",
+    "pop": 140
+  },
+  {
+    "zip": 95595,
+    "city": "Zenia",
+    "county": "Trinity",
+    "pop": 139
+  },
+  {
+    "zip": 95463,
+    "city": "Navarro",
+    "county": "Mendocino",
+    "pop": 136
+  },
+  {
+    "zip": 93621,
+    "city": "Dunlap",
+    "county": "Fresno",
+    "pop": 136
+  },
+  {
+    "zip": 96014,
+    "city": "Callahan",
+    "county": "Siskiyou",
+    "pop": 135
+  },
+  {
+    "zip": 90822,
+    "city": "Long Beach",
+    "county": "Los Angeles",
+    "pop": 133
+  },
+  {
+    "zip": 96031,
+    "city": "Forks Of Salmon",
+    "county": "Siskiyou",
+    "pop": 133
+  },
+  {
+    "zip": 91948,
+    "city": "Mount Laguna",
+    "county": "San Diego",
+    "pop": 130
+  },
+  {
+    "zip": 90071,
+    "city": "Los Angeles",
+    "county": "Los Angeles",
+    "pop": 126
+  },
+  {
+    "zip": 96133,
+    "city": "Topaz",
+    "county": "Mono",
+    "pop": 126
+  },
+  {
+    "zip": 96125,
+    "city": "Sierra City",
+    "county": "Sierra",
+    "pop": 126
+  },
+  {
+    "zip": 96110,
+    "city": "Eagleville",
+    "county": "Modoc",
+    "pop": 126
+  },
+  {
+    "zip": 93554,
+    "city": "Randsburg",
+    "county": "Kern",
+    "pop": 125
+  },
+  {
+    "zip": 96040,
+    "city": "Hat Creek",
+    "county": "Shasta",
+    "pop": 124
+  },
+  {
+    "zip": 94950,
+    "city": "Olema",
+    "county": "Marin",
+    "pop": 123
+  },
+  {
+    "zip": 95910,
+    "city": "Alleghany",
+    "county": "Sierra",
+    "pop": 123
+  },
+  {
+    "zip": 96010,
+    "city": "Big Bar",
+    "county": "Trinity",
+    "pop": 122
+  },
+  {
+    "zip": 93226,
+    "city": "Glennville",
+    "county": "Kern",
+    "pop": 121
+  },
+  {
+    "zip": 92259,
+    "city": "Ocotillo",
+    "county": "Imperial",
+    "pop": 121
+  },
+  {
+    "zip": 93528,
+    "city": "Johannesburg",
+    "county": "Kern",
+    "pop": 119
+  },
+  {
+    "zip": 93042,
+    "city": "Point Mugu Nawc",
+    "county": "Ventura",
+    "pop": 118
+  },
+  {
+    "zip": 95545,
+    "city": "Honeydew",
+    "county": "Humboldt",
+    "pop": 118
+  },
+  {
+    "zip": 95429,
+    "city": "Dos Rios",
+    "county": "Mendocino",
+    "pop": 116
+  },
+  {
+    "zip": 96115,
+    "city": "Lake City",
+    "county": "Modoc",
+    "pop": 115
+  },
+  {
+    "zip": 96046,
+    "city": "Hyampom",
+    "county": "Trinity",
+    "pop": 115
+  },
+  {
+    "zip": 93592,
+    "city": "Trona",
+    "county": "San Bernardino",
+    "pop": 115
+  },
+  {
+    "zip": 93623,
+    "city": "Fish Camp",
+    "county": "Mariposa",
+    "pop": 114
+  },
+  {
+    "zip": 92266,
+    "city": "Palo Verde",
+    "county": "Imperial",
+    "pop": 112
+  },
+  {
+    "zip": 93208,
+    "city": "Camp Nelson",
+    "county": "Tulare",
+    "pop": 106
+  },
+  {
+    "zip": 95248,
+    "city": "Rail Road Flat",
+    "county": "Calaveras",
+    "pop": 106
+  },
+  {
+    "zip": 94576,
+    "city": "Deer Park",
+    "county": "Napa",
+    "pop": 105
+  },
+  {
+    "zip": 95715,
+    "city": "Emigrant Gap",
+    "county": "Placer",
+    "pop": 104
+  },
+  {
+    "zip": 94516,
+    "city": "Canyon",
+    "county": "Contra Costa",
+    "pop": 103
+  },
+  {
+    "zip": 95720,
+    "city": "Kyburz",
+    "county": "El Dorado",
+    "pop": 103
+  },
+  {
+    "zip": 95140,
+    "city": "Mount Hamilton",
+    "county": "Santa Clara",
+    "pop": 102
+  },
+  {
+    "zip": 93522,
+    "city": "Darwin",
+    "county": "Inyo",
+    "pop": 100
+  },
+  {
+    "zip": 92332,
+    "city": "Essex",
+    "county": "San Bernardino",
+    "pop": 97
+  },
+  {
+    "zip": 95314,
+    "city": "Dardanelle",
+    "county": "Tuolumne",
+    "pop": 95
+  },
+  {
+    "zip": 95550,
+    "city": "Korbel",
+    "county": "Humboldt",
+    "pop": 94
+  },
+  {
+    "zip": 96049,
+    "city": "Redding",
+    "county": "Shasta",
+    "pop": 90
+  },
+  {
+    "zip": 95604,
+    "city": "Auburn",
+    "county": "Placer",
+    "pop": 85
+  },
+  {
+    "zip": 96126,
+    "city": "Sierraville",
+    "county": "Sierra",
+    "pop": 85
+  },
+  {
+    "zip": 95013,
+    "city": "Coyote",
+    "county": "Santa Clara",
+    "pop": 85
+  },
+  {
+    "zip": 96111,
+    "city": "Floriston",
+    "county": "Nevada",
+    "pop": 83
+  },
+  {
+    "zip": 93628,
+    "city": "Hume",
+    "county": "Fresno",
+    "pop": 83
+  },
+  {
+    "zip": 95646,
+    "city": "Kirkwood",
+    "county": "Alpine",
+    "pop": 80
+  },
+  {
+    "zip": 96108,
+    "city": "Davis Creek",
+    "county": "Modoc",
+    "pop": 80
+  },
+  {
+    "zip": 95325,
+    "city": "Hornitos",
+    "county": "Mariposa",
+    "pop": 78
+  },
+  {
+    "zip": 95625,
+    "city": "Elmira",
+    "county": "Solano",
+    "pop": 74
+  },
+  {
+    "zip": 93287,
+    "city": "Woody",
+    "county": "Kern",
+    "pop": 72
+  },
+  {
+    "zip": 95930,
+    "city": "Clipper Mills",
+    "county": "Butte",
+    "pop": 72
+  },
+  {
+    "zip": 95559,
+    "city": "Phillipsville",
+    "county": "Humboldt",
+    "pop": 70
+  },
+  {
+    "zip": 95974,
+    "city": "Richvale",
+    "county": "Butte",
+    "pop": 65
+  },
+  {
+    "zip": 93220,
+    "city": "Edison",
+    "county": "Kern",
+    "pop": 65
+  },
+  {
+    "zip": 96119,
+    "city": "Madeline",
+    "county": "Lassen",
+    "pop": 59
+  },
+  {
+    "zip": 95679,
+    "city": "Rumsey",
+    "county": "Yolo",
+    "pop": 56
+  },
+  {
+    "zip": 95986,
+    "city": "Washington",
+    "county": "Nevada",
+    "pop": 56
+  },
+  {
+    "zip": 96085,
+    "city": "Scott Bar",
+    "county": "Siskiyou",
+    "pop": 54
+  },
+  {
+    "zip": 93262,
+    "city": "Sequoia National Park",
+    "county": "Tulare",
+    "pop": 53
+  },
+  {
+    "zip": 95587,
+    "city": "Piercy",
+    "county": "Mendocino",
+    "pop": 51
+  },
+  {
+    "zip": 95486,
+    "city": "Villa Grande",
+    "county": "Sonoma",
+    "pop": 51
+  },
+  {
+    "zip": 96132,
+    "city": "Termo",
+    "county": "Lassen",
+    "pop": 50
+  },
+  {
+    "zip": 96136,
+    "city": "Wendel",
+    "county": "Lassen",
+    "pop": 44
+  },
+  {
+    "zip": 95981,
+    "city": "Strawberry Valley",
+    "county": "Yuba",
+    "pop": 39
+  },
+  {
+    "zip": 94573,
+    "city": "Rutherford",
+    "county": "Napa",
+    "pop": 36
+  },
+  {
+    "zip": 96071,
+    "city": "Old Station",
+    "county": "Shasta",
+    "pop": 31
+  },
+  {
+    "zip": 95923,
+    "city": "Canyondam",
+    "county": "Plumas",
+    "pop": 28
+  },
+  {
+    "zip": 93558,
+    "city": "Red Mountain",
+    "county": "San Bernardino",
+    "pop": 26
+  },
+  {
+    "zip": 95944,
+    "city": "Goodyears Bar",
+    "county": "Sierra",
+    "pop": 26
+  },
+  {
+    "zip": 96123,
+    "city": "Ravendale",
+    "county": "Lassen",
+    "pop": 25
+  },
+  {
+    "zip": 94972,
+    "city": "Valley Ford",
+    "county": "Sonoma",
+    "pop": 25
+  },
+  {
+    "zip": 92304,
+    "city": "Amboy",
+    "county": "San Bernardino",
+    "pop": 23
+  },
+  {
+    "zip": 95724,
+    "city": "Norden",
+    "county": "Nevada",
+    "pop": 22
+  },
+  {
+    "zip": 93634,
+    "city": "Lakeshore",
+    "county": "Fresno",
+    "pop": 22
+  },
+  {
+    "zip": 91608,
+    "city": "Universal City",
+    "county": "Los Angeles",
+    "pop": 21
+  },
+  {
+    "zip": 95699,
+    "city": "Drytown",
+    "county": "Amador",
+    "pop": 21
+  },
+  {
+    "zip": 96061,
+    "city": "Mill Creek",
+    "county": "Tehama",
+    "pop": 21
+  },
+  {
+    "zip": 92384,
+    "city": "Shoshone",
+    "county": "Inyo",
+    "pop": 17
+  },
+  {
+    "zip": 94512,
+    "city": "Birds Landing",
+    "county": "Solano",
+    "pop": 16
+  },
+  {
+    "zip": 95735,
+    "city": "Twin Bridges",
+    "county": "El Dorado",
+    "pop": 12
+  },
+  {
+    "zip": 93530,
+    "city": "Keeler",
+    "county": "Inyo",
+    "pop": 10
+  },
+  {
+    "zip": 95680,
+    "city": "Ryde",
+    "county": "Sacramento",
+    "pop": 10
+  },
+  {
+    "zip": 95430,
+    "city": "Duncans Mills",
+    "county": "Sonoma",
+    "pop": 7
+  },
+  {
+    "zip": 92267,
+    "city": "Parker Dam",
+    "county": "San Bernardino",
+    "pop": 6
+  },
+  {
+    "zip": 92364,
+    "city": "Nipton",
+    "county": "San Bernardino",
+    "pop": 6
+  },
+  {
+    "zip": 95375,
+    "city": "Strawberry",
+    "county": "Tuolumne",
+    "pop": 5
+  },
+  {
+    "zip": 95250,
+    "city": "Sheep Ranch",
+    "county": "Calaveras",
+    "pop": 0
+  },
+  {
+    "zip": 95234,
+    "city": "Holt",
+    "county": "San Joaquin",
+    "pop": 0
+  },
+  {
+    "zip": 95226,
+    "city": "Campo Seco",
+    "county": "Calaveras",
+    "pop": 0
+  },
+  {
+    "zip": 96155,
+    "city": "South Lake Tahoe",
+    "county": "El Dorado",
+    "pop": 0
+  },
+  {
+    "zip": 95915,
+    "city": "Belden",
+    "county": "Plumas",
+    "pop": 0
+  },
+  {
+    "zip": 95721,
+    "city": "Echo Lake",
+    "county": "El Dorado",
+    "pop": 0
+  },
+  {
+    "zip": 95364,
+    "city": "Pinecrest",
+    "county": "Tuolumne",
+    "pop": 0
+  },
+  {
+    "zip": 95305,
+    "city": "Big Oak Flat",
+    "county": "Tuolumne",
+    "pop": 0
+  },
+  {
+    "zip": 94850,
+    "city": "Richmond",
+    "county": "Contra Costa",
+    "pop": 0
+  },
+  {
+    "zip": 90095,
+    "city": "Los Angeles",
+    "county": "Los Angeles",
+    "pop": 0
+  },
+  {
+    "zip": 90079,
+    "city": "Los Angeles",
+    "county": "Los Angeles",
+    "pop": 0
+  },
+  {
+    "zip": 90506,
+    "city": "Torrance",
+    "county": "Los Angeles",
+    "pop": 0
+  },
+  {
+    "zip": 91980,
+    "city": "Tecate",
+    "county": "San Diego",
+    "pop": 0
+  },
+  {
+    "zip": 91371,
+    "city": "Woodland Hills",
+    "county": "Los Angeles",
+    "pop": 0
+  },
+  {
+    "zip": 90831,
+    "city": "Long Beach",
+    "county": "Los Angeles",
+    "pop": 0
+  },
+  {
+    "zip": 90747,
+    "city": "Carson",
+    "county": "Los Angeles",
+    "pop": 0
+  },
+  {
+    "zip": 92338,
+    "city": "Ludlow",
+    "county": "San Bernardino",
+    "pop": 0
+  },
+  {
+    "zip": 92280,
+    "city": "Vidal",
+    "county": "San Bernardino",
+    "pop": 0
+  },
+  {
+    "zip": 92222,
+    "city": "Bard",
+    "county": "Imperial",
+    "pop": 0
+  },
+  {
+    "zip": 92132,
+    "city": "San Diego",
+    "county": "San Diego",
+    "pop": 0
+  },
+  {
+    "zip": 93943,
+    "city": "Monterey",
+    "county": "Monterey",
+    "pop": 0
+  },
+  {
+    "zip": 93410,
+    "city": "San Luis Obispo",
+    "county": "San Luis Obispo",
+    "pop": 0
+  },
+  {
+    "zip": 93633,
+    "city": "Kings Canyon National Pk",
+    "county": "Tulare",
+    "pop": 0
+  },
+  {
+    "zip": 93519,
+    "city": "Cantil",
+    "county": "Kern",
+    "pop": 0
+  },
+  {
+    "zip": 93064,
+    "city": "Brandeis",
+    "county": "Ventura",
+    "pop": 0
+  }
+]
